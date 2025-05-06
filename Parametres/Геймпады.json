@@ -1,0 +1,291 @@
+{
+  "id": 15692,
+  "name": "Геймпады",
+  "filters": [
+    {
+      "name": "Распродажа",
+      "key": "faction",
+      "maxselect": 255,
+      "items": [
+        {
+          "id": 202422,
+          "name": "ВЫГОДКА"
+        }
+      ],
+      "quickOrder": 0
+    },
+    {
+      "name": "Можно вернуть НДС",
+      "key": "fnds",
+      "type": "toggle",
+      "items": [
+        {
+          "id": 1,
+          "name": "Да"
+        }
+      ],
+      "quickOrder": 0
+    },
+    {
+      "name": "Цена",
+      "key": "priceU",
+      "minPriceU": 9000,
+      "maxPriceU": 18000000,
+      "quickOrder": 0
+    },
+    {
+      "name": "Срок доставки",
+      "key": "fdlvr",
+      "minTime": 4,
+      "maxTime": 741,
+      "quickOrder": 0
+    },
+    {
+      "name": "С рейтингом от 4,7",
+      "key": "frating",
+      "type": "toggle",
+      "items": [
+        {
+          "id": 1,
+          "name": "Да"
+        }
+      ],
+      "quickOrder": 0
+    },
+    {
+      "name": "Оригинальный товар",
+      "key": "foriginal",
+      "type": "toggle",
+      "items": [
+        {
+          "id": 1,
+          "name": "Да"
+        }
+      ],
+      "quickOrder": 0
+    },
+    {
+      "name": "Премиум-продавец",
+      "key": "fpremium",
+      "type": "toggle",
+      "items": [
+        {
+          "id": 1,
+          "name": "Да"
+        }
+      ],
+      "quickOrder": 0
+    },
+    {
+      "name": "Рубли за отзыв",
+      "key": "ffeedbackpoints",
+      "type": "toggle",
+      "items": [
+        {
+          "id": 1,
+          "name": "Да"
+        }
+      ],
+      "quickOrder": 0
+    },
+    {
+      "name": "Скидки WB Клуба",
+      "key": "fpremiumuser",
+      "type": "toggle",
+      "items": [
+        {
+          "id": 1,
+          "name": "Да"
+        }
+      ],
+      "quickOrder": 0
+    },
+    {
+      "name": "Цвет",
+      "key": "fcolor",
+      "maxselect": 20,
+      "items": [
+        {
+          "id": 16119260,
+          "name": "бежевый"
+        },
+        {
+          "id": 16777215,
+          "name": "белый"
+        },
+        {
+          "id": 11393254,
+          "name": "голубой"
+        },
+        {
+          "id": 16776960,
+          "name": "желтый"
+        },
+        {
+          "id": 32768,
+          "name": "зеленый"
+        },
+        {
+          "id": 10824234,
+          "name": "коричневый"
+        },
+        {
+          "id": 16711680,
+          "name": "красный"
+        },
+        {
+          "id": 16753920,
+          "name": "оранжевый"
+        },
+        {
+          "id": 16761035,
+          "name": "розовый"
+        },
+        {
+          "id": 8421504,
+          "name": "серый"
+        },
+        {
+          "id": 255,
+          "name": "синий"
+        },
+        {
+          "id": 15631086,
+          "name": "фиолетовый"
+        },
+        {
+          "id": 0,
+          "name": "черный"
+        }
+      ],
+      "quickOrder": 0
+    },
+    {
+      "name": "Интерфейс",
+      "key": "f13894",
+      "maxselect": 20,
+      "items": [
+        {
+          "id": 3675832,
+          "name": "AUX"
+        },
+        {
+          "id": 115797,
+          "name": "AV"
+        },
+        {
+          "id": 81052,
+          "name": "Bluetooth"
+        },
+        {
+          "id": 100264,
+          "name": "HDMI"
+        },
+        {
+          "id": 10993106,
+          "name": "PC"
+        },
+        {
+          "id": 356284,
+          "name": "RCA"
+        },
+        {
+          "id": 398896247,
+          "name": "RS-485"
+        },
+        {
+          "id": 418052,
+          "name": "USB"
+        },
+        {
+          "id": 544168,
+          "name": "USB-C"
+        },
+        {
+          "id": 154335,
+          "name": "Wi-Fi"
+        }
+      ],
+      "fullKey": "ff13894",
+      "quickOrder": 0
+    },
+    {
+      "name": "Совместимые платформы",
+      "key": "f85080",
+      "maxselect": 20,
+      "items": [
+        {
+          "id": 91202,
+          "name": "Nintendo Switch"
+        },
+        {
+          "id": 5014957,
+          "name": "Nintendo Wii"
+        },
+        {
+          "id": 626530,
+          "name": "PC"
+        },
+        {
+          "id": 5649150,
+          "name": "PlayStation 1"
+        },
+        {
+          "id": 447024,
+          "name": "PlayStation 2"
+        },
+        {
+          "id": 91198,
+          "name": "PlayStation 3"
+        },
+        {
+          "id": 91199,
+          "name": "PlayStation 4"
+        },
+        {
+          "id": 388495,
+          "name": "PlayStation 5"
+        },
+        {
+          "id": 637559032,
+          "name": "Steam Deck"
+        },
+        {
+          "id": 91204,
+          "name": "Xbox 360"
+        },
+        {
+          "id": 91203,
+          "name": "Xbox One"
+        },
+        {
+          "id": 511761,
+          "name": "Xbox Series S"
+        },
+        {
+          "id": 431494,
+          "name": "Xbox Series X"
+        }
+      ],
+      "fullKey": "ff85080",
+      "quickOrder": 0
+    },
+    {
+      "name": "Тип связи",
+      "key": "f14110",
+      "maxselect": 20,
+      "items": [
+        {
+          "id": 22249,
+          "name": "беспроводной"
+        },
+        {
+          "id": 22248,
+          "name": "проводной"
+        }
+      ],
+      "fullKey": "ff14110",
+      "quickOrder": 0
+    }
+  ]
+}

@@ -1,0 +1,6355 @@
+[
+  {
+    "id": 3001,
+    "name": "Амбушюры",
+    "filters": [
+      {
+        "name": "Распродажа",
+        "key": "faction",
+        "maxselect": 255,
+        "items": [
+          {
+            "id": 202422,
+            "name": "ВЫГОДКА"
+          }
+        ],
+        "quickOrder": 0
+      },
+      {
+        "name": "Можно вернуть НДС",
+        "key": "fnds",
+        "type": "toggle",
+        "items": [
+          {
+            "id": 1,
+            "name": "Да"
+          }
+        ],
+        "quickOrder": 0
+      },
+      {
+        "name": "Цена",
+        "key": "priceU",
+        "minPriceU": 3700,
+        "maxPriceU": 340200000,
+        "quickOrder": 0
+      },
+      {
+        "name": "Срок доставки",
+        "key": "fdlvr",
+        "minTime": 1,
+        "maxTime": 1474,
+        "quickOrder": 0
+      },
+      {
+        "name": "С рейтингом от 4,7",
+        "key": "frating",
+        "type": "toggle",
+        "items": [
+          {
+            "id": 1,
+            "name": "Да"
+          }
+        ],
+        "quickOrder": 0
+      },
+      {
+        "name": "Оригинальный товар",
+        "key": "foriginal",
+        "type": "toggle",
+        "items": [
+          {
+            "id": 1,
+            "name": "Да"
+          }
+        ],
+        "quickOrder": 0
+      },
+      {
+        "name": "Премиум-продавец",
+        "key": "fpremium",
+        "type": "toggle",
+        "items": [
+          {
+            "id": 1,
+            "name": "Да"
+          }
+        ],
+        "quickOrder": 0
+      },
+      {
+        "name": "Рубли за отзыв",
+        "key": "ffeedbackpoints",
+        "type": "toggle",
+        "items": [
+          {
+            "id": 1,
+            "name": "Да"
+          }
+        ],
+        "quickOrder": 0
+      },
+      {
+        "name": "Скидки WB Клуба",
+        "key": "fpremiumuser",
+        "type": "toggle",
+        "items": [
+          {
+            "id": 1,
+            "name": "Да"
+          }
+        ],
+        "quickOrder": 0
+      },
+      {
+        "name": "Цвет",
+        "key": "fcolor",
+        "maxselect": 20,
+        "items": [
+          {
+            "id": 16119260,
+            "name": "бежевый"
+          },
+          {
+            "id": 16777215,
+            "name": "белый"
+          },
+          {
+            "id": 11393254,
+            "name": "голубой"
+          },
+          {
+            "id": 16776960,
+            "name": "желтый"
+          },
+          {
+            "id": 32768,
+            "name": "зеленый"
+          },
+          {
+            "id": 10824234,
+            "name": "коричневый"
+          },
+          {
+            "id": 16711680,
+            "name": "красный"
+          },
+          {
+            "id": 16753920,
+            "name": "оранжевый"
+          },
+          {
+            "id": 16761035,
+            "name": "розовый"
+          },
+          {
+            "id": 8421504,
+            "name": "серый"
+          },
+          {
+            "id": 255,
+            "name": "синий"
+          },
+          {
+            "id": 15631086,
+            "name": "фиолетовый"
+          },
+          {
+            "id": 0,
+            "name": "черный"
+          }
+        ],
+        "quickOrder": 0
+      },
+      {
+        "name": "Совместимость",
+        "key": "f746",
+        "maxselect": 20,
+        "items": [
+          {
+            "id": 5679595,
+            "name": "Acer Iconia Tab A500/A501"
+          },
+          {
+            "id": 3994895,
+            "name": "Alcatel 1A 5002F"
+          },
+          {
+            "id": 94171,
+            "name": "Alcatel 4013"
+          },
+          {
+            "id": 26878070,
+            "name": "Alcatel One Touch Pop S7"
+          },
+          {
+            "id": 8983584,
+            "name": "AppIe Iphone 13"
+          },
+          {
+            "id": 3200341,
+            "name": "Apple iPad 1"
+          },
+          {
+            "id": 9663810,
+            "name": "Apple iPad 11''"
+          },
+          {
+            "id": 10564,
+            "name": "Apple iPad 2/3/4"
+          },
+          {
+            "id": 3698306,
+            "name": "Apple iPad 5"
+          },
+          {
+            "id": 3698307,
+            "name": "Apple iPad 6"
+          },
+          {
+            "id": 3191843,
+            "name": "Apple iPad 7"
+          },
+          {
+            "id": 3658649,
+            "name": "Apple iPad 8"
+          },
+          {
+            "id": 90029081,
+            "name": "Apple iPad 9"
+          },
+          {
+            "id": 10326,
+            "name": "Apple iPad Air"
+          },
+          {
+            "id": 91233,
+            "name": "Apple iPad Air 2"
+          },
+          {
+            "id": 2915578,
+            "name": "apple iPad Air 3"
+          },
+          {
+            "id": 3810266,
+            "name": "Apple iPad Air 4"
+          },
+          {
+            "id": 5977522,
+            "name": "Apple iPad mini 1/2/3/4/5"
+          },
+          {
+            "id": 6091696,
+            "name": "Apple iPad Pro 11\""
+          },
+          {
+            "id": 9564676,
+            "name": "Apple iPad Pro 12.9\""
+          },
+          {
+            "id": 4000669,
+            "name": "Apple iPad Pro 9.7\""
+          },
+          {
+            "id": 172523,
+            "name": "Apple iPhone 11"
+          },
+          {
+            "id": 170839,
+            "name": "Apple iPhone 11 Pro"
+          },
+          {
+            "id": 170840,
+            "name": "Apple iPhone 11 Pro Max"
+          },
+          {
+            "id": 387181,
+            "name": "Apple iPhone 12"
+          },
+          {
+            "id": 388297,
+            "name": "Apple iPhone 12 mini"
+          },
+          {
+            "id": 387182,
+            "name": "Apple iPhone 12 Pro"
+          },
+          {
+            "id": 387184,
+            "name": "Apple iPhone 12 Pro Max"
+          },
+          {
+            "id": 5638315,
+            "name": "Apple iPhone 13 mini"
+          },
+          {
+            "id": 5638529,
+            "name": "Apple iPhone 13 Pro"
+          },
+          {
+            "id": 5638645,
+            "name": "Apple iPhone 13 Pro Max"
+          },
+          {
+            "id": 488099,
+            "name": "Apple iPhone 14"
+          },
+          {
+            "id": 63321234,
+            "name": "Apple iPhone 14 Plus"
+          },
+          {
+            "id": 14517271,
+            "name": "Apple iPhone 14 Pro"
+          },
+          {
+            "id": 14517299,
+            "name": "Apple iPhone 14 Pro Max"
+          },
+          {
+            "id": 488100,
+            "name": "Apple iPhone 15"
+          },
+          {
+            "id": 758326296,
+            "name": "Apple iPhone 15 Plus"
+          },
+          {
+            "id": 758326324,
+            "name": "Apple iPhone 15 Pro"
+          },
+          {
+            "id": 758326334,
+            "name": "Apple iPhone 15 Pro Max"
+          },
+          {
+            "id": 488101,
+            "name": "Apple iPhone 16"
+          },
+          {
+            "id": 1172315328,
+            "name": "Apple iPhone 16 Plus"
+          },
+          {
+            "id": 1164411355,
+            "name": "Apple iPhone 16 Pro"
+          },
+          {
+            "id": 1172315327,
+            "name": "Apple iPhone 16 Pro Max"
+          },
+          {
+            "id": 5482612,
+            "name": "Apple iPhone 3G / 3Gs"
+          },
+          {
+            "id": 10322,
+            "name": "Apple iPhone 4/4s"
+          },
+          {
+            "id": 10323,
+            "name": "Apple iPhone 5/5s/SE"
+          },
+          {
+            "id": 175337,
+            "name": "Apple iPhone 6"
+          },
+          {
+            "id": 175334,
+            "name": "Apple iPhone 6 Plus"
+          },
+          {
+            "id": 175338,
+            "name": "Apple iPhone 6S"
+          },
+          {
+            "id": 65279,
+            "name": "Apple iPhone 7"
+          },
+          {
+            "id": 65280,
+            "name": "Apple iPhone 7 Plus"
+          },
+          {
+            "id": 95957,
+            "name": "Apple iPhone 8"
+          },
+          {
+            "id": 95956,
+            "name": "Apple iPhone 8 Plus"
+          },
+          {
+            "id": 11589977,
+            "name": "Apple iPhone SE (2022)"
+          },
+          {
+            "id": 94936,
+            "name": "Apple iPhone X"
+          },
+          {
+            "id": 120102,
+            "name": "Apple iPhone Xr"
+          },
+          {
+            "id": 120103,
+            "name": "Apple iPhone Xs"
+          },
+          {
+            "id": 120104,
+            "name": "Apple iPhone Xs Max"
+          },
+          {
+            "id": 9476142,
+            "name": "Apple iPod"
+          },
+          {
+            "id": 4016376,
+            "name": "Apple iPod Touch"
+          },
+          {
+            "id": 242251,
+            "name": "Apple iPod touch 2"
+          },
+          {
+            "id": 242252,
+            "name": "Apple iPod touch 3"
+          },
+          {
+            "id": 91236,
+            "name": "Apple iPod touch 5"
+          },
+          {
+            "id": 11383025,
+            "name": "APPLE iPod Touch 7"
+          },
+          {
+            "id": 10099627,
+            "name": "Apple MacBook 13"
+          },
+          {
+            "id": 61375201,
+            "name": "Apple MacBook MA255"
+          },
+          {
+            "id": 89404,
+            "name": "Apple Watch"
+          },
+          {
+            "id": 384631,
+            "name": "Apple Watch 4"
+          },
+          {
+            "id": 3703575,
+            "name": "ASUS Zenfone 3"
+          },
+          {
+            "id": 3703532,
+            "name": "ASUS Zenfone 3 MAX"
+          },
+          {
+            "id": 3703638,
+            "name": "ASUS Zenfone 4 MAX"
+          },
+          {
+            "id": 72232,
+            "name": "Google Pixel"
+          },
+          {
+            "id": 5614397,
+            "name": "Google Pixel 6 Pro"
+          },
+          {
+            "id": 13536467,
+            "name": "Google Pixel 7"
+          },
+          {
+            "id": 548806,
+            "name": "Honor 10"
+          },
+          {
+            "id": 411468,
+            "name": "honor 10 lite"
+          },
+          {
+            "id": 411469,
+            "name": "Honor 10i"
+          },
+          {
+            "id": 403450,
+            "name": "Honor 10X Lite"
+          },
+          {
+            "id": 411490,
+            "name": "Honor 20"
+          },
+          {
+            "id": 448415,
+            "name": "Honor 20 lite"
+          },
+          {
+            "id": 439916,
+            "name": "Honor 20 Pro"
+          },
+          {
+            "id": 448416,
+            "name": "Honor 20e"
+          },
+          {
+            "id": 28736032,
+            "name": "Honor 20s"
+          },
+          {
+            "id": 3954780,
+            "name": "Honor 3"
+          },
+          {
+            "id": 255648,
+            "name": "Honor 30"
+          },
+          {
+            "id": 268682,
+            "name": "Honor 30 Pro Plus"
+          },
+          {
+            "id": 391592,
+            "name": "Honor 30i"
+          },
+          {
+            "id": 439918,
+            "name": "Honor 30s"
+          },
+          {
+            "id": 3922266,
+            "name": "Honor 4C Pro"
+          },
+          {
+            "id": 5009217,
+            "name": "Honor 50"
+          },
+          {
+            "id": 7965221,
+            "name": "Honor 50 Lite"
+          },
+          {
+            "id": 3492595,
+            "name": "HONOR 5a"
+          },
+          {
+            "id": 594015,
+            "name": "Honor 6X"
+          },
+          {
+            "id": 908417,
+            "name": "Honor 7"
+          },
+          {
+            "id": 14517293,
+            "name": "Honor 70 Pro"
+          },
+          {
+            "id": 434529,
+            "name": "Honor 7A"
+          },
+          {
+            "id": 166935,
+            "name": "Honor 7A Pro"
+          },
+          {
+            "id": 878634,
+            "name": "Honor 7x"
+          },
+          {
+            "id": 5990157,
+            "name": "Honor 7С"
+          },
+          {
+            "id": 572013,
+            "name": "Honor 8C"
+          },
+          {
+            "id": 572021,
+            "name": "Honor 9"
+          },
+          {
+            "id": 437829,
+            "name": "Honor 9 Lite"
+          },
+          {
+            "id": 439919,
+            "name": "Honor 9A"
+          },
+          {
+            "id": 459979,
+            "name": "Honor 9c"
+          },
+          {
+            "id": 440763,
+            "name": "HONOR 9S"
+          },
+          {
+            "id": 172079,
+            "name": "Honor 9X"
+          },
+          {
+            "id": 594018,
+            "name": "Honor Note 10"
+          },
+          {
+            "id": 1414593,
+            "name": "Honor V8"
+          },
+          {
+            "id": 3620510,
+            "name": "Honor View 20"
+          },
+          {
+            "id": 3677222,
+            "name": "honor x10"
+          },
+          {
+            "id": 9546749,
+            "name": "HONOR X3"
+          },
+          {
+            "id": 9640451,
+            "name": "Honor X30 Max"
+          },
+          {
+            "id": 11457356,
+            "name": "HONOR X9"
+          },
+          {
+            "id": 586493320,
+            "name": "Honor X9A"
+          },
+          {
+            "id": 111324,
+            "name": "HTC 10"
+          },
+          {
+            "id": 10393518,
+            "name": "HTC Bolt"
+          },
+          {
+            "id": 90760932,
+            "name": "HTC Butterfly J"
+          },
+          {
+            "id": 119801,
+            "name": "HTC Desire 10 Pro"
+          },
+          {
+            "id": 111322,
+            "name": "HTC Desire 12"
+          },
+          {
+            "id": 111321,
+            "name": "HTC Desire 12 Plus"
+          },
+          {
+            "id": 412327,
+            "name": "HTC Desire 20 Pro"
+          },
+          {
+            "id": 67119,
+            "name": "HTC Desire 628"
+          },
+          {
+            "id": 89661,
+            "name": "HTC Desire 828"
+          },
+          {
+            "id": 94696,
+            "name": "HTC One A9s"
+          },
+          {
+            "id": 145238,
+            "name": "HTC One X10"
+          },
+          {
+            "id": 80968,
+            "name": "HTC One X9"
+          },
+          {
+            "id": 10375966,
+            "name": "HTC Wildfire E Plus"
+          },
+          {
+            "id": 208223578,
+            "name": "Huawei  Nova 3i"
+          },
+          {
+            "id": 90574114,
+            "name": "Huawei Enjoy 7"
+          },
+          {
+            "id": 590161,
+            "name": "Huawei Enjoy 7 Plus"
+          },
+          {
+            "id": 2888233,
+            "name": "Huawei Enjoy Max"
+          },
+          {
+            "id": 97680,
+            "name": "Huawei Mate 10"
+          },
+          {
+            "id": 125663,
+            "name": "Huawei Mate 20"
+          },
+          {
+            "id": 123672,
+            "name": "Huawei Mate 20 Lite"
+          },
+          {
+            "id": 125667,
+            "name": "Huawei Mate 20 Pro"
+          },
+          {
+            "id": 140261,
+            "name": "Huawei Mate 20 X"
+          },
+          {
+            "id": 94568,
+            "name": "Huawei Mate 9"
+          },
+          {
+            "id": 373569,
+            "name": "Huawei Mate 9 lite"
+          },
+          {
+            "id": 388267,
+            "name": "Huawei Mate 9 Pro"
+          },
+          {
+            "id": 78345,
+            "name": "Huawei Nexus 6P"
+          },
+          {
+            "id": 67486,
+            "name": "Huawei Nova"
+          },
+          {
+            "id": 94570,
+            "name": "Huawei Nova 2"
+          },
+          {
+            "id": 96064,
+            "name": "Huawei Nova 2 Plus"
+          },
+          {
+            "id": 145254,
+            "name": "Huawei Nova 2S"
+          },
+          {
+            "id": 188387,
+            "name": "Huawei Nova 5T"
+          },
+          {
+            "id": 6685934,
+            "name": "Huawei Nova 9"
+          },
+          {
+            "id": 10574801,
+            "name": "Huawei Nova 9 SE"
+          },
+          {
+            "id": 3007192,
+            "name": "Huawei Nova Lite 2017"
+          },
+          {
+            "id": 61316453,
+            "name": "Huawei Nova Y90"
+          },
+          {
+            "id": 98182,
+            "name": "Huawei P Smart"
+          },
+          {
+            "id": 154061,
+            "name": "Huawei P Smart Z"
+          },
+          {
+            "id": 90895,
+            "name": "Huawei P10"
+          },
+          {
+            "id": 88099,
+            "name": "Huawei P10 Lite"
+          },
+          {
+            "id": 99074,
+            "name": "Huawei P20"
+          },
+          {
+            "id": 142240,
+            "name": "Huawei P30"
+          },
+          {
+            "id": 145257,
+            "name": "Huawei P30 lite"
+          },
+          {
+            "id": 145256,
+            "name": "Huawei P30 Pro"
+          },
+          {
+            "id": 189166,
+            "name": "Huawei P40"
+          },
+          {
+            "id": 233181,
+            "name": "Huawei P40 Lite"
+          },
+          {
+            "id": 5387327,
+            "name": "Huawei P50 Pro"
+          },
+          {
+            "id": 10493806,
+            "name": "Huawei P60 Pro"
+          },
+          {
+            "id": 67107,
+            "name": "Huawei P9"
+          },
+          {
+            "id": 87840,
+            "name": "Huawei P9 Lite"
+          },
+          {
+            "id": 65868,
+            "name": "Huawei P9 Plus"
+          },
+          {
+            "id": 4714836,
+            "name": "Huawei Y3"
+          },
+          {
+            "id": 3165747,
+            "name": "Huawei Y5ii"
+          },
+          {
+            "id": 97683,
+            "name": "Huawei Y7"
+          },
+          {
+            "id": 3903068,
+            "name": "INFINIX Hot 10 Lite"
+          },
+          {
+            "id": 14233995,
+            "name": "Infinix Hot 12"
+          },
+          {
+            "id": 14234002,
+            "name": "Infinix Note 12"
+          },
+          {
+            "id": 14856278,
+            "name": "Infinix Note 12 Vip"
+          },
+          {
+            "id": 11591118,
+            "name": "Infinix Smart"
+          },
+          {
+            "id": 3687103,
+            "name": "LENOVO A2860"
+          },
+          {
+            "id": 90499062,
+            "name": "Lenovo IdeaPhone A630"
+          },
+          {
+            "id": 3687601,
+            "name": "LENOVO K5 Note"
+          },
+          {
+            "id": 3687709,
+            "name": "LENOVO K5 Pro"
+          },
+          {
+            "id": 80918,
+            "name": "Lenovo K6 Power"
+          },
+          {
+            "id": 3649887,
+            "name": "Lenovo Tab P11"
+          },
+          {
+            "id": 90573911,
+            "name": "Lenovo Vibe B+"
+          },
+          {
+            "id": 610716,
+            "name": "Lenovo Vibe K5"
+          },
+          {
+            "id": 78376,
+            "name": "Lenovo Vibe S1"
+          },
+          {
+            "id": 4113379,
+            "name": "LG G3"
+          },
+          {
+            "id": 78379,
+            "name": "LG G4"
+          },
+          {
+            "id": 32714,
+            "name": "LG G5"
+          },
+          {
+            "id": 88080,
+            "name": "LG G6"
+          },
+          {
+            "id": 3678053,
+            "name": "LG G8"
+          },
+          {
+            "id": 26894,
+            "name": "LG K10"
+          },
+          {
+            "id": 65842,
+            "name": "LG K3"
+          },
+          {
+            "id": 29818,
+            "name": "LG K8"
+          },
+          {
+            "id": 65246,
+            "name": "LG V20"
+          },
+          {
+            "id": 72224,
+            "name": "Meizu M3E"
+          },
+          {
+            "id": 94586,
+            "name": "Meizu M5c"
+          },
+          {
+            "id": 95068,
+            "name": "Meizu Pro 7"
+          },
+          {
+            "id": 5276200,
+            "name": "Microsoft Xbox"
+          },
+          {
+            "id": 164301,
+            "name": "Microsoft Xbox 360"
+          },
+          {
+            "id": 587242809,
+            "name": "Microsoft XBox One"
+          },
+          {
+            "id": 590485385,
+            "name": "Microsoft Xbox Series S"
+          },
+          {
+            "id": 85656999,
+            "name": "Microsoft Xbox Series X"
+          },
+          {
+            "id": 143813,
+            "name": "Nintendo Switch"
+          },
+          {
+            "id": 3923088,
+            "name": "Nintendo Wii"
+          },
+          {
+            "id": 5655412,
+            "name": "oneplus 5 pro"
+          },
+          {
+            "id": 28577765,
+            "name": "OnePlus 6T"
+          },
+          {
+            "id": 145679,
+            "name": "Oneplus 7"
+          },
+          {
+            "id": 189092,
+            "name": "OnePlus 7T"
+          },
+          {
+            "id": 3768890,
+            "name": "oppo A54"
+          },
+          {
+            "id": 235929,
+            "name": "Oppo A57"
+          },
+          {
+            "id": 267885,
+            "name": "Oppo a72"
+          },
+          {
+            "id": 3682074,
+            "name": "Oppo A94"
+          },
+          {
+            "id": 11592217,
+            "name": "Oppo A96"
+          },
+          {
+            "id": 100033,
+            "name": "OPPO F5"
+          },
+          {
+            "id": 113676,
+            "name": "OPPO F7"
+          },
+          {
+            "id": 235936,
+            "name": "OPPO R15"
+          },
+          {
+            "id": 395903,
+            "name": "OPPO R9s"
+          },
+          {
+            "id": 225866,
+            "name": "Oppo Reno 3"
+          },
+          {
+            "id": 14838049,
+            "name": "Playstation VITA"
+          },
+          {
+            "id": 131690808,
+            "name": "Realme 10"
+          },
+          {
+            "id": 354123,
+            "name": "Realme 6"
+          },
+          {
+            "id": 403453,
+            "name": "Realme 7"
+          },
+          {
+            "id": 403454,
+            "name": "Realme 7 Pro"
+          },
+          {
+            "id": 3874492,
+            "name": "Realme 8"
+          },
+          {
+            "id": 10553536,
+            "name": "Realme 9 Pro Plus"
+          },
+          {
+            "id": 593495,
+            "name": "realme buds air"
+          },
+          {
+            "id": 385775,
+            "name": "Realme C11"
+          },
+          {
+            "id": 386716,
+            "name": "Realme C15"
+          },
+          {
+            "id": 3866285,
+            "name": "Realme C25"
+          },
+          {
+            "id": 7774251,
+            "name": "Realme C25Y"
+          },
+          {
+            "id": 87597247,
+            "name": "Realme C33"
+          },
+          {
+            "id": 5150902,
+            "name": "Realme GT Master Edition"
+          },
+          {
+            "id": 202506,
+            "name": "Realme XT"
+          },
+          {
+            "id": 213553,
+            "name": "Samsung Galaxy A01"
+          },
+          {
+            "id": 583263,
+            "name": "Samsung Galaxy A02"
+          },
+          {
+            "id": 5218208,
+            "name": "Samsung Galaxy A03s"
+          },
+          {
+            "id": 145408,
+            "name": "Samsung Galaxy A10"
+          },
+          {
+            "id": 176571,
+            "name": "Samsung Galaxy A10s"
+          },
+          {
+            "id": 246369,
+            "name": "Samsung Galaxy A11"
+          },
+          {
+            "id": 412328,
+            "name": "Samsung Galaxy A12"
+          },
+          {
+            "id": 8223054,
+            "name": "Samsung Galaxy A13"
+          },
+          {
+            "id": 111788063,
+            "name": "Samsung Galaxy A14"
+          },
+          {
+            "id": 145118,
+            "name": "Samsung Galaxy A20"
+          },
+          {
+            "id": 231278,
+            "name": "Samsung Galaxy A21"
+          },
+          {
+            "id": 10574788,
+            "name": "Samsung Galaxy A23"
+          },
+          {
+            "id": 83725704,
+            "name": "Samsung Galaxy A24"
+          },
+          {
+            "id": 2198677,
+            "name": "Samsung Galaxy A3"
+          },
+          {
+            "id": 139602,
+            "name": "Samsung Galaxy A30"
+          },
+          {
+            "id": 234029,
+            "name": "Samsung Galaxy A31"
+          },
+          {
+            "id": 597259,
+            "name": "Samsung Galaxy A32"
+          },
+          {
+            "id": 145119,
+            "name": "Samsung Galaxy A40"
+          },
+          {
+            "id": 182685,
+            "name": "Samsung Galaxy A40S"
+          },
+          {
+            "id": 252351,
+            "name": "Samsung Galaxy A41"
+          },
+          {
+            "id": 162777,
+            "name": "Samsung galaxy A5"
+          },
+          {
+            "id": 139603,
+            "name": "Samsung Galaxy A50"
+          },
+          {
+            "id": 179279,
+            "name": "Samsung Galaxy A50s"
+          },
+          {
+            "id": 200701,
+            "name": "Samsung Galaxy A51"
+          },
+          {
+            "id": 443010,
+            "name": "Samsung Galaxy A52"
+          },
+          {
+            "id": 10346980,
+            "name": "Samsung Galaxy A54"
+          },
+          {
+            "id": 611862159,
+            "name": "Samsung Galaxy A55"
+          },
+          {
+            "id": 547485,
+            "name": "Samsung Galaxy A6 Plus"
+          },
+          {
+            "id": 403588,
+            "name": "Samsung Galaxy A7"
+          },
+          {
+            "id": 209138,
+            "name": "Samsung Galaxy A71"
+          },
+          {
+            "id": 10641502,
+            "name": "Samsung Galaxy A73"
+          },
+          {
+            "id": 90252,
+            "name": "Samsung Galaxy A9"
+          },
+          {
+            "id": 162569,
+            "name": "Samsung Galaxy Note 10"
+          },
+          {
+            "id": 365431,
+            "name": "Samsung Galaxy Note 20 Ultra"
+          },
+          {
+            "id": 94904,
+            "name": "Samsung Galaxy Note 8"
+          },
+          {
+            "id": 3997634,
+            "name": "Samsung Galaxy S"
+          },
+          {
+            "id": 137053,
+            "name": "Samsung Galaxy S10"
+          },
+          {
+            "id": 137055,
+            "name": "Samsung Galaxy S10 Plus"
+          },
+          {
+            "id": 222616,
+            "name": "Samsung Galaxy S20"
+          },
+          {
+            "id": 222617,
+            "name": "Samsung Galaxy S20 Ultra"
+          },
+          {
+            "id": 493240,
+            "name": "Samsung Galaxy S21 Plus"
+          },
+          {
+            "id": 486432,
+            "name": "Samsung Galaxy S21 Ultra"
+          },
+          {
+            "id": 117167336,
+            "name": "Samsung Galaxy S23"
+          },
+          {
+            "id": 114964102,
+            "name": "Samsung Galaxy S23 Ultra"
+          },
+          {
+            "id": 615463304,
+            "name": "Samsung Galaxy S24"
+          },
+          {
+            "id": 834775968,
+            "name": "Samsung Galaxy S24 Ultra"
+          },
+          {
+            "id": 1342848000,
+            "name": "Samsung Galaxy S25 Ultra"
+          },
+          {
+            "id": 26888,
+            "name": "Samsung Galaxy S7"
+          },
+          {
+            "id": 26887,
+            "name": "Samsung Galaxy S7 Edge"
+          },
+          {
+            "id": 88097,
+            "name": "Samsung Galaxy S8"
+          },
+          {
+            "id": 88098,
+            "name": "Samsung Galaxy S8 Plus"
+          },
+          {
+            "id": 99056,
+            "name": "Samsung Galaxy S9"
+          },
+          {
+            "id": 99076,
+            "name": "Samsung Galaxy S9 Plus"
+          },
+          {
+            "id": 606276110,
+            "name": "Samsung Galaxy Tab 7.7"
+          },
+          {
+            "id": 735062145,
+            "name": "Samsung Galaxy Z Fold 5"
+          },
+          {
+            "id": 3950252,
+            "name": "samsung m12"
+          },
+          {
+            "id": 3206341,
+            "name": "Samsung S7"
+          },
+          {
+            "id": 9244084,
+            "name": "SONY MDR-EX15"
+          },
+          {
+            "id": 14754730,
+            "name": "sony playstation"
+          },
+          {
+            "id": 164302,
+            "name": "Sony PlayStation 3"
+          },
+          {
+            "id": 177833,
+            "name": "Sony PlayStation 4"
+          },
+          {
+            "id": 396541,
+            "name": "Sony PlayStation 5"
+          },
+          {
+            "id": 387745,
+            "name": "Sony PSP"
+          },
+          {
+            "id": 147765,
+            "name": "Sony Xperia 1"
+          },
+          {
+            "id": 111800,
+            "name": "Sony Xperia XA2 Ultra"
+          },
+          {
+            "id": 14927030,
+            "name": "Tecno Camon 19 Pro"
+          },
+          {
+            "id": 14927009,
+            "name": "Tecno Spark 9 Pro"
+          },
+          {
+            "id": 3378751,
+            "name": "VIVO iQOO Neo 3"
+          },
+          {
+            "id": 158953,
+            "name": "Vivo V15 Pro"
+          },
+          {
+            "id": 398479,
+            "name": "VIVO X20 Plus"
+          },
+          {
+            "id": 536598,
+            "name": "Vivo X50 Pro"
+          },
+          {
+            "id": 3447135,
+            "name": "VIVO X9S Plus"
+          },
+          {
+            "id": 625698,
+            "name": "Xiaomi 10 Lite"
+          },
+          {
+            "id": 625735,
+            "name": "Xiaomi 11"
+          },
+          {
+            "id": 6029737,
+            "name": "Xiaomi 11T"
+          },
+          {
+            "id": 10369678,
+            "name": "xiaomi 12"
+          },
+          {
+            "id": 10475257,
+            "name": "xiaomi 12 pro"
+          },
+          {
+            "id": 107886007,
+            "name": "Xiaomi 12T"
+          },
+          {
+            "id": 560823061,
+            "name": "Xiaomi 13 Pro"
+          },
+          {
+            "id": 3693979,
+            "name": "Xiaomi 9T"
+          },
+          {
+            "id": 233184,
+            "name": "Xiaomi Mi 10"
+          },
+          {
+            "id": 267782,
+            "name": "Xiaomi Mi 10 Lite"
+          },
+          {
+            "id": 254312,
+            "name": "Xiaomi Mi 10T"
+          },
+          {
+            "id": 254313,
+            "name": "Xiaomi Mi 10T Pro"
+          },
+          {
+            "id": 3695620,
+            "name": "Xiaomi Mi 11 Ultra"
+          },
+          {
+            "id": 85316,
+            "name": "Xiaomi Mi 5c"
+          },
+          {
+            "id": 235621,
+            "name": "Xiaomi Mi 5S Plus"
+          },
+          {
+            "id": 158954,
+            "name": "Xiaomi Mi 9T"
+          },
+          {
+            "id": 121263,
+            "name": "Xiaomi Mi A2 Lite"
+          },
+          {
+            "id": 200699,
+            "name": "Xiaomi Mi Note 10"
+          },
+          {
+            "id": 200700,
+            "name": "Xiaomi Mi Note 10 Pro"
+          },
+          {
+            "id": 6028621,
+            "name": "Xiaomi Mi Pad 5"
+          },
+          {
+            "id": 3207309,
+            "name": "Xiaomi Poco F3"
+          },
+          {
+            "id": 9583912,
+            "name": "xiaomi poco m4 pro"
+          },
+          {
+            "id": 766153639,
+            "name": "Xiaomi Poco M6 Pro"
+          },
+          {
+            "id": 389699,
+            "name": "Xiaomi Poco X3"
+          },
+          {
+            "id": 3199961,
+            "name": "Xiaomi Poco X3 Pro"
+          },
+          {
+            "id": 26374532,
+            "name": "Xiaomi Redmi 10X"
+          },
+          {
+            "id": 606928714,
+            "name": "Xiaomi Redmi 12"
+          },
+          {
+            "id": 585068765,
+            "name": "Xiaomi Redmi 12C"
+          },
+          {
+            "id": 5541744,
+            "name": "Xiaomi Redmi 6X"
+          },
+          {
+            "id": 189091,
+            "name": "Xiaomi Redmi 8A"
+          },
+          {
+            "id": 356130,
+            "name": "Xiaomi Redmi 9"
+          },
+          {
+            "id": 401903,
+            "name": "Xiaomi Redmi 9 Pro"
+          },
+          {
+            "id": 358597,
+            "name": "Xiaomi Redmi 9A"
+          },
+          {
+            "id": 361732,
+            "name": "Xiaomi Redmi 9C"
+          },
+          {
+            "id": 619417,
+            "name": "Xiaomi Redmi 9T"
+          },
+          {
+            "id": 9303401,
+            "name": "Xiaomi Redmi AirDots"
+          },
+          {
+            "id": 9302519,
+            "name": "Xiaomi Redmi AirDots 3"
+          },
+          {
+            "id": 211771,
+            "name": "Xiaomi Redmi K30"
+          },
+          {
+            "id": 85945026,
+            "name": "Xiaomi Redmi K50 Ultra"
+          },
+          {
+            "id": 536564,
+            "name": "Xiaomi Redmi Note 10 Pro"
+          },
+          {
+            "id": 3360103,
+            "name": "Xiaomi Redmi Note 10S"
+          },
+          {
+            "id": 9457782,
+            "name": "xiaomi redmi note 11"
+          },
+          {
+            "id": 9216431,
+            "name": "Xiaomi Redmi Note 11 Pro"
+          },
+          {
+            "id": 9216432,
+            "name": "Xiaomi Redmi Note 11 Pro Plus"
+          },
+          {
+            "id": 10536936,
+            "name": "Xiaomi Redmi Note 11S"
+          },
+          {
+            "id": 218086335,
+            "name": "Xiaomi Redmi Note 12"
+          },
+          {
+            "id": 221455136,
+            "name": "Xiaomi Redmi Note 12 Pro"
+          },
+          {
+            "id": 67105,
+            "name": "Xiaomi Redmi Pro"
+          },
+          {
+            "id": 199939,
+            "name": "Xiaomi Redmi Y1"
+          },
+          {
+            "id": 85303,
+            "name": "ZTE Blade V8"
+          }
+        ],
+        "fullKey": "ff746",
+        "quickOrder": 0
+      },
+      {
+        "name": "Количество предметов в упаковке",
+        "key": "f179792",
+        "maxselect": 20,
+        "items": [
+          {
+            "id": 179794,
+            "name": "1 шт."
+          },
+          {
+            "id": 179867,
+            "name": "2 шт."
+          },
+          {
+            "id": 179896,
+            "name": "3 шт."
+          },
+          {
+            "id": 179913,
+            "name": "4 шт."
+          },
+          {
+            "id": 179929,
+            "name": "5 шт."
+          },
+          {
+            "id": 179943,
+            "name": "6 шт."
+          },
+          {
+            "id": 179955,
+            "name": "7 шт."
+          },
+          {
+            "id": 179969,
+            "name": "8 шт."
+          },
+          {
+            "id": 179981,
+            "name": "9 шт."
+          },
+          {
+            "id": 179795,
+            "name": "10 шт."
+          },
+          {
+            "id": 179816,
+            "name": "12 шт."
+          },
+          {
+            "id": 179850,
+            "name": "15 шт."
+          },
+          {
+            "id": 179857,
+            "name": "18 шт."
+          },
+          {
+            "id": 179868,
+            "name": "20 шт."
+          }
+        ],
+        "fullKey": "ff179792",
+        "quickOrder": 0
+      }
+    ]
+  },
+  {
+    "id": 518,
+    "name": "Гарнитура",
+    "filters": [
+      {
+        "name": "Распродажа",
+        "key": "faction",
+        "maxselect": 255,
+        "items": [
+          {
+            "id": 202422,
+            "name": "ВЫГОДКА"
+          }
+        ],
+        "quickOrder": 0
+      },
+      {
+        "name": "Можно вернуть НДС",
+        "key": "fnds",
+        "type": "toggle",
+        "items": [
+          {
+            "id": 1,
+            "name": "Да"
+          }
+        ],
+        "quickOrder": 0
+      },
+      {
+        "name": "Цена",
+        "key": "priceU",
+        "minPriceU": 3700,
+        "maxPriceU": 340200000,
+        "quickOrder": 0
+      },
+      {
+        "name": "Срок доставки",
+        "key": "fdlvr",
+        "minTime": 1,
+        "maxTime": 1474,
+        "quickOrder": 0
+      },
+      {
+        "name": "С рейтингом от 4,7",
+        "key": "frating",
+        "type": "toggle",
+        "items": [
+          {
+            "id": 1,
+            "name": "Да"
+          }
+        ],
+        "quickOrder": 0
+      },
+      {
+        "name": "Оригинальный товар",
+        "key": "foriginal",
+        "type": "toggle",
+        "items": [
+          {
+            "id": 1,
+            "name": "Да"
+          }
+        ],
+        "quickOrder": 0
+      },
+      {
+        "name": "Премиум-продавец",
+        "key": "fpremium",
+        "type": "toggle",
+        "items": [
+          {
+            "id": 1,
+            "name": "Да"
+          }
+        ],
+        "quickOrder": 0
+      },
+      {
+        "name": "Рубли за отзыв",
+        "key": "ffeedbackpoints",
+        "type": "toggle",
+        "items": [
+          {
+            "id": 1,
+            "name": "Да"
+          }
+        ],
+        "quickOrder": 0
+      },
+      {
+        "name": "Скидки WB Клуба",
+        "key": "fpremiumuser",
+        "type": "toggle",
+        "items": [
+          {
+            "id": 1,
+            "name": "Да"
+          }
+        ],
+        "quickOrder": 0
+      },
+      {
+        "name": "Цвет",
+        "key": "fcolor",
+        "maxselect": 20,
+        "items": [
+          {
+            "id": 16119260,
+            "name": "бежевый"
+          },
+          {
+            "id": 16777215,
+            "name": "белый"
+          },
+          {
+            "id": 11393254,
+            "name": "голубой"
+          },
+          {
+            "id": 16776960,
+            "name": "желтый"
+          },
+          {
+            "id": 32768,
+            "name": "зеленый"
+          },
+          {
+            "id": 10824234,
+            "name": "коричневый"
+          },
+          {
+            "id": 16711680,
+            "name": "красный"
+          },
+          {
+            "id": 16753920,
+            "name": "оранжевый"
+          },
+          {
+            "id": 16761035,
+            "name": "розовый"
+          },
+          {
+            "id": 8421504,
+            "name": "серый"
+          },
+          {
+            "id": 255,
+            "name": "синий"
+          },
+          {
+            "id": 15631086,
+            "name": "фиолетовый"
+          },
+          {
+            "id": 0,
+            "name": "черный"
+          }
+        ],
+        "quickOrder": 0
+      },
+      {
+        "name": "Вид наушников",
+        "key": "f9514",
+        "maxselect": 20,
+        "items": [
+          {
+            "id": 25617170,
+            "name": "вкладыши"
+          },
+          {
+            "id": 418183,
+            "name": "внутриканальные"
+          },
+          {
+            "id": 26125458,
+            "name": "накладные"
+          },
+          {
+            "id": 443596610,
+            "name": "охватывающие"
+          },
+          {
+            "id": 3661783,
+            "name": "с костной проводимостью"
+          }
+        ],
+        "fullKey": "ff9514",
+        "quickOrder": 0
+      },
+      {
+        "name": "Назначение гарнитуры",
+        "key": "f172023",
+        "maxselect": 20,
+        "items": [
+          {
+            "id": 172027,
+            "name": "для игровых консолей"
+          },
+          {
+            "id": 172026,
+            "name": "для компьютеров"
+          },
+          {
+            "id": 101743,
+            "name": "для офиса и контакт центра"
+          },
+          {
+            "id": 104344007,
+            "name": "для раций"
+          },
+          {
+            "id": 172024,
+            "name": "для смартфонов"
+          }
+        ],
+        "fullKey": "ff172023",
+        "quickOrder": 0
+      },
+      {
+        "name": "Беспроводные интерфейсы",
+        "key": "f10466",
+        "maxselect": 20,
+        "items": [
+          {
+            "id": 7970798,
+            "name": "AirPlay 2"
+          },
+          {
+            "id": 18635,
+            "name": "Bluetooth"
+          },
+          {
+            "id": 3928889,
+            "name": "IRDA"
+          },
+          {
+            "id": 7179437,
+            "name": "MagSafe"
+          },
+          {
+            "id": 18636,
+            "name": "NFC"
+          },
+          {
+            "id": 18646,
+            "name": "Wi-Fi"
+          },
+          {
+            "id": 154709,
+            "name": "ZigBee"
+          },
+          {
+            "id": 23958,
+            "name": "радиоканал"
+          }
+        ],
+        "fullKey": "ff10466",
+        "quickOrder": 0
+      },
+      {
+        "name": "Интерфейс",
+        "key": "f13894",
+        "maxselect": 20,
+        "items": [
+          {
+            "id": 3675832,
+            "name": "AUX"
+          },
+          {
+            "id": 81052,
+            "name": "Bluetooth"
+          },
+          {
+            "id": 3409973,
+            "name": "DisplayPort"
+          },
+          {
+            "id": 22247,
+            "name": "Ethernet"
+          },
+          {
+            "id": 14651594,
+            "name": "HDD"
+          },
+          {
+            "id": 100264,
+            "name": "HDMI"
+          },
+          {
+            "id": 95982,
+            "name": "Lightning"
+          },
+          {
+            "id": 356284,
+            "name": "RCA"
+          },
+          {
+            "id": 3880517,
+            "name": "RJ45"
+          },
+          {
+            "id": 6673179,
+            "name": "RJ9"
+          },
+          {
+            "id": 514627,
+            "name": "SATA"
+          },
+          {
+            "id": 115559,
+            "name": "SD"
+          },
+          {
+            "id": 3685947,
+            "name": "TF"
+          },
+          {
+            "id": 418052,
+            "name": "USB"
+          },
+          {
+            "id": 550055,
+            "name": "USB-A"
+          },
+          {
+            "id": 544168,
+            "name": "USB-C"
+          },
+          {
+            "id": 356214,
+            "name": "VGA"
+          },
+          {
+            "id": 154335,
+            "name": "Wi-Fi"
+          }
+        ],
+        "fullKey": "ff13894",
+        "quickOrder": 0
+      },
+      {
+        "name": "Длина кабеля (м)",
+        "key": "f85079",
+        "maxselect": 20,
+        "items": [
+          {
+            "id": 52699654,
+            "name": "0.01 м"
+          },
+          {
+            "id": 52731411,
+            "name": "0.02 м"
+          },
+          {
+            "id": 243571,
+            "name": "0.03 м"
+          },
+          {
+            "id": 239708,
+            "name": "0.04 м"
+          },
+          {
+            "id": 196975,
+            "name": "0.05 м"
+          },
+          {
+            "id": 385476,
+            "name": "0.08 м"
+          },
+          {
+            "id": 196000,
+            "name": "0.09 м"
+          },
+          {
+            "id": 147605,
+            "name": "0.1 м"
+          },
+          {
+            "id": 52929912,
+            "name": "0.11 м"
+          },
+          {
+            "id": 219517,
+            "name": "0.12 м"
+          },
+          {
+            "id": 52716094,
+            "name": "0.14 м"
+          },
+          {
+            "id": 158182,
+            "name": "0.15 м"
+          },
+          {
+            "id": 196295,
+            "name": "0.17 м"
+          },
+          {
+            "id": 5099829,
+            "name": "0.18 м"
+          },
+          {
+            "id": 52949877,
+            "name": "0.19 м"
+          },
+          {
+            "id": 162103,
+            "name": "0.2 м"
+          },
+          {
+            "id": 361526,
+            "name": "0.21 м"
+          },
+          {
+            "id": 84080388,
+            "name": "0.22 м"
+          },
+          {
+            "id": 358794,
+            "name": "0.23 м"
+          },
+          {
+            "id": 361527,
+            "name": "0.24 м"
+          },
+          {
+            "id": 154116,
+            "name": "0.25 м"
+          },
+          {
+            "id": 186232,
+            "name": "0.26 м"
+          },
+          {
+            "id": 239748,
+            "name": "0.27 м"
+          },
+          {
+            "id": 75963235,
+            "name": "0.28 м"
+          },
+          {
+            "id": 357151,
+            "name": "0.29 м"
+          },
+          {
+            "id": 140587,
+            "name": "0.3 м"
+          },
+          {
+            "id": 35597258,
+            "name": "0.31 м"
+          },
+          {
+            "id": 96420833,
+            "name": "0.32 м"
+          },
+          {
+            "id": 162847,
+            "name": "0.35 м"
+          },
+          {
+            "id": 361528,
+            "name": "0.39 м"
+          },
+          {
+            "id": 140588,
+            "name": "0.4 м"
+          },
+          {
+            "id": 361531,
+            "name": "0.45 м"
+          },
+          {
+            "id": 74768077,
+            "name": "0.47 м"
+          },
+          {
+            "id": 140589,
+            "name": "0.5 м"
+          },
+          {
+            "id": 361532,
+            "name": "0.56 м"
+          },
+          {
+            "id": 140590,
+            "name": "0.6 м"
+          },
+          {
+            "id": 157691,
+            "name": "0.65 м"
+          },
+          {
+            "id": 140591,
+            "name": "0.7 м"
+          },
+          {
+            "id": 140593,
+            "name": "0.8 м"
+          },
+          {
+            "id": 5025560,
+            "name": "0.85 м"
+          },
+          {
+            "id": 140594,
+            "name": "0.9 м"
+          },
+          {
+            "id": 247331,
+            "name": "0.92 м"
+          },
+          {
+            "id": 84371425,
+            "name": "0.93 м"
+          },
+          {
+            "id": 53428883,
+            "name": "0.95 м"
+          },
+          {
+            "id": 247333,
+            "name": "0.96 м"
+          },
+          {
+            "id": 84490199,
+            "name": "0.97 м"
+          },
+          {
+            "id": 53469569,
+            "name": "0.98 м"
+          },
+          {
+            "id": 140595,
+            "name": "1 м"
+          },
+          {
+            "id": 42823662,
+            "name": "1.01 м"
+          },
+          {
+            "id": 52892173,
+            "name": "1.02 м"
+          },
+          {
+            "id": 52956948,
+            "name": "1.03 м"
+          },
+          {
+            "id": 3968691,
+            "name": "1.05 м"
+          },
+          {
+            "id": 52857254,
+            "name": "1.06 м"
+          },
+          {
+            "id": 140596,
+            "name": "1.07 м"
+          },
+          {
+            "id": 140597,
+            "name": "1.1 м"
+          },
+          {
+            "id": 677912786,
+            "name": "1.11 м"
+          },
+          {
+            "id": 364316,
+            "name": "1.12 м"
+          },
+          {
+            "id": 87694688,
+            "name": "1.13 м"
+          },
+          {
+            "id": 146279,
+            "name": "1.15 м"
+          },
+          {
+            "id": 85949140,
+            "name": "1.16 м"
+          },
+          {
+            "id": 140598,
+            "name": "1.2 м"
+          },
+          {
+            "id": 34708650,
+            "name": "1.22 м"
+          },
+          {
+            "id": 140599,
+            "name": "1.25 м"
+          },
+          {
+            "id": 140600,
+            "name": "1.3 м"
+          },
+          {
+            "id": 249642,
+            "name": "1.35 м"
+          },
+          {
+            "id": 140602,
+            "name": "1.4 м"
+          },
+          {
+            "id": 70459506,
+            "name": "1.45 м"
+          },
+          {
+            "id": 140603,
+            "name": "1.5 м"
+          },
+          {
+            "id": 140604,
+            "name": "1.6 м"
+          },
+          {
+            "id": 372792005,
+            "name": "1.65 м"
+          },
+          {
+            "id": 140605,
+            "name": "1.7 м"
+          },
+          {
+            "id": 140606,
+            "name": "1.75 м"
+          },
+          {
+            "id": 140607,
+            "name": "1.8 м"
+          },
+          {
+            "id": 9525532,
+            "name": "1.83 м"
+          },
+          {
+            "id": 140608,
+            "name": "1.9 м"
+          },
+          {
+            "id": 140609,
+            "name": "2 м"
+          },
+          {
+            "id": 140610,
+            "name": "2.1 м"
+          },
+          {
+            "id": 777741604,
+            "name": "2.15 м"
+          },
+          {
+            "id": 140611,
+            "name": "2.2 м"
+          },
+          {
+            "id": 140612,
+            "name": "2.3 м"
+          },
+          {
+            "id": 105520158,
+            "name": "2.35 м"
+          },
+          {
+            "id": 140613,
+            "name": "2.4 м"
+          },
+          {
+            "id": 140614,
+            "name": "2.5 м"
+          },
+          {
+            "id": 4272637,
+            "name": "2.8 м"
+          },
+          {
+            "id": 53258319,
+            "name": "2.9 м"
+          },
+          {
+            "id": 140616,
+            "name": "3 м"
+          },
+          {
+            "id": 170598,
+            "name": "3.2 м"
+          },
+          {
+            "id": 177069,
+            "name": "3.5 м"
+          },
+          {
+            "id": 140617,
+            "name": "4 м"
+          },
+          {
+            "id": 140618,
+            "name": "5 м"
+          },
+          {
+            "id": 140619,
+            "name": "6 м"
+          },
+          {
+            "id": 148815,
+            "name": "7 м"
+          },
+          {
+            "id": 140620,
+            "name": "8 м"
+          },
+          {
+            "id": 148816,
+            "name": "9 м"
+          },
+          {
+            "id": 148617,
+            "name": "10 м"
+          },
+          {
+            "id": 363874,
+            "name": "12 м"
+          },
+          {
+            "id": 387727,
+            "name": "14 м"
+          },
+          {
+            "id": 175121,
+            "name": "15 м"
+          },
+          {
+            "id": 393101,
+            "name": "18 м"
+          },
+          {
+            "id": 140615,
+            "name": "20 м"
+          },
+          {
+            "id": 226045,
+            "name": "25 м"
+          },
+          {
+            "id": 165357,
+            "name": "30 м"
+          },
+          {
+            "id": 180787,
+            "name": "50 м"
+          },
+          {
+            "id": 148773,
+            "name": "100 м"
+          },
+          {
+            "id": 178045806,
+            "name": "110 м"
+          },
+          {
+            "id": 53435402,
+            "name": "120 м"
+          },
+          {
+            "id": 599794459,
+            "name": "130 м"
+          },
+          {
+            "id": 246154,
+            "name": "150 м"
+          },
+          {
+            "id": 246155,
+            "name": "180 м"
+          },
+          {
+            "id": 246156,
+            "name": "200 м"
+          },
+          {
+            "id": 13590991,
+            "name": "210 м"
+          },
+          {
+            "id": 63308348,
+            "name": "230 м"
+          },
+          {
+            "id": 609112201,
+            "name": "250 м"
+          },
+          {
+            "id": 246157,
+            "name": "300 м"
+          }
+        ],
+        "fullKey": "ff85079",
+        "quickOrder": 0
+      },
+      {
+        "name": "Тип соединения",
+        "key": "f26369",
+        "maxselect": 20,
+        "items": [
+          {
+            "id": 26003082,
+            "name": "беспроводное"
+          },
+          {
+            "id": 446892,
+            "name": "проводное"
+          }
+        ],
+        "fullKey": "ff26369",
+        "quickOrder": 0
+      }
+    ]
+  },
+  {
+    "id": 6817,
+    "name": "Держатель для наушников",
+    "filters": [
+      {
+        "name": "Распродажа",
+        "key": "faction",
+        "maxselect": 255,
+        "items": [
+          {
+            "id": 202422,
+            "name": "ВЫГОДКА"
+          }
+        ],
+        "quickOrder": 0
+      },
+      {
+        "name": "Можно вернуть НДС",
+        "key": "fnds",
+        "type": "toggle",
+        "items": [
+          {
+            "id": 1,
+            "name": "Да"
+          }
+        ],
+        "quickOrder": 0
+      },
+      {
+        "name": "Цена",
+        "key": "priceU",
+        "minPriceU": 3700,
+        "maxPriceU": 340200000,
+        "quickOrder": 0
+      },
+      {
+        "name": "Срок доставки",
+        "key": "fdlvr",
+        "minTime": 1,
+        "maxTime": 1474,
+        "quickOrder": 0
+      },
+      {
+        "name": "С рейтингом от 4,7",
+        "key": "frating",
+        "type": "toggle",
+        "items": [
+          {
+            "id": 1,
+            "name": "Да"
+          }
+        ],
+        "quickOrder": 0
+      },
+      {
+        "name": "Оригинальный товар",
+        "key": "foriginal",
+        "type": "toggle",
+        "items": [
+          {
+            "id": 1,
+            "name": "Да"
+          }
+        ],
+        "quickOrder": 0
+      },
+      {
+        "name": "Премиум-продавец",
+        "key": "fpremium",
+        "type": "toggle",
+        "items": [
+          {
+            "id": 1,
+            "name": "Да"
+          }
+        ],
+        "quickOrder": 0
+      },
+      {
+        "name": "Рубли за отзыв",
+        "key": "ffeedbackpoints",
+        "type": "toggle",
+        "items": [
+          {
+            "id": 1,
+            "name": "Да"
+          }
+        ],
+        "quickOrder": 0
+      },
+      {
+        "name": "Скидки WB Клуба",
+        "key": "fpremiumuser",
+        "type": "toggle",
+        "items": [
+          {
+            "id": 1,
+            "name": "Да"
+          }
+        ],
+        "quickOrder": 0
+      },
+      {
+        "name": "Цвет",
+        "key": "fcolor",
+        "maxselect": 20,
+        "items": [
+          {
+            "id": 16119260,
+            "name": "бежевый"
+          },
+          {
+            "id": 16777215,
+            "name": "белый"
+          },
+          {
+            "id": 11393254,
+            "name": "голубой"
+          },
+          {
+            "id": 16776960,
+            "name": "желтый"
+          },
+          {
+            "id": 32768,
+            "name": "зеленый"
+          },
+          {
+            "id": 10824234,
+            "name": "коричневый"
+          },
+          {
+            "id": 16711680,
+            "name": "красный"
+          },
+          {
+            "id": 16753920,
+            "name": "оранжевый"
+          },
+          {
+            "id": 16761035,
+            "name": "розовый"
+          },
+          {
+            "id": 8421504,
+            "name": "серый"
+          },
+          {
+            "id": 255,
+            "name": "синий"
+          },
+          {
+            "id": 15631086,
+            "name": "фиолетовый"
+          },
+          {
+            "id": 0,
+            "name": "черный"
+          }
+        ],
+        "quickOrder": 0
+      },
+      {
+        "name": "Материал изделия",
+        "key": "f17596",
+        "maxselect": 20,
+        "items": [
+          {
+            "id": 233480,
+            "name": "abs-пластик"
+          },
+          {
+            "id": 223958,
+            "name": "EVA"
+          },
+          {
+            "id": 188475,
+            "name": "акрил"
+          },
+          {
+            "id": 26746,
+            "name": "алюминий"
+          },
+          {
+            "id": 386935,
+            "name": "арамид"
+          },
+          {
+            "id": 174810,
+            "name": "бумага"
+          },
+          {
+            "id": 354601,
+            "name": "велюр"
+          },
+          {
+            "id": 26666498,
+            "name": "гель"
+          },
+          {
+            "id": 25227,
+            "name": "дерево"
+          },
+          {
+            "id": 458940,
+            "name": "золото"
+          },
+          {
+            "id": 234299,
+            "name": "искусственная замша"
+          },
+          {
+            "id": 227201,
+            "name": "искусственная кожа"
+          },
+          {
+            "id": 233481,
+            "name": "искусственный велюр"
+          },
+          {
+            "id": 230527,
+            "name": "искусственный мех"
+          },
+          {
+            "id": 213819,
+            "name": "карбон"
+          },
+          {
+            "id": 25846,
+            "name": "картон"
+          },
+          {
+            "id": 27495,
+            "name": "каучук"
+          },
+          {
+            "id": 234587,
+            "name": "лен"
+          },
+          {
+            "id": 385813,
+            "name": "медицинский силикон"
+          },
+          {
+            "id": 25230,
+            "name": "металл"
+          },
+          {
+            "id": 233704,
+            "name": "микрофибра"
+          },
+          {
+            "id": 26967,
+            "name": "натуральная кожа"
+          },
+          {
+            "id": 158263,
+            "name": "нейлон"
+          },
+          {
+            "id": 25288,
+            "name": "нержавеющая сталь"
+          },
+          {
+            "id": 407726,
+            "name": "оксфорд"
+          },
+          {
+            "id": 29072,
+            "name": "ПВХ"
+          },
+          {
+            "id": 224184,
+            "name": "пенополиуретан"
+          },
+          {
+            "id": 234874,
+            "name": "пищевой силикон"
+          },
+          {
+            "id": 25231,
+            "name": "пластик"
+          },
+          {
+            "id": 372842,
+            "name": "плюш"
+          },
+          {
+            "id": 168919,
+            "name": "поликарбонат"
+          },
+          {
+            "id": 142415,
+            "name": "полимер"
+          },
+          {
+            "id": 26239,
+            "name": "полипропилен"
+          },
+          {
+            "id": 224188,
+            "name": "полиуретан"
+          },
+          {
+            "id": 26747,
+            "name": "полиэстер"
+          },
+          {
+            "id": 233495,
+            "name": "поролон"
+          },
+          {
+            "id": 11683731,
+            "name": "ПЭТГ"
+          },
+          {
+            "id": 195600,
+            "name": "резина"
+          },
+          {
+            "id": 28010833,
+            "name": "силикагель"
+          },
+          {
+            "id": 25232,
+            "name": "силикон"
+          },
+          {
+            "id": 440036,
+            "name": "смола"
+          },
+          {
+            "id": 25234,
+            "name": "текстиль"
+          },
+          {
+            "id": 26249,
+            "name": "термопластик"
+          },
+          {
+            "id": 25845,
+            "name": "ткань"
+          },
+          {
+            "id": 460368,
+            "name": "ТПУ"
+          },
+          {
+            "id": 31431,
+            "name": "хлопок"
+          },
+          {
+            "id": 228499,
+            "name": "экокожа"
+          }
+        ],
+        "fullKey": "ff17596",
+        "quickOrder": 0
+      }
+    ]
+  },
+  {
+    "id": 1407,
+    "name": "Док-станция",
+    "filters": [
+      {
+        "name": "Распродажа",
+        "key": "faction",
+        "maxselect": 255,
+        "items": [
+          {
+            "id": 202422,
+            "name": "ВЫГОДКА"
+          }
+        ],
+        "quickOrder": 0
+      },
+      {
+        "name": "Можно вернуть НДС",
+        "key": "fnds",
+        "type": "toggle",
+        "items": [
+          {
+            "id": 1,
+            "name": "Да"
+          }
+        ],
+        "quickOrder": 0
+      },
+      {
+        "name": "Цена",
+        "key": "priceU",
+        "minPriceU": 3700,
+        "maxPriceU": 340200000,
+        "quickOrder": 0
+      },
+      {
+        "name": "Срок доставки",
+        "key": "fdlvr",
+        "minTime": 1,
+        "maxTime": 1474,
+        "quickOrder": 0
+      },
+      {
+        "name": "С рейтингом от 4,7",
+        "key": "frating",
+        "type": "toggle",
+        "items": [
+          {
+            "id": 1,
+            "name": "Да"
+          }
+        ],
+        "quickOrder": 0
+      },
+      {
+        "name": "Оригинальный товар",
+        "key": "foriginal",
+        "type": "toggle",
+        "items": [
+          {
+            "id": 1,
+            "name": "Да"
+          }
+        ],
+        "quickOrder": 0
+      },
+      {
+        "name": "Премиум-продавец",
+        "key": "fpremium",
+        "type": "toggle",
+        "items": [
+          {
+            "id": 1,
+            "name": "Да"
+          }
+        ],
+        "quickOrder": 0
+      },
+      {
+        "name": "Рубли за отзыв",
+        "key": "ffeedbackpoints",
+        "type": "toggle",
+        "items": [
+          {
+            "id": 1,
+            "name": "Да"
+          }
+        ],
+        "quickOrder": 0
+      },
+      {
+        "name": "Скидки WB Клуба",
+        "key": "fpremiumuser",
+        "type": "toggle",
+        "items": [
+          {
+            "id": 1,
+            "name": "Да"
+          }
+        ],
+        "quickOrder": 0
+      },
+      {
+        "name": "Цвет",
+        "key": "fcolor",
+        "maxselect": 20,
+        "items": [
+          {
+            "id": 16119260,
+            "name": "бежевый"
+          },
+          {
+            "id": 16777215,
+            "name": "белый"
+          },
+          {
+            "id": 11393254,
+            "name": "голубой"
+          },
+          {
+            "id": 16776960,
+            "name": "желтый"
+          },
+          {
+            "id": 32768,
+            "name": "зеленый"
+          },
+          {
+            "id": 10824234,
+            "name": "коричневый"
+          },
+          {
+            "id": 16711680,
+            "name": "красный"
+          },
+          {
+            "id": 16753920,
+            "name": "оранжевый"
+          },
+          {
+            "id": 16761035,
+            "name": "розовый"
+          },
+          {
+            "id": 8421504,
+            "name": "серый"
+          },
+          {
+            "id": 255,
+            "name": "синий"
+          },
+          {
+            "id": 15631086,
+            "name": "фиолетовый"
+          },
+          {
+            "id": 0,
+            "name": "черный"
+          }
+        ],
+        "quickOrder": 0
+      },
+      {
+        "name": "Интерфейс",
+        "key": "f13894",
+        "maxselect": 20,
+        "items": [
+          {
+            "id": 3675832,
+            "name": "AUX"
+          },
+          {
+            "id": 81052,
+            "name": "Bluetooth"
+          },
+          {
+            "id": 3409973,
+            "name": "DisplayPort"
+          },
+          {
+            "id": 22247,
+            "name": "Ethernet"
+          },
+          {
+            "id": 14651594,
+            "name": "HDD"
+          },
+          {
+            "id": 100264,
+            "name": "HDMI"
+          },
+          {
+            "id": 95982,
+            "name": "Lightning"
+          },
+          {
+            "id": 356284,
+            "name": "RCA"
+          },
+          {
+            "id": 3880517,
+            "name": "RJ45"
+          },
+          {
+            "id": 6673179,
+            "name": "RJ9"
+          },
+          {
+            "id": 514627,
+            "name": "SATA"
+          },
+          {
+            "id": 115559,
+            "name": "SD"
+          },
+          {
+            "id": 3685947,
+            "name": "TF"
+          },
+          {
+            "id": 418052,
+            "name": "USB"
+          },
+          {
+            "id": 550055,
+            "name": "USB-A"
+          },
+          {
+            "id": 544168,
+            "name": "USB-C"
+          },
+          {
+            "id": 356214,
+            "name": "VGA"
+          },
+          {
+            "id": 154335,
+            "name": "Wi-Fi"
+          }
+        ],
+        "fullKey": "ff13894",
+        "quickOrder": 0
+      },
+      {
+        "name": "Совместимость",
+        "key": "f746",
+        "maxselect": 20,
+        "items": [
+          {
+            "id": 5679595,
+            "name": "Acer Iconia Tab A500/A501"
+          },
+          {
+            "id": 3994895,
+            "name": "Alcatel 1A 5002F"
+          },
+          {
+            "id": 94171,
+            "name": "Alcatel 4013"
+          },
+          {
+            "id": 26878070,
+            "name": "Alcatel One Touch Pop S7"
+          },
+          {
+            "id": 8983584,
+            "name": "AppIe Iphone 13"
+          },
+          {
+            "id": 3200341,
+            "name": "Apple iPad 1"
+          },
+          {
+            "id": 9663810,
+            "name": "Apple iPad 11''"
+          },
+          {
+            "id": 10564,
+            "name": "Apple iPad 2/3/4"
+          },
+          {
+            "id": 3698306,
+            "name": "Apple iPad 5"
+          },
+          {
+            "id": 3698307,
+            "name": "Apple iPad 6"
+          },
+          {
+            "id": 3191843,
+            "name": "Apple iPad 7"
+          },
+          {
+            "id": 3658649,
+            "name": "Apple iPad 8"
+          },
+          {
+            "id": 90029081,
+            "name": "Apple iPad 9"
+          },
+          {
+            "id": 10326,
+            "name": "Apple iPad Air"
+          },
+          {
+            "id": 91233,
+            "name": "Apple iPad Air 2"
+          },
+          {
+            "id": 2915578,
+            "name": "apple iPad Air 3"
+          },
+          {
+            "id": 3810266,
+            "name": "Apple iPad Air 4"
+          },
+          {
+            "id": 5977522,
+            "name": "Apple iPad mini 1/2/3/4/5"
+          },
+          {
+            "id": 6091696,
+            "name": "Apple iPad Pro 11\""
+          },
+          {
+            "id": 9564676,
+            "name": "Apple iPad Pro 12.9\""
+          },
+          {
+            "id": 4000669,
+            "name": "Apple iPad Pro 9.7\""
+          },
+          {
+            "id": 172523,
+            "name": "Apple iPhone 11"
+          },
+          {
+            "id": 170839,
+            "name": "Apple iPhone 11 Pro"
+          },
+          {
+            "id": 170840,
+            "name": "Apple iPhone 11 Pro Max"
+          },
+          {
+            "id": 387181,
+            "name": "Apple iPhone 12"
+          },
+          {
+            "id": 388297,
+            "name": "Apple iPhone 12 mini"
+          },
+          {
+            "id": 387182,
+            "name": "Apple iPhone 12 Pro"
+          },
+          {
+            "id": 387184,
+            "name": "Apple iPhone 12 Pro Max"
+          },
+          {
+            "id": 5638315,
+            "name": "Apple iPhone 13 mini"
+          },
+          {
+            "id": 5638529,
+            "name": "Apple iPhone 13 Pro"
+          },
+          {
+            "id": 5638645,
+            "name": "Apple iPhone 13 Pro Max"
+          },
+          {
+            "id": 488099,
+            "name": "Apple iPhone 14"
+          },
+          {
+            "id": 63321234,
+            "name": "Apple iPhone 14 Plus"
+          },
+          {
+            "id": 14517271,
+            "name": "Apple iPhone 14 Pro"
+          },
+          {
+            "id": 14517299,
+            "name": "Apple iPhone 14 Pro Max"
+          },
+          {
+            "id": 488100,
+            "name": "Apple iPhone 15"
+          },
+          {
+            "id": 758326296,
+            "name": "Apple iPhone 15 Plus"
+          },
+          {
+            "id": 758326324,
+            "name": "Apple iPhone 15 Pro"
+          },
+          {
+            "id": 758326334,
+            "name": "Apple iPhone 15 Pro Max"
+          },
+          {
+            "id": 488101,
+            "name": "Apple iPhone 16"
+          },
+          {
+            "id": 1172315328,
+            "name": "Apple iPhone 16 Plus"
+          },
+          {
+            "id": 1164411355,
+            "name": "Apple iPhone 16 Pro"
+          },
+          {
+            "id": 1172315327,
+            "name": "Apple iPhone 16 Pro Max"
+          },
+          {
+            "id": 5482612,
+            "name": "Apple iPhone 3G / 3Gs"
+          },
+          {
+            "id": 10322,
+            "name": "Apple iPhone 4/4s"
+          },
+          {
+            "id": 10323,
+            "name": "Apple iPhone 5/5s/SE"
+          },
+          {
+            "id": 175337,
+            "name": "Apple iPhone 6"
+          },
+          {
+            "id": 175334,
+            "name": "Apple iPhone 6 Plus"
+          },
+          {
+            "id": 175338,
+            "name": "Apple iPhone 6S"
+          },
+          {
+            "id": 65279,
+            "name": "Apple iPhone 7"
+          },
+          {
+            "id": 65280,
+            "name": "Apple iPhone 7 Plus"
+          },
+          {
+            "id": 95957,
+            "name": "Apple iPhone 8"
+          },
+          {
+            "id": 95956,
+            "name": "Apple iPhone 8 Plus"
+          },
+          {
+            "id": 11589977,
+            "name": "Apple iPhone SE (2022)"
+          },
+          {
+            "id": 94936,
+            "name": "Apple iPhone X"
+          },
+          {
+            "id": 120102,
+            "name": "Apple iPhone Xr"
+          },
+          {
+            "id": 120103,
+            "name": "Apple iPhone Xs"
+          },
+          {
+            "id": 120104,
+            "name": "Apple iPhone Xs Max"
+          },
+          {
+            "id": 9476142,
+            "name": "Apple iPod"
+          },
+          {
+            "id": 4016376,
+            "name": "Apple iPod Touch"
+          },
+          {
+            "id": 242251,
+            "name": "Apple iPod touch 2"
+          },
+          {
+            "id": 242252,
+            "name": "Apple iPod touch 3"
+          },
+          {
+            "id": 91236,
+            "name": "Apple iPod touch 5"
+          },
+          {
+            "id": 11383025,
+            "name": "APPLE iPod Touch 7"
+          },
+          {
+            "id": 10099627,
+            "name": "Apple MacBook 13"
+          },
+          {
+            "id": 61375201,
+            "name": "Apple MacBook MA255"
+          },
+          {
+            "id": 89404,
+            "name": "Apple Watch"
+          },
+          {
+            "id": 384631,
+            "name": "Apple Watch 4"
+          },
+          {
+            "id": 3703575,
+            "name": "ASUS Zenfone 3"
+          },
+          {
+            "id": 3703532,
+            "name": "ASUS Zenfone 3 MAX"
+          },
+          {
+            "id": 3703638,
+            "name": "ASUS Zenfone 4 MAX"
+          },
+          {
+            "id": 72232,
+            "name": "Google Pixel"
+          },
+          {
+            "id": 5614397,
+            "name": "Google Pixel 6 Pro"
+          },
+          {
+            "id": 13536467,
+            "name": "Google Pixel 7"
+          },
+          {
+            "id": 548806,
+            "name": "Honor 10"
+          },
+          {
+            "id": 411468,
+            "name": "honor 10 lite"
+          },
+          {
+            "id": 411469,
+            "name": "Honor 10i"
+          },
+          {
+            "id": 403450,
+            "name": "Honor 10X Lite"
+          },
+          {
+            "id": 411490,
+            "name": "Honor 20"
+          },
+          {
+            "id": 448415,
+            "name": "Honor 20 lite"
+          },
+          {
+            "id": 439916,
+            "name": "Honor 20 Pro"
+          },
+          {
+            "id": 448416,
+            "name": "Honor 20e"
+          },
+          {
+            "id": 28736032,
+            "name": "Honor 20s"
+          },
+          {
+            "id": 3954780,
+            "name": "Honor 3"
+          },
+          {
+            "id": 255648,
+            "name": "Honor 30"
+          },
+          {
+            "id": 268682,
+            "name": "Honor 30 Pro Plus"
+          },
+          {
+            "id": 391592,
+            "name": "Honor 30i"
+          },
+          {
+            "id": 439918,
+            "name": "Honor 30s"
+          },
+          {
+            "id": 3922266,
+            "name": "Honor 4C Pro"
+          },
+          {
+            "id": 5009217,
+            "name": "Honor 50"
+          },
+          {
+            "id": 7965221,
+            "name": "Honor 50 Lite"
+          },
+          {
+            "id": 3492595,
+            "name": "HONOR 5a"
+          },
+          {
+            "id": 594015,
+            "name": "Honor 6X"
+          },
+          {
+            "id": 908417,
+            "name": "Honor 7"
+          },
+          {
+            "id": 14517293,
+            "name": "Honor 70 Pro"
+          },
+          {
+            "id": 434529,
+            "name": "Honor 7A"
+          },
+          {
+            "id": 166935,
+            "name": "Honor 7A Pro"
+          },
+          {
+            "id": 878634,
+            "name": "Honor 7x"
+          },
+          {
+            "id": 5990157,
+            "name": "Honor 7С"
+          },
+          {
+            "id": 572013,
+            "name": "Honor 8C"
+          },
+          {
+            "id": 572021,
+            "name": "Honor 9"
+          },
+          {
+            "id": 437829,
+            "name": "Honor 9 Lite"
+          },
+          {
+            "id": 439919,
+            "name": "Honor 9A"
+          },
+          {
+            "id": 459979,
+            "name": "Honor 9c"
+          },
+          {
+            "id": 440763,
+            "name": "HONOR 9S"
+          },
+          {
+            "id": 172079,
+            "name": "Honor 9X"
+          },
+          {
+            "id": 594018,
+            "name": "Honor Note 10"
+          },
+          {
+            "id": 1414593,
+            "name": "Honor V8"
+          },
+          {
+            "id": 3620510,
+            "name": "Honor View 20"
+          },
+          {
+            "id": 3677222,
+            "name": "honor x10"
+          },
+          {
+            "id": 9546749,
+            "name": "HONOR X3"
+          },
+          {
+            "id": 9640451,
+            "name": "Honor X30 Max"
+          },
+          {
+            "id": 11457356,
+            "name": "HONOR X9"
+          },
+          {
+            "id": 586493320,
+            "name": "Honor X9A"
+          },
+          {
+            "id": 111324,
+            "name": "HTC 10"
+          },
+          {
+            "id": 10393518,
+            "name": "HTC Bolt"
+          },
+          {
+            "id": 90760932,
+            "name": "HTC Butterfly J"
+          },
+          {
+            "id": 119801,
+            "name": "HTC Desire 10 Pro"
+          },
+          {
+            "id": 111322,
+            "name": "HTC Desire 12"
+          },
+          {
+            "id": 111321,
+            "name": "HTC Desire 12 Plus"
+          },
+          {
+            "id": 412327,
+            "name": "HTC Desire 20 Pro"
+          },
+          {
+            "id": 67119,
+            "name": "HTC Desire 628"
+          },
+          {
+            "id": 89661,
+            "name": "HTC Desire 828"
+          },
+          {
+            "id": 94696,
+            "name": "HTC One A9s"
+          },
+          {
+            "id": 145238,
+            "name": "HTC One X10"
+          },
+          {
+            "id": 80968,
+            "name": "HTC One X9"
+          },
+          {
+            "id": 10375966,
+            "name": "HTC Wildfire E Plus"
+          },
+          {
+            "id": 208223578,
+            "name": "Huawei  Nova 3i"
+          },
+          {
+            "id": 90574114,
+            "name": "Huawei Enjoy 7"
+          },
+          {
+            "id": 590161,
+            "name": "Huawei Enjoy 7 Plus"
+          },
+          {
+            "id": 2888233,
+            "name": "Huawei Enjoy Max"
+          },
+          {
+            "id": 97680,
+            "name": "Huawei Mate 10"
+          },
+          {
+            "id": 125663,
+            "name": "Huawei Mate 20"
+          },
+          {
+            "id": 123672,
+            "name": "Huawei Mate 20 Lite"
+          },
+          {
+            "id": 125667,
+            "name": "Huawei Mate 20 Pro"
+          },
+          {
+            "id": 140261,
+            "name": "Huawei Mate 20 X"
+          },
+          {
+            "id": 94568,
+            "name": "Huawei Mate 9"
+          },
+          {
+            "id": 373569,
+            "name": "Huawei Mate 9 lite"
+          },
+          {
+            "id": 388267,
+            "name": "Huawei Mate 9 Pro"
+          },
+          {
+            "id": 78345,
+            "name": "Huawei Nexus 6P"
+          },
+          {
+            "id": 67486,
+            "name": "Huawei Nova"
+          },
+          {
+            "id": 94570,
+            "name": "Huawei Nova 2"
+          },
+          {
+            "id": 96064,
+            "name": "Huawei Nova 2 Plus"
+          },
+          {
+            "id": 145254,
+            "name": "Huawei Nova 2S"
+          },
+          {
+            "id": 188387,
+            "name": "Huawei Nova 5T"
+          },
+          {
+            "id": 6685934,
+            "name": "Huawei Nova 9"
+          },
+          {
+            "id": 10574801,
+            "name": "Huawei Nova 9 SE"
+          },
+          {
+            "id": 3007192,
+            "name": "Huawei Nova Lite 2017"
+          },
+          {
+            "id": 61316453,
+            "name": "Huawei Nova Y90"
+          },
+          {
+            "id": 98182,
+            "name": "Huawei P Smart"
+          },
+          {
+            "id": 154061,
+            "name": "Huawei P Smart Z"
+          },
+          {
+            "id": 90895,
+            "name": "Huawei P10"
+          },
+          {
+            "id": 88099,
+            "name": "Huawei P10 Lite"
+          },
+          {
+            "id": 99074,
+            "name": "Huawei P20"
+          },
+          {
+            "id": 142240,
+            "name": "Huawei P30"
+          },
+          {
+            "id": 145257,
+            "name": "Huawei P30 lite"
+          },
+          {
+            "id": 145256,
+            "name": "Huawei P30 Pro"
+          },
+          {
+            "id": 189166,
+            "name": "Huawei P40"
+          },
+          {
+            "id": 233181,
+            "name": "Huawei P40 Lite"
+          },
+          {
+            "id": 5387327,
+            "name": "Huawei P50 Pro"
+          },
+          {
+            "id": 10493806,
+            "name": "Huawei P60 Pro"
+          },
+          {
+            "id": 67107,
+            "name": "Huawei P9"
+          },
+          {
+            "id": 87840,
+            "name": "Huawei P9 Lite"
+          },
+          {
+            "id": 65868,
+            "name": "Huawei P9 Plus"
+          },
+          {
+            "id": 4714836,
+            "name": "Huawei Y3"
+          },
+          {
+            "id": 3165747,
+            "name": "Huawei Y5ii"
+          },
+          {
+            "id": 97683,
+            "name": "Huawei Y7"
+          },
+          {
+            "id": 3903068,
+            "name": "INFINIX Hot 10 Lite"
+          },
+          {
+            "id": 14233995,
+            "name": "Infinix Hot 12"
+          },
+          {
+            "id": 14234002,
+            "name": "Infinix Note 12"
+          },
+          {
+            "id": 14856278,
+            "name": "Infinix Note 12 Vip"
+          },
+          {
+            "id": 11591118,
+            "name": "Infinix Smart"
+          },
+          {
+            "id": 3687103,
+            "name": "LENOVO A2860"
+          },
+          {
+            "id": 90499062,
+            "name": "Lenovo IdeaPhone A630"
+          },
+          {
+            "id": 3687601,
+            "name": "LENOVO K5 Note"
+          },
+          {
+            "id": 3687709,
+            "name": "LENOVO K5 Pro"
+          },
+          {
+            "id": 80918,
+            "name": "Lenovo K6 Power"
+          },
+          {
+            "id": 3649887,
+            "name": "Lenovo Tab P11"
+          },
+          {
+            "id": 90573911,
+            "name": "Lenovo Vibe B+"
+          },
+          {
+            "id": 610716,
+            "name": "Lenovo Vibe K5"
+          },
+          {
+            "id": 78376,
+            "name": "Lenovo Vibe S1"
+          },
+          {
+            "id": 4113379,
+            "name": "LG G3"
+          },
+          {
+            "id": 78379,
+            "name": "LG G4"
+          },
+          {
+            "id": 32714,
+            "name": "LG G5"
+          },
+          {
+            "id": 88080,
+            "name": "LG G6"
+          },
+          {
+            "id": 3678053,
+            "name": "LG G8"
+          },
+          {
+            "id": 26894,
+            "name": "LG K10"
+          },
+          {
+            "id": 65842,
+            "name": "LG K3"
+          },
+          {
+            "id": 29818,
+            "name": "LG K8"
+          },
+          {
+            "id": 65246,
+            "name": "LG V20"
+          },
+          {
+            "id": 72224,
+            "name": "Meizu M3E"
+          },
+          {
+            "id": 94586,
+            "name": "Meizu M5c"
+          },
+          {
+            "id": 95068,
+            "name": "Meizu Pro 7"
+          },
+          {
+            "id": 5276200,
+            "name": "Microsoft Xbox"
+          },
+          {
+            "id": 164301,
+            "name": "Microsoft Xbox 360"
+          },
+          {
+            "id": 587242809,
+            "name": "Microsoft XBox One"
+          },
+          {
+            "id": 590485385,
+            "name": "Microsoft Xbox Series S"
+          },
+          {
+            "id": 85656999,
+            "name": "Microsoft Xbox Series X"
+          },
+          {
+            "id": 143813,
+            "name": "Nintendo Switch"
+          },
+          {
+            "id": 3923088,
+            "name": "Nintendo Wii"
+          },
+          {
+            "id": 5655412,
+            "name": "oneplus 5 pro"
+          },
+          {
+            "id": 28577765,
+            "name": "OnePlus 6T"
+          },
+          {
+            "id": 145679,
+            "name": "Oneplus 7"
+          },
+          {
+            "id": 189092,
+            "name": "OnePlus 7T"
+          },
+          {
+            "id": 3768890,
+            "name": "oppo A54"
+          },
+          {
+            "id": 235929,
+            "name": "Oppo A57"
+          },
+          {
+            "id": 267885,
+            "name": "Oppo a72"
+          },
+          {
+            "id": 3682074,
+            "name": "Oppo A94"
+          },
+          {
+            "id": 11592217,
+            "name": "Oppo A96"
+          },
+          {
+            "id": 100033,
+            "name": "OPPO F5"
+          },
+          {
+            "id": 113676,
+            "name": "OPPO F7"
+          },
+          {
+            "id": 235936,
+            "name": "OPPO R15"
+          },
+          {
+            "id": 395903,
+            "name": "OPPO R9s"
+          },
+          {
+            "id": 225866,
+            "name": "Oppo Reno 3"
+          },
+          {
+            "id": 14838049,
+            "name": "Playstation VITA"
+          },
+          {
+            "id": 131690808,
+            "name": "Realme 10"
+          },
+          {
+            "id": 354123,
+            "name": "Realme 6"
+          },
+          {
+            "id": 403453,
+            "name": "Realme 7"
+          },
+          {
+            "id": 403454,
+            "name": "Realme 7 Pro"
+          },
+          {
+            "id": 3874492,
+            "name": "Realme 8"
+          },
+          {
+            "id": 10553536,
+            "name": "Realme 9 Pro Plus"
+          },
+          {
+            "id": 593495,
+            "name": "realme buds air"
+          },
+          {
+            "id": 385775,
+            "name": "Realme C11"
+          },
+          {
+            "id": 386716,
+            "name": "Realme C15"
+          },
+          {
+            "id": 3866285,
+            "name": "Realme C25"
+          },
+          {
+            "id": 7774251,
+            "name": "Realme C25Y"
+          },
+          {
+            "id": 87597247,
+            "name": "Realme C33"
+          },
+          {
+            "id": 5150902,
+            "name": "Realme GT Master Edition"
+          },
+          {
+            "id": 202506,
+            "name": "Realme XT"
+          },
+          {
+            "id": 213553,
+            "name": "Samsung Galaxy A01"
+          },
+          {
+            "id": 583263,
+            "name": "Samsung Galaxy A02"
+          },
+          {
+            "id": 5218208,
+            "name": "Samsung Galaxy A03s"
+          },
+          {
+            "id": 145408,
+            "name": "Samsung Galaxy A10"
+          },
+          {
+            "id": 176571,
+            "name": "Samsung Galaxy A10s"
+          },
+          {
+            "id": 246369,
+            "name": "Samsung Galaxy A11"
+          },
+          {
+            "id": 412328,
+            "name": "Samsung Galaxy A12"
+          },
+          {
+            "id": 8223054,
+            "name": "Samsung Galaxy A13"
+          },
+          {
+            "id": 111788063,
+            "name": "Samsung Galaxy A14"
+          },
+          {
+            "id": 145118,
+            "name": "Samsung Galaxy A20"
+          },
+          {
+            "id": 231278,
+            "name": "Samsung Galaxy A21"
+          },
+          {
+            "id": 10574788,
+            "name": "Samsung Galaxy A23"
+          },
+          {
+            "id": 83725704,
+            "name": "Samsung Galaxy A24"
+          },
+          {
+            "id": 2198677,
+            "name": "Samsung Galaxy A3"
+          },
+          {
+            "id": 139602,
+            "name": "Samsung Galaxy A30"
+          },
+          {
+            "id": 234029,
+            "name": "Samsung Galaxy A31"
+          },
+          {
+            "id": 597259,
+            "name": "Samsung Galaxy A32"
+          },
+          {
+            "id": 145119,
+            "name": "Samsung Galaxy A40"
+          },
+          {
+            "id": 182685,
+            "name": "Samsung Galaxy A40S"
+          },
+          {
+            "id": 252351,
+            "name": "Samsung Galaxy A41"
+          },
+          {
+            "id": 162777,
+            "name": "Samsung galaxy A5"
+          },
+          {
+            "id": 139603,
+            "name": "Samsung Galaxy A50"
+          },
+          {
+            "id": 179279,
+            "name": "Samsung Galaxy A50s"
+          },
+          {
+            "id": 200701,
+            "name": "Samsung Galaxy A51"
+          },
+          {
+            "id": 443010,
+            "name": "Samsung Galaxy A52"
+          },
+          {
+            "id": 10346980,
+            "name": "Samsung Galaxy A54"
+          },
+          {
+            "id": 611862159,
+            "name": "Samsung Galaxy A55"
+          },
+          {
+            "id": 547485,
+            "name": "Samsung Galaxy A6 Plus"
+          },
+          {
+            "id": 403588,
+            "name": "Samsung Galaxy A7"
+          },
+          {
+            "id": 209138,
+            "name": "Samsung Galaxy A71"
+          },
+          {
+            "id": 10641502,
+            "name": "Samsung Galaxy A73"
+          },
+          {
+            "id": 90252,
+            "name": "Samsung Galaxy A9"
+          },
+          {
+            "id": 162569,
+            "name": "Samsung Galaxy Note 10"
+          },
+          {
+            "id": 365431,
+            "name": "Samsung Galaxy Note 20 Ultra"
+          },
+          {
+            "id": 94904,
+            "name": "Samsung Galaxy Note 8"
+          },
+          {
+            "id": 3997634,
+            "name": "Samsung Galaxy S"
+          },
+          {
+            "id": 137053,
+            "name": "Samsung Galaxy S10"
+          },
+          {
+            "id": 137055,
+            "name": "Samsung Galaxy S10 Plus"
+          },
+          {
+            "id": 222616,
+            "name": "Samsung Galaxy S20"
+          },
+          {
+            "id": 222617,
+            "name": "Samsung Galaxy S20 Ultra"
+          },
+          {
+            "id": 493240,
+            "name": "Samsung Galaxy S21 Plus"
+          },
+          {
+            "id": 486432,
+            "name": "Samsung Galaxy S21 Ultra"
+          },
+          {
+            "id": 117167336,
+            "name": "Samsung Galaxy S23"
+          },
+          {
+            "id": 114964102,
+            "name": "Samsung Galaxy S23 Ultra"
+          },
+          {
+            "id": 615463304,
+            "name": "Samsung Galaxy S24"
+          },
+          {
+            "id": 834775968,
+            "name": "Samsung Galaxy S24 Ultra"
+          },
+          {
+            "id": 1342848000,
+            "name": "Samsung Galaxy S25 Ultra"
+          },
+          {
+            "id": 26888,
+            "name": "Samsung Galaxy S7"
+          },
+          {
+            "id": 26887,
+            "name": "Samsung Galaxy S7 Edge"
+          },
+          {
+            "id": 88097,
+            "name": "Samsung Galaxy S8"
+          },
+          {
+            "id": 88098,
+            "name": "Samsung Galaxy S8 Plus"
+          },
+          {
+            "id": 99056,
+            "name": "Samsung Galaxy S9"
+          },
+          {
+            "id": 99076,
+            "name": "Samsung Galaxy S9 Plus"
+          },
+          {
+            "id": 606276110,
+            "name": "Samsung Galaxy Tab 7.7"
+          },
+          {
+            "id": 735062145,
+            "name": "Samsung Galaxy Z Fold 5"
+          },
+          {
+            "id": 3950252,
+            "name": "samsung m12"
+          },
+          {
+            "id": 3206341,
+            "name": "Samsung S7"
+          },
+          {
+            "id": 9244084,
+            "name": "SONY MDR-EX15"
+          },
+          {
+            "id": 14754730,
+            "name": "sony playstation"
+          },
+          {
+            "id": 164302,
+            "name": "Sony PlayStation 3"
+          },
+          {
+            "id": 177833,
+            "name": "Sony PlayStation 4"
+          },
+          {
+            "id": 396541,
+            "name": "Sony PlayStation 5"
+          },
+          {
+            "id": 387745,
+            "name": "Sony PSP"
+          },
+          {
+            "id": 147765,
+            "name": "Sony Xperia 1"
+          },
+          {
+            "id": 111800,
+            "name": "Sony Xperia XA2 Ultra"
+          },
+          {
+            "id": 14927030,
+            "name": "Tecno Camon 19 Pro"
+          },
+          {
+            "id": 14927009,
+            "name": "Tecno Spark 9 Pro"
+          },
+          {
+            "id": 3378751,
+            "name": "VIVO iQOO Neo 3"
+          },
+          {
+            "id": 158953,
+            "name": "Vivo V15 Pro"
+          },
+          {
+            "id": 398479,
+            "name": "VIVO X20 Plus"
+          },
+          {
+            "id": 536598,
+            "name": "Vivo X50 Pro"
+          },
+          {
+            "id": 3447135,
+            "name": "VIVO X9S Plus"
+          },
+          {
+            "id": 625698,
+            "name": "Xiaomi 10 Lite"
+          },
+          {
+            "id": 625735,
+            "name": "Xiaomi 11"
+          },
+          {
+            "id": 6029737,
+            "name": "Xiaomi 11T"
+          },
+          {
+            "id": 10369678,
+            "name": "xiaomi 12"
+          },
+          {
+            "id": 10475257,
+            "name": "xiaomi 12 pro"
+          },
+          {
+            "id": 107886007,
+            "name": "Xiaomi 12T"
+          },
+          {
+            "id": 560823061,
+            "name": "Xiaomi 13 Pro"
+          },
+          {
+            "id": 3693979,
+            "name": "Xiaomi 9T"
+          },
+          {
+            "id": 233184,
+            "name": "Xiaomi Mi 10"
+          },
+          {
+            "id": 267782,
+            "name": "Xiaomi Mi 10 Lite"
+          },
+          {
+            "id": 254312,
+            "name": "Xiaomi Mi 10T"
+          },
+          {
+            "id": 254313,
+            "name": "Xiaomi Mi 10T Pro"
+          },
+          {
+            "id": 3695620,
+            "name": "Xiaomi Mi 11 Ultra"
+          },
+          {
+            "id": 85316,
+            "name": "Xiaomi Mi 5c"
+          },
+          {
+            "id": 235621,
+            "name": "Xiaomi Mi 5S Plus"
+          },
+          {
+            "id": 158954,
+            "name": "Xiaomi Mi 9T"
+          },
+          {
+            "id": 121263,
+            "name": "Xiaomi Mi A2 Lite"
+          },
+          {
+            "id": 200699,
+            "name": "Xiaomi Mi Note 10"
+          },
+          {
+            "id": 200700,
+            "name": "Xiaomi Mi Note 10 Pro"
+          },
+          {
+            "id": 6028621,
+            "name": "Xiaomi Mi Pad 5"
+          },
+          {
+            "id": 3207309,
+            "name": "Xiaomi Poco F3"
+          },
+          {
+            "id": 9583912,
+            "name": "xiaomi poco m4 pro"
+          },
+          {
+            "id": 766153639,
+            "name": "Xiaomi Poco M6 Pro"
+          },
+          {
+            "id": 389699,
+            "name": "Xiaomi Poco X3"
+          },
+          {
+            "id": 3199961,
+            "name": "Xiaomi Poco X3 Pro"
+          },
+          {
+            "id": 26374532,
+            "name": "Xiaomi Redmi 10X"
+          },
+          {
+            "id": 606928714,
+            "name": "Xiaomi Redmi 12"
+          },
+          {
+            "id": 585068765,
+            "name": "Xiaomi Redmi 12C"
+          },
+          {
+            "id": 5541744,
+            "name": "Xiaomi Redmi 6X"
+          },
+          {
+            "id": 189091,
+            "name": "Xiaomi Redmi 8A"
+          },
+          {
+            "id": 356130,
+            "name": "Xiaomi Redmi 9"
+          },
+          {
+            "id": 401903,
+            "name": "Xiaomi Redmi 9 Pro"
+          },
+          {
+            "id": 358597,
+            "name": "Xiaomi Redmi 9A"
+          },
+          {
+            "id": 361732,
+            "name": "Xiaomi Redmi 9C"
+          },
+          {
+            "id": 619417,
+            "name": "Xiaomi Redmi 9T"
+          },
+          {
+            "id": 9303401,
+            "name": "Xiaomi Redmi AirDots"
+          },
+          {
+            "id": 9302519,
+            "name": "Xiaomi Redmi AirDots 3"
+          },
+          {
+            "id": 211771,
+            "name": "Xiaomi Redmi K30"
+          },
+          {
+            "id": 85945026,
+            "name": "Xiaomi Redmi K50 Ultra"
+          },
+          {
+            "id": 536564,
+            "name": "Xiaomi Redmi Note 10 Pro"
+          },
+          {
+            "id": 3360103,
+            "name": "Xiaomi Redmi Note 10S"
+          },
+          {
+            "id": 9457782,
+            "name": "xiaomi redmi note 11"
+          },
+          {
+            "id": 9216431,
+            "name": "Xiaomi Redmi Note 11 Pro"
+          },
+          {
+            "id": 9216432,
+            "name": "Xiaomi Redmi Note 11 Pro Plus"
+          },
+          {
+            "id": 10536936,
+            "name": "Xiaomi Redmi Note 11S"
+          },
+          {
+            "id": 218086335,
+            "name": "Xiaomi Redmi Note 12"
+          },
+          {
+            "id": 221455136,
+            "name": "Xiaomi Redmi Note 12 Pro"
+          },
+          {
+            "id": 67105,
+            "name": "Xiaomi Redmi Pro"
+          },
+          {
+            "id": 199939,
+            "name": "Xiaomi Redmi Y1"
+          },
+          {
+            "id": 85303,
+            "name": "ZTE Blade V8"
+          }
+        ],
+        "fullKey": "ff746",
+        "quickOrder": 0
+      },
+      {
+        "name": "Назначение док-станции",
+        "key": "f172006",
+        "maxselect": 20,
+        "items": [
+          {
+            "id": 172011,
+            "name": "для геймпадов"
+          },
+          {
+            "id": 172009,
+            "name": "для наушников"
+          },
+          {
+            "id": 172008,
+            "name": "для планшетов"
+          },
+          {
+            "id": 172010,
+            "name": "для смарт-часов"
+          },
+          {
+            "id": 172007,
+            "name": "для смартфонов"
+          }
+        ],
+        "fullKey": "ff172006",
+        "quickOrder": 0
+      }
+    ]
+  },
+  {
+    "id": 593,
+    "name": "Наушники",
+    "filters": [
+      {
+        "name": "Распродажа",
+        "key": "faction",
+        "maxselect": 255,
+        "items": [
+          {
+            "id": 202422,
+            "name": "ВЫГОДКА"
+          }
+        ],
+        "quickOrder": 0
+      },
+      {
+        "name": "Можно вернуть НДС",
+        "key": "fnds",
+        "type": "toggle",
+        "items": [
+          {
+            "id": 1,
+            "name": "Да"
+          }
+        ],
+        "quickOrder": 0
+      },
+      {
+        "name": "Цена",
+        "key": "priceU",
+        "minPriceU": 3700,
+        "maxPriceU": 340200000,
+        "quickOrder": 0
+      },
+      {
+        "name": "Срок доставки",
+        "key": "fdlvr",
+        "minTime": 1,
+        "maxTime": 1474,
+        "quickOrder": 0
+      },
+      {
+        "name": "С рейтингом от 4,7",
+        "key": "frating",
+        "type": "toggle",
+        "items": [
+          {
+            "id": 1,
+            "name": "Да"
+          }
+        ],
+        "quickOrder": 0
+      },
+      {
+        "name": "Оригинальный товар",
+        "key": "foriginal",
+        "type": "toggle",
+        "items": [
+          {
+            "id": 1,
+            "name": "Да"
+          }
+        ],
+        "quickOrder": 0
+      },
+      {
+        "name": "Премиум-продавец",
+        "key": "fpremium",
+        "type": "toggle",
+        "items": [
+          {
+            "id": 1,
+            "name": "Да"
+          }
+        ],
+        "quickOrder": 0
+      },
+      {
+        "name": "Рубли за отзыв",
+        "key": "ffeedbackpoints",
+        "type": "toggle",
+        "items": [
+          {
+            "id": 1,
+            "name": "Да"
+          }
+        ],
+        "quickOrder": 0
+      },
+      {
+        "name": "Скидки WB Клуба",
+        "key": "fpremiumuser",
+        "type": "toggle",
+        "items": [
+          {
+            "id": 1,
+            "name": "Да"
+          }
+        ],
+        "quickOrder": 0
+      },
+      {
+        "name": "Цвет",
+        "key": "fcolor",
+        "maxselect": 20,
+        "items": [
+          {
+            "id": 16119260,
+            "name": "бежевый"
+          },
+          {
+            "id": 16777215,
+            "name": "белый"
+          },
+          {
+            "id": 11393254,
+            "name": "голубой"
+          },
+          {
+            "id": 16776960,
+            "name": "желтый"
+          },
+          {
+            "id": 32768,
+            "name": "зеленый"
+          },
+          {
+            "id": 10824234,
+            "name": "коричневый"
+          },
+          {
+            "id": 16711680,
+            "name": "красный"
+          },
+          {
+            "id": 16753920,
+            "name": "оранжевый"
+          },
+          {
+            "id": 16761035,
+            "name": "розовый"
+          },
+          {
+            "id": 8421504,
+            "name": "серый"
+          },
+          {
+            "id": 255,
+            "name": "синий"
+          },
+          {
+            "id": 15631086,
+            "name": "фиолетовый"
+          },
+          {
+            "id": 0,
+            "name": "черный"
+          }
+        ],
+        "quickOrder": 0
+      },
+      {
+        "name": "Вид наушников",
+        "key": "f9514",
+        "maxselect": 20,
+        "items": [
+          {
+            "id": 25617170,
+            "name": "вкладыши"
+          },
+          {
+            "id": 418183,
+            "name": "внутриканальные"
+          },
+          {
+            "id": 26125458,
+            "name": "накладные"
+          },
+          {
+            "id": 443596610,
+            "name": "охватывающие"
+          },
+          {
+            "id": 3661783,
+            "name": "с костной проводимостью"
+          }
+        ],
+        "fullKey": "ff9514",
+        "quickOrder": 0
+      },
+      {
+        "name": "Разъем подключения наушников",
+        "key": "f65265",
+        "maxselect": 20,
+        "items": [
+          {
+            "id": 3660256,
+            "name": "Apple Lightning"
+          },
+          {
+            "id": 478586,
+            "name": "Bluetooth"
+          },
+          {
+            "id": 26369127,
+            "name": "DC"
+          },
+          {
+            "id": 78449,
+            "name": "Jack 2.5 mm"
+          },
+          {
+            "id": 7489508,
+            "name": "Jack 3.5 mm"
+          },
+          {
+            "id": 640768993,
+            "name": "Jack 6.3 mm"
+          },
+          {
+            "id": 5430871,
+            "name": "USB Type-A"
+          },
+          {
+            "id": 99188,
+            "name": "USB Type-C"
+          }
+        ],
+        "fullKey": "ff65265",
+        "quickOrder": 0
+      },
+      {
+        "name": "Тип акустического оформления",
+        "key": "f15886",
+        "maxselect": 20,
+        "items": [
+          {
+            "id": 23757,
+            "name": "закрытые"
+          },
+          {
+            "id": 23756,
+            "name": "открытые"
+          },
+          {
+            "id": 23758,
+            "name": "полуоткрытые"
+          }
+        ],
+        "fullKey": "ff15886",
+        "quickOrder": 0
+      },
+      {
+        "name": "Беспроводные интерфейсы",
+        "key": "f10466",
+        "maxselect": 20,
+        "items": [
+          {
+            "id": 7970798,
+            "name": "AirPlay 2"
+          },
+          {
+            "id": 18635,
+            "name": "Bluetooth"
+          },
+          {
+            "id": 3928889,
+            "name": "IRDA"
+          },
+          {
+            "id": 7179437,
+            "name": "MagSafe"
+          },
+          {
+            "id": 18636,
+            "name": "NFC"
+          },
+          {
+            "id": 18646,
+            "name": "Wi-Fi"
+          },
+          {
+            "id": 154709,
+            "name": "ZigBee"
+          },
+          {
+            "id": 23958,
+            "name": "радиоканал"
+          }
+        ],
+        "fullKey": "ff10466",
+        "quickOrder": 0
+      },
+      {
+        "name": "Длина кабеля (м)",
+        "key": "f85079",
+        "maxselect": 20,
+        "items": [
+          {
+            "id": 52699654,
+            "name": "0.01 м"
+          },
+          {
+            "id": 52731411,
+            "name": "0.02 м"
+          },
+          {
+            "id": 243571,
+            "name": "0.03 м"
+          },
+          {
+            "id": 239708,
+            "name": "0.04 м"
+          },
+          {
+            "id": 196975,
+            "name": "0.05 м"
+          },
+          {
+            "id": 385476,
+            "name": "0.08 м"
+          },
+          {
+            "id": 196000,
+            "name": "0.09 м"
+          },
+          {
+            "id": 147605,
+            "name": "0.1 м"
+          },
+          {
+            "id": 52929912,
+            "name": "0.11 м"
+          },
+          {
+            "id": 219517,
+            "name": "0.12 м"
+          },
+          {
+            "id": 52716094,
+            "name": "0.14 м"
+          },
+          {
+            "id": 158182,
+            "name": "0.15 м"
+          },
+          {
+            "id": 196295,
+            "name": "0.17 м"
+          },
+          {
+            "id": 5099829,
+            "name": "0.18 м"
+          },
+          {
+            "id": 52949877,
+            "name": "0.19 м"
+          },
+          {
+            "id": 162103,
+            "name": "0.2 м"
+          },
+          {
+            "id": 361526,
+            "name": "0.21 м"
+          },
+          {
+            "id": 84080388,
+            "name": "0.22 м"
+          },
+          {
+            "id": 358794,
+            "name": "0.23 м"
+          },
+          {
+            "id": 361527,
+            "name": "0.24 м"
+          },
+          {
+            "id": 154116,
+            "name": "0.25 м"
+          },
+          {
+            "id": 186232,
+            "name": "0.26 м"
+          },
+          {
+            "id": 239748,
+            "name": "0.27 м"
+          },
+          {
+            "id": 75963235,
+            "name": "0.28 м"
+          },
+          {
+            "id": 357151,
+            "name": "0.29 м"
+          },
+          {
+            "id": 140587,
+            "name": "0.3 м"
+          },
+          {
+            "id": 35597258,
+            "name": "0.31 м"
+          },
+          {
+            "id": 96420833,
+            "name": "0.32 м"
+          },
+          {
+            "id": 162847,
+            "name": "0.35 м"
+          },
+          {
+            "id": 361528,
+            "name": "0.39 м"
+          },
+          {
+            "id": 140588,
+            "name": "0.4 м"
+          },
+          {
+            "id": 361531,
+            "name": "0.45 м"
+          },
+          {
+            "id": 74768077,
+            "name": "0.47 м"
+          },
+          {
+            "id": 140589,
+            "name": "0.5 м"
+          },
+          {
+            "id": 361532,
+            "name": "0.56 м"
+          },
+          {
+            "id": 140590,
+            "name": "0.6 м"
+          },
+          {
+            "id": 157691,
+            "name": "0.65 м"
+          },
+          {
+            "id": 140591,
+            "name": "0.7 м"
+          },
+          {
+            "id": 140593,
+            "name": "0.8 м"
+          },
+          {
+            "id": 5025560,
+            "name": "0.85 м"
+          },
+          {
+            "id": 140594,
+            "name": "0.9 м"
+          },
+          {
+            "id": 247331,
+            "name": "0.92 м"
+          },
+          {
+            "id": 84371425,
+            "name": "0.93 м"
+          },
+          {
+            "id": 53428883,
+            "name": "0.95 м"
+          },
+          {
+            "id": 247333,
+            "name": "0.96 м"
+          },
+          {
+            "id": 84490199,
+            "name": "0.97 м"
+          },
+          {
+            "id": 53469569,
+            "name": "0.98 м"
+          },
+          {
+            "id": 140595,
+            "name": "1 м"
+          },
+          {
+            "id": 42823662,
+            "name": "1.01 м"
+          },
+          {
+            "id": 52892173,
+            "name": "1.02 м"
+          },
+          {
+            "id": 52956948,
+            "name": "1.03 м"
+          },
+          {
+            "id": 3968691,
+            "name": "1.05 м"
+          },
+          {
+            "id": 52857254,
+            "name": "1.06 м"
+          },
+          {
+            "id": 140596,
+            "name": "1.07 м"
+          },
+          {
+            "id": 140597,
+            "name": "1.1 м"
+          },
+          {
+            "id": 677912786,
+            "name": "1.11 м"
+          },
+          {
+            "id": 364316,
+            "name": "1.12 м"
+          },
+          {
+            "id": 87694688,
+            "name": "1.13 м"
+          },
+          {
+            "id": 146279,
+            "name": "1.15 м"
+          },
+          {
+            "id": 85949140,
+            "name": "1.16 м"
+          },
+          {
+            "id": 140598,
+            "name": "1.2 м"
+          },
+          {
+            "id": 34708650,
+            "name": "1.22 м"
+          },
+          {
+            "id": 140599,
+            "name": "1.25 м"
+          },
+          {
+            "id": 140600,
+            "name": "1.3 м"
+          },
+          {
+            "id": 249642,
+            "name": "1.35 м"
+          },
+          {
+            "id": 140602,
+            "name": "1.4 м"
+          },
+          {
+            "id": 70459506,
+            "name": "1.45 м"
+          },
+          {
+            "id": 140603,
+            "name": "1.5 м"
+          },
+          {
+            "id": 140604,
+            "name": "1.6 м"
+          },
+          {
+            "id": 372792005,
+            "name": "1.65 м"
+          },
+          {
+            "id": 140605,
+            "name": "1.7 м"
+          },
+          {
+            "id": 140606,
+            "name": "1.75 м"
+          },
+          {
+            "id": 140607,
+            "name": "1.8 м"
+          },
+          {
+            "id": 9525532,
+            "name": "1.83 м"
+          },
+          {
+            "id": 140608,
+            "name": "1.9 м"
+          },
+          {
+            "id": 140609,
+            "name": "2 м"
+          },
+          {
+            "id": 140610,
+            "name": "2.1 м"
+          },
+          {
+            "id": 777741604,
+            "name": "2.15 м"
+          },
+          {
+            "id": 140611,
+            "name": "2.2 м"
+          },
+          {
+            "id": 140612,
+            "name": "2.3 м"
+          },
+          {
+            "id": 105520158,
+            "name": "2.35 м"
+          },
+          {
+            "id": 140613,
+            "name": "2.4 м"
+          },
+          {
+            "id": 140614,
+            "name": "2.5 м"
+          },
+          {
+            "id": 4272637,
+            "name": "2.8 м"
+          },
+          {
+            "id": 53258319,
+            "name": "2.9 м"
+          },
+          {
+            "id": 140616,
+            "name": "3 м"
+          },
+          {
+            "id": 170598,
+            "name": "3.2 м"
+          },
+          {
+            "id": 177069,
+            "name": "3.5 м"
+          },
+          {
+            "id": 140617,
+            "name": "4 м"
+          },
+          {
+            "id": 140618,
+            "name": "5 м"
+          },
+          {
+            "id": 140619,
+            "name": "6 м"
+          },
+          {
+            "id": 148815,
+            "name": "7 м"
+          },
+          {
+            "id": 140620,
+            "name": "8 м"
+          },
+          {
+            "id": 148816,
+            "name": "9 м"
+          },
+          {
+            "id": 148617,
+            "name": "10 м"
+          },
+          {
+            "id": 363874,
+            "name": "12 м"
+          },
+          {
+            "id": 387727,
+            "name": "14 м"
+          },
+          {
+            "id": 175121,
+            "name": "15 м"
+          },
+          {
+            "id": 393101,
+            "name": "18 м"
+          },
+          {
+            "id": 140615,
+            "name": "20 м"
+          },
+          {
+            "id": 226045,
+            "name": "25 м"
+          },
+          {
+            "id": 165357,
+            "name": "30 м"
+          },
+          {
+            "id": 180787,
+            "name": "50 м"
+          },
+          {
+            "id": 148773,
+            "name": "100 м"
+          },
+          {
+            "id": 178045806,
+            "name": "110 м"
+          },
+          {
+            "id": 53435402,
+            "name": "120 м"
+          },
+          {
+            "id": 599794459,
+            "name": "130 м"
+          },
+          {
+            "id": 246154,
+            "name": "150 м"
+          },
+          {
+            "id": 246155,
+            "name": "180 м"
+          },
+          {
+            "id": 246156,
+            "name": "200 м"
+          },
+          {
+            "id": 13590991,
+            "name": "210 м"
+          },
+          {
+            "id": 63308348,
+            "name": "230 м"
+          },
+          {
+            "id": 609112201,
+            "name": "250 м"
+          },
+          {
+            "id": 246157,
+            "name": "300 м"
+          }
+        ],
+        "fullKey": "ff85079",
+        "quickOrder": 0
+      },
+      {
+        "name": "Тип крепления наушников",
+        "key": "f84663",
+        "maxselect": 20,
+        "items": [
+          {
+            "id": 439874,
+            "name": "в ушной раковине"
+          },
+          {
+            "id": 6179289,
+            "name": "затылочная дужка"
+          },
+          {
+            "id": 598293371,
+            "name": "заушина"
+          },
+          {
+            "id": 521120,
+            "name": "оголовье"
+          },
+          {
+            "id": 2159027,
+            "name": "шейный обод"
+          }
+        ],
+        "fullKey": "ff84663",
+        "quickOrder": 0
+      },
+      {
+        "name": "Модель",
+        "key": "f5023",
+        "maxselect": 20,
+        "items": [
+          {
+            "id": 7484827,
+            "name": "00"
+          },
+          {
+            "id": 112423,
+            "name": "002"
+          },
+          {
+            "id": 50694095,
+            "name": "003"
+          },
+          {
+            "id": 95438,
+            "name": "Air"
+          },
+          {
+            "id": 109520,
+            "name": "B"
+          },
+          {
+            "id": 200076,
+            "name": "C"
+          },
+          {
+            "id": 204824,
+            "name": "D1"
+          },
+          {
+            "id": 156840,
+            "name": "D2"
+          },
+          {
+            "id": 11548171,
+            "name": "Disney"
+          },
+          {
+            "id": 147335,
+            "name": "E"
+          },
+          {
+            "id": 81320,
+            "name": "E1"
+          },
+          {
+            "id": 107980,
+            "name": "E15"
+          },
+          {
+            "id": 145149,
+            "name": "G11"
+          },
+          {
+            "id": 226175,
+            "name": "G12"
+          },
+          {
+            "id": 189953,
+            "name": "G13"
+          },
+          {
+            "id": 148343,
+            "name": "G2"
+          },
+          {
+            "id": 196331,
+            "name": "G20"
+          },
+          {
+            "id": 148549,
+            "name": "G3"
+          },
+          {
+            "id": 108789,
+            "name": "G4"
+          },
+          {
+            "id": 157967,
+            "name": "H10"
+          },
+          {
+            "id": 189900,
+            "name": "H3"
+          },
+          {
+            "id": 3737449,
+            "name": "H6"
+          },
+          {
+            "id": 108747,
+            "name": "H9"
+          },
+          {
+            "id": 932045,
+            "name": "Jack 3,5 мм"
+          },
+          {
+            "id": 81345,
+            "name": "M10"
+          },
+          {
+            "id": 90405,
+            "name": "M14"
+          },
+          {
+            "id": 600104,
+            "name": "M16"
+          },
+          {
+            "id": 78551,
+            "name": "M18"
+          },
+          {
+            "id": 68371,
+            "name": "M20"
+          },
+          {
+            "id": 170110,
+            "name": "M22"
+          },
+          {
+            "id": 81351,
+            "name": "M6"
+          },
+          {
+            "id": 11353373,
+            "name": "P36"
+          },
+          {
+            "id": 106346,
+            "name": "R20"
+          },
+          {
+            "id": 197315,
+            "name": "S10"
+          },
+          {
+            "id": 154176,
+            "name": "S35"
+          },
+          {
+            "id": 117371,
+            "name": "T10"
+          },
+          {
+            "id": 105510,
+            "name": "T3"
+          },
+          {
+            "id": 65750,
+            "name": "T6"
+          },
+          {
+            "id": 65752,
+            "name": "T7"
+          },
+          {
+            "id": 150941,
+            "name": "T8"
+          },
+          {
+            "id": 137962,
+            "name": "T9"
+          },
+          {
+            "id": 3472965,
+            "name": "True Wireless"
+          },
+          {
+            "id": 103514,
+            "name": "Ultra"
+          },
+          {
+            "id": 167592,
+            "name": "X10"
+          },
+          {
+            "id": 392745,
+            "name": "x30"
+          },
+          {
+            "id": 111491,
+            "name": "2"
+          },
+          {
+            "id": 80846,
+            "name": "3"
+          },
+          {
+            "id": 26724898,
+            "name": "4"
+          },
+          {
+            "id": 3363090,
+            "name": "510"
+          },
+          {
+            "id": 5728920,
+            "name": "960"
+          },
+          {
+            "id": 82731740,
+            "name": "2020"
+          }
+        ],
+        "fullKey": "ff5023",
+        "quickOrder": 0
+      },
+      {
+        "name": "Тип подключения",
+        "key": "f15883",
+        "maxselect": 20,
+        "items": [
+          {
+            "id": 417068,
+            "name": "беспроводное"
+          },
+          {
+            "id": 25833066,
+            "name": "проводное"
+          }
+        ],
+        "fullKey": "ff15883",
+        "quickOrder": 0
+      }
+    ]
+  },
+  {
+    "id": 4139,
+    "name": "Подставка для наушников",
+    "filters": [
+      {
+        "name": "Распродажа",
+        "key": "faction",
+        "maxselect": 255,
+        "items": [
+          {
+            "id": 202422,
+            "name": "ВЫГОДКА"
+          }
+        ],
+        "quickOrder": 0
+      },
+      {
+        "name": "Можно вернуть НДС",
+        "key": "fnds",
+        "type": "toggle",
+        "items": [
+          {
+            "id": 1,
+            "name": "Да"
+          }
+        ],
+        "quickOrder": 0
+      },
+      {
+        "name": "Цена",
+        "key": "priceU",
+        "minPriceU": 3700,
+        "maxPriceU": 340200000,
+        "quickOrder": 0
+      },
+      {
+        "name": "Срок доставки",
+        "key": "fdlvr",
+        "minTime": 1,
+        "maxTime": 1474,
+        "quickOrder": 0
+      },
+      {
+        "name": "С рейтингом от 4,7",
+        "key": "frating",
+        "type": "toggle",
+        "items": [
+          {
+            "id": 1,
+            "name": "Да"
+          }
+        ],
+        "quickOrder": 0
+      },
+      {
+        "name": "Оригинальный товар",
+        "key": "foriginal",
+        "type": "toggle",
+        "items": [
+          {
+            "id": 1,
+            "name": "Да"
+          }
+        ],
+        "quickOrder": 0
+      },
+      {
+        "name": "Премиум-продавец",
+        "key": "fpremium",
+        "type": "toggle",
+        "items": [
+          {
+            "id": 1,
+            "name": "Да"
+          }
+        ],
+        "quickOrder": 0
+      },
+      {
+        "name": "Рубли за отзыв",
+        "key": "ffeedbackpoints",
+        "type": "toggle",
+        "items": [
+          {
+            "id": 1,
+            "name": "Да"
+          }
+        ],
+        "quickOrder": 0
+      },
+      {
+        "name": "Скидки WB Клуба",
+        "key": "fpremiumuser",
+        "type": "toggle",
+        "items": [
+          {
+            "id": 1,
+            "name": "Да"
+          }
+        ],
+        "quickOrder": 0
+      },
+      {
+        "name": "Цвет",
+        "key": "fcolor",
+        "maxselect": 20,
+        "items": [
+          {
+            "id": 16119260,
+            "name": "бежевый"
+          },
+          {
+            "id": 16777215,
+            "name": "белый"
+          },
+          {
+            "id": 11393254,
+            "name": "голубой"
+          },
+          {
+            "id": 16776960,
+            "name": "желтый"
+          },
+          {
+            "id": 32768,
+            "name": "зеленый"
+          },
+          {
+            "id": 10824234,
+            "name": "коричневый"
+          },
+          {
+            "id": 16711680,
+            "name": "красный"
+          },
+          {
+            "id": 16753920,
+            "name": "оранжевый"
+          },
+          {
+            "id": 16761035,
+            "name": "розовый"
+          },
+          {
+            "id": 8421504,
+            "name": "серый"
+          },
+          {
+            "id": 255,
+            "name": "синий"
+          },
+          {
+            "id": 15631086,
+            "name": "фиолетовый"
+          },
+          {
+            "id": 0,
+            "name": "черный"
+          }
+        ],
+        "quickOrder": 0
+      }
+    ]
+  },
+  {
+    "id": 2913,
+    "name": "Чехол для наушников",
+    "filters": [
+      {
+        "name": "Распродажа",
+        "key": "faction",
+        "maxselect": 255,
+        "items": [
+          {
+            "id": 202422,
+            "name": "ВЫГОДКА"
+          }
+        ],
+        "quickOrder": 0
+      },
+      {
+        "name": "Можно вернуть НДС",
+        "key": "fnds",
+        "type": "toggle",
+        "items": [
+          {
+            "id": 1,
+            "name": "Да"
+          }
+        ],
+        "quickOrder": 0
+      },
+      {
+        "name": "Цена",
+        "key": "priceU",
+        "minPriceU": 3700,
+        "maxPriceU": 340200000,
+        "quickOrder": 0
+      },
+      {
+        "name": "Срок доставки",
+        "key": "fdlvr",
+        "minTime": 1,
+        "maxTime": 1474,
+        "quickOrder": 0
+      },
+      {
+        "name": "С рейтингом от 4,7",
+        "key": "frating",
+        "type": "toggle",
+        "items": [
+          {
+            "id": 1,
+            "name": "Да"
+          }
+        ],
+        "quickOrder": 0
+      },
+      {
+        "name": "Оригинальный товар",
+        "key": "foriginal",
+        "type": "toggle",
+        "items": [
+          {
+            "id": 1,
+            "name": "Да"
+          }
+        ],
+        "quickOrder": 0
+      },
+      {
+        "name": "Премиум-продавец",
+        "key": "fpremium",
+        "type": "toggle",
+        "items": [
+          {
+            "id": 1,
+            "name": "Да"
+          }
+        ],
+        "quickOrder": 0
+      },
+      {
+        "name": "Рубли за отзыв",
+        "key": "ffeedbackpoints",
+        "type": "toggle",
+        "items": [
+          {
+            "id": 1,
+            "name": "Да"
+          }
+        ],
+        "quickOrder": 0
+      },
+      {
+        "name": "Скидки WB Клуба",
+        "key": "fpremiumuser",
+        "type": "toggle",
+        "items": [
+          {
+            "id": 1,
+            "name": "Да"
+          }
+        ],
+        "quickOrder": 0
+      },
+      {
+        "name": "Цвет",
+        "key": "fcolor",
+        "maxselect": 20,
+        "items": [
+          {
+            "id": 16119260,
+            "name": "бежевый"
+          },
+          {
+            "id": 16777215,
+            "name": "белый"
+          },
+          {
+            "id": 11393254,
+            "name": "голубой"
+          },
+          {
+            "id": 16776960,
+            "name": "желтый"
+          },
+          {
+            "id": 32768,
+            "name": "зеленый"
+          },
+          {
+            "id": 10824234,
+            "name": "коричневый"
+          },
+          {
+            "id": 16711680,
+            "name": "красный"
+          },
+          {
+            "id": 16753920,
+            "name": "оранжевый"
+          },
+          {
+            "id": 16761035,
+            "name": "розовый"
+          },
+          {
+            "id": 8421504,
+            "name": "серый"
+          },
+          {
+            "id": 255,
+            "name": "синий"
+          },
+          {
+            "id": 15631086,
+            "name": "фиолетовый"
+          },
+          {
+            "id": 0,
+            "name": "черный"
+          }
+        ],
+        "quickOrder": 0
+      },
+      {
+        "name": "Совместимость наушников",
+        "key": "f219494",
+        "maxselect": 20,
+        "items": [
+          {
+            "id": 219495,
+            "name": "Apple airpods"
+          },
+          {
+            "id": 219496,
+            "name": "Apple airpods pro"
+          },
+          {
+            "id": 612824327,
+            "name": "Honor FlyPods Lite"
+          },
+          {
+            "id": 219497,
+            "name": "Samsung Galaxy Buds"
+          },
+          {
+            "id": 219499,
+            "name": "Xiaomi Redmi AirDots"
+          },
+          {
+            "id": 219498,
+            "name": "универсальный"
+          }
+        ],
+        "fullKey": "ff219494",
+        "quickOrder": 0
+      },
+      {
+        "name": "Особенности чехла",
+        "key": "f124080",
+        "maxselect": 20,
+        "items": [
+          {
+            "id": 3702552,
+            "name": "soft touch покрытие"
+          },
+          {
+            "id": 124081,
+            "name": "водонепроницаемый"
+          },
+          {
+            "id": 463166,
+            "name": "защита камеры"
+          },
+          {
+            "id": 26669687,
+            "name": "магнитный"
+          },
+          {
+            "id": 3905455,
+            "name": "поддержка беспроводной зарядки"
+          },
+          {
+            "id": 124082,
+            "name": "противоударный"
+          },
+          {
+            "id": 124651,
+            "name": "с держателем"
+          },
+          {
+            "id": 52886584,
+            "name": "с карманом"
+          },
+          {
+            "id": 472786,
+            "name": "с кольцом"
+          },
+          {
+            "id": 437516917,
+            "name": "с окном для предпросмотра"
+          },
+          {
+            "id": 124083,
+            "name": "с отделением для карт"
+          },
+          {
+            "id": 224545,
+            "name": "с ремешком"
+          },
+          {
+            "id": 124084,
+            "name": "трансформация в подставку"
+          }
+        ],
+        "fullKey": "ff124080",
+        "quickOrder": 0
+      },
+      {
+        "name": "Вид застежки",
+        "key": "f4",
+        "maxselect": 20,
+        "items": [
+          {
+            "id": 10124,
+            "name": "без застежки"
+          },
+          {
+            "id": 9782,
+            "name": "завязки"
+          },
+          {
+            "id": 80987,
+            "name": "зажим"
+          },
+          {
+            "id": 10341,
+            "name": "карабин"
+          },
+          {
+            "id": 10281,
+            "name": "клапан"
+          },
+          {
+            "id": 10010,
+            "name": "кнопки"
+          },
+          {
+            "id": 9783,
+            "name": "крючки"
+          },
+          {
+            "id": 9781,
+            "name": "липучка"
+          },
+          {
+            "id": 417097,
+            "name": "магнит"
+          },
+          {
+            "id": 9844,
+            "name": "молния"
+          },
+          {
+            "id": 10078,
+            "name": "пряжка"
+          },
+          {
+            "id": 9779,
+            "name": "пуговицы"
+          },
+          {
+            "id": 88121,
+            "name": "фиксатор"
+          },
+          {
+            "id": 9780,
+            "name": "шнуровка"
+          }
+        ],
+        "fullKey": "ff4",
+        "quickOrder": 0
+      },
+      {
+        "name": "Тип подключения наушников",
+        "key": "f9427701",
+        "maxselect": 20,
+        "items": [
+          {
+            "id": 26261906,
+            "name": "беспроводное"
+          },
+          {
+            "id": 28740277,
+            "name": "проводное"
+          }
+        ],
+        "fullKey": "ff9427701",
+        "quickOrder": 0
+      },
+      {
+        "name": "Материал изделия",
+        "key": "f17596",
+        "maxselect": 20,
+        "items": [
+          {
+            "id": 233480,
+            "name": "abs-пластик"
+          },
+          {
+            "id": 223958,
+            "name": "EVA"
+          },
+          {
+            "id": 188475,
+            "name": "акрил"
+          },
+          {
+            "id": 26746,
+            "name": "алюминий"
+          },
+          {
+            "id": 386935,
+            "name": "арамид"
+          },
+          {
+            "id": 174810,
+            "name": "бумага"
+          },
+          {
+            "id": 354601,
+            "name": "велюр"
+          },
+          {
+            "id": 26666498,
+            "name": "гель"
+          },
+          {
+            "id": 25227,
+            "name": "дерево"
+          },
+          {
+            "id": 458940,
+            "name": "золото"
+          },
+          {
+            "id": 234299,
+            "name": "искусственная замша"
+          },
+          {
+            "id": 227201,
+            "name": "искусственная кожа"
+          },
+          {
+            "id": 233481,
+            "name": "искусственный велюр"
+          },
+          {
+            "id": 230527,
+            "name": "искусственный мех"
+          },
+          {
+            "id": 213819,
+            "name": "карбон"
+          },
+          {
+            "id": 25846,
+            "name": "картон"
+          },
+          {
+            "id": 27495,
+            "name": "каучук"
+          },
+          {
+            "id": 234587,
+            "name": "лен"
+          },
+          {
+            "id": 385813,
+            "name": "медицинский силикон"
+          },
+          {
+            "id": 25230,
+            "name": "металл"
+          },
+          {
+            "id": 233704,
+            "name": "микрофибра"
+          },
+          {
+            "id": 26967,
+            "name": "натуральная кожа"
+          },
+          {
+            "id": 158263,
+            "name": "нейлон"
+          },
+          {
+            "id": 25288,
+            "name": "нержавеющая сталь"
+          },
+          {
+            "id": 407726,
+            "name": "оксфорд"
+          },
+          {
+            "id": 29072,
+            "name": "ПВХ"
+          },
+          {
+            "id": 224184,
+            "name": "пенополиуретан"
+          },
+          {
+            "id": 234874,
+            "name": "пищевой силикон"
+          },
+          {
+            "id": 25231,
+            "name": "пластик"
+          },
+          {
+            "id": 372842,
+            "name": "плюш"
+          },
+          {
+            "id": 168919,
+            "name": "поликарбонат"
+          },
+          {
+            "id": 142415,
+            "name": "полимер"
+          },
+          {
+            "id": 26239,
+            "name": "полипропилен"
+          },
+          {
+            "id": 224188,
+            "name": "полиуретан"
+          },
+          {
+            "id": 26747,
+            "name": "полиэстер"
+          },
+          {
+            "id": 233495,
+            "name": "поролон"
+          },
+          {
+            "id": 11683731,
+            "name": "ПЭТГ"
+          },
+          {
+            "id": 195600,
+            "name": "резина"
+          },
+          {
+            "id": 28010833,
+            "name": "силикагель"
+          },
+          {
+            "id": 25232,
+            "name": "силикон"
+          },
+          {
+            "id": 440036,
+            "name": "смола"
+          },
+          {
+            "id": 25234,
+            "name": "текстиль"
+          },
+          {
+            "id": 26249,
+            "name": "термопластик"
+          },
+          {
+            "id": 25845,
+            "name": "ткань"
+          },
+          {
+            "id": 460368,
+            "name": "ТПУ"
+          },
+          {
+            "id": 31431,
+            "name": "хлопок"
+          },
+          {
+            "id": 228499,
+            "name": "экокожа"
+          }
+        ],
+        "fullKey": "ff17596",
+        "quickOrder": 0
+      }
+    ]
+  },
+  {
+    "id": 924,
+    "name": "Шапка с гарнитурой",
+    "filters": [
+      {
+        "name": "Распродажа",
+        "key": "faction",
+        "maxselect": 255,
+        "items": [
+          {
+            "id": 202422,
+            "name": "ВЫГОДКА"
+          }
+        ],
+        "quickOrder": 0
+      },
+      {
+        "name": "Цена",
+        "key": "priceU",
+        "minPriceU": 3700,
+        "maxPriceU": 340200000,
+        "quickOrder": 0
+      },
+      {
+        "name": "Срок доставки",
+        "key": "fdlvr",
+        "minTime": 1,
+        "maxTime": 1474,
+        "quickOrder": 0
+      },
+      {
+        "name": "С рейтингом от 4,7",
+        "key": "frating",
+        "type": "toggle",
+        "items": [
+          {
+            "id": 1,
+            "name": "Да"
+          }
+        ],
+        "quickOrder": 0
+      },
+      {
+        "name": "Скидки WB Клуба",
+        "key": "fpremiumuser",
+        "type": "toggle",
+        "items": [
+          {
+            "id": 1,
+            "name": "Да"
+          }
+        ],
+        "quickOrder": 0
+      },
+      {
+        "name": "Цвет",
+        "key": "fcolor",
+        "maxselect": 20,
+        "items": [
+          {
+            "id": 16119260,
+            "name": "бежевый"
+          },
+          {
+            "id": 16777215,
+            "name": "белый"
+          },
+          {
+            "id": 11393254,
+            "name": "голубой"
+          },
+          {
+            "id": 16776960,
+            "name": "желтый"
+          },
+          {
+            "id": 32768,
+            "name": "зеленый"
+          },
+          {
+            "id": 10824234,
+            "name": "коричневый"
+          },
+          {
+            "id": 16711680,
+            "name": "красный"
+          },
+          {
+            "id": 16753920,
+            "name": "оранжевый"
+          },
+          {
+            "id": 16761035,
+            "name": "розовый"
+          },
+          {
+            "id": 8421504,
+            "name": "серый"
+          },
+          {
+            "id": 255,
+            "name": "синий"
+          },
+          {
+            "id": 15631086,
+            "name": "фиолетовый"
+          },
+          {
+            "id": 0,
+            "name": "черный"
+          }
+        ],
+        "quickOrder": 0
+      }
+    ]
+  }
+]

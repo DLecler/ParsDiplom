@@ -1,0 +1,395 @@
+{
+  "id": 61808,
+  "name": "Аксессуары для геймпадов",
+  "filters": [
+    {
+      "name": "Распродажа",
+      "key": "faction",
+      "maxselect": 255,
+      "items": [
+        {
+          "id": 202422,
+          "name": "ВЫГОДКА"
+        }
+      ],
+      "quickOrder": 0
+    },
+    {
+      "name": "Можно вернуть НДС",
+      "key": "fnds",
+      "type": "toggle",
+      "items": [
+        {
+          "id": 1,
+          "name": "Да"
+        }
+      ],
+      "quickOrder": 0
+    },
+    {
+      "name": "Цена",
+      "key": "priceU",
+      "minPriceU": 6500,
+      "maxPriceU": 8275600,
+      "quickOrder": 0
+    },
+    {
+      "name": "Срок доставки",
+      "key": "fdlvr",
+      "minTime": 22,
+      "maxTime": 741,
+      "quickOrder": 0
+    },
+    {
+      "name": "С рейтингом от 4,7",
+      "key": "frating",
+      "type": "toggle",
+      "items": [
+        {
+          "id": 1,
+          "name": "Да"
+        }
+      ],
+      "quickOrder": 0
+    },
+    {
+      "name": "Оригинальный товар",
+      "key": "foriginal",
+      "type": "toggle",
+      "items": [
+        {
+          "id": 1,
+          "name": "Да"
+        }
+      ],
+      "quickOrder": 0
+    },
+    {
+      "name": "Премиум-продавец",
+      "key": "fpremium",
+      "type": "toggle",
+      "items": [
+        {
+          "id": 1,
+          "name": "Да"
+        }
+      ],
+      "quickOrder": 0
+    },
+    {
+      "name": "Рубли за отзыв",
+      "key": "ffeedbackpoints",
+      "type": "toggle",
+      "items": [
+        {
+          "id": 1,
+          "name": "Да"
+        }
+      ],
+      "quickOrder": 0
+    },
+    {
+      "name": "Скидки WB Клуба",
+      "key": "fpremiumuser",
+      "type": "toggle",
+      "items": [
+        {
+          "id": 1,
+          "name": "Да"
+        }
+      ],
+      "quickOrder": 0
+    },
+    {
+      "name": "Цвет",
+      "key": "fcolor",
+      "maxselect": 20,
+      "items": [
+        {
+          "id": 16119260,
+          "name": "бежевый"
+        },
+        {
+          "id": 16777215,
+          "name": "белый"
+        },
+        {
+          "id": 11393254,
+          "name": "голубой"
+        },
+        {
+          "id": 16776960,
+          "name": "желтый"
+        },
+        {
+          "id": 32768,
+          "name": "зеленый"
+        },
+        {
+          "id": 10824234,
+          "name": "коричневый"
+        },
+        {
+          "id": 16711680,
+          "name": "красный"
+        },
+        {
+          "id": 16753920,
+          "name": "оранжевый"
+        },
+        {
+          "id": 16761035,
+          "name": "розовый"
+        },
+        {
+          "id": 8421504,
+          "name": "серый"
+        },
+        {
+          "id": 255,
+          "name": "синий"
+        },
+        {
+          "id": 15631086,
+          "name": "фиолетовый"
+        },
+        {
+          "id": 0,
+          "name": "черный"
+        }
+      ],
+      "quickOrder": 0
+    },
+    {
+      "name": "Совместимые платформы",
+      "key": "f85080",
+      "maxselect": 20,
+      "items": [
+        {
+          "id": 91202,
+          "name": "Nintendo Switch"
+        },
+        {
+          "id": 5014957,
+          "name": "Nintendo Wii"
+        },
+        {
+          "id": 626530,
+          "name": "PC"
+        },
+        {
+          "id": 447024,
+          "name": "PlayStation 2"
+        },
+        {
+          "id": 91198,
+          "name": "PlayStation 3"
+        },
+        {
+          "id": 91199,
+          "name": "PlayStation 4"
+        },
+        {
+          "id": 388495,
+          "name": "PlayStation 5"
+        },
+        {
+          "id": 6095361,
+          "name": "PlayStation Portable"
+        },
+        {
+          "id": 637559032,
+          "name": "Steam Deck"
+        },
+        {
+          "id": 91204,
+          "name": "Xbox 360"
+        },
+        {
+          "id": 91203,
+          "name": "Xbox One"
+        },
+        {
+          "id": 511761,
+          "name": "Xbox Series S"
+        },
+        {
+          "id": 431494,
+          "name": "Xbox Series X"
+        }
+      ],
+      "fullKey": "ff85080",
+      "quickOrder": 0
+    },
+    {
+      "name": "Материал изделия",
+      "key": "f17596",
+      "maxselect": 20,
+      "items": [
+        {
+          "id": 233480,
+          "name": "abs-пластик"
+        },
+        {
+          "id": 223958,
+          "name": "EVA"
+        },
+        {
+          "id": 188475,
+          "name": "акрил"
+        },
+        {
+          "id": 26746,
+          "name": "алюминий"
+        },
+        {
+          "id": 228920,
+          "name": "войлок"
+        },
+        {
+          "id": 25227,
+          "name": "дерево"
+        },
+        {
+          "id": 213819,
+          "name": "карбон"
+        },
+        {
+          "id": 234801,
+          "name": "медь"
+        },
+        {
+          "id": 25230,
+          "name": "металл"
+        },
+        {
+          "id": 233704,
+          "name": "микрофибра"
+        },
+        {
+          "id": 158263,
+          "name": "нейлон"
+        },
+        {
+          "id": 25288,
+          "name": "нержавеющая сталь"
+        },
+        {
+          "id": 407726,
+          "name": "оксфорд"
+        },
+        {
+          "id": 29072,
+          "name": "ПВХ"
+        },
+        {
+          "id": 25231,
+          "name": "пластик"
+        },
+        {
+          "id": 168919,
+          "name": "поликарбонат"
+        },
+        {
+          "id": 142415,
+          "name": "полимер"
+        },
+        {
+          "id": 26747,
+          "name": "полиэстер"
+        },
+        {
+          "id": 11683731,
+          "name": "ПЭТГ"
+        },
+        {
+          "id": 195600,
+          "name": "резина"
+        },
+        {
+          "id": 233722,
+          "name": "серебро"
+        },
+        {
+          "id": 25232,
+          "name": "силикон"
+        },
+        {
+          "id": 440036,
+          "name": "смола"
+        },
+        {
+          "id": 233700,
+          "name": "спандекс"
+        },
+        {
+          "id": 25233,
+          "name": "стекло"
+        },
+        {
+          "id": 224238,
+          "name": "стекловолокно"
+        },
+        {
+          "id": 25234,
+          "name": "текстиль"
+        },
+        {
+          "id": 25845,
+          "name": "ткань"
+        },
+        {
+          "id": 460368,
+          "name": "ТПУ"
+        },
+        {
+          "id": 224150,
+          "name": "трикотаж"
+        },
+        {
+          "id": 617398,
+          "name": "углеродное волокно"
+        },
+        {
+          "id": 233713,
+          "name": "фанера"
+        },
+        {
+          "id": 228499,
+          "name": "экокожа"
+        }
+      ],
+      "fullKey": "ff17596",
+      "quickOrder": 0
+    },
+    {
+      "name": "Модель",
+      "key": "f5023",
+      "maxselect": 20,
+      "items": [
+        {
+          "id": 3703317,
+          "name": "Nintendo Switch"
+        },
+        {
+          "id": 168243,
+          "name": "PlayStation 4"
+        },
+        {
+          "id": 384810,
+          "name": "PlayStation 5"
+        },
+        {
+          "id": 5428222,
+          "name": "Xbox 360"
+        },
+        {
+          "id": 3703162,
+          "name": "Xbox One"
+        }
+      ],
+      "fullKey": "ff5023",
+      "quickOrder": 0
+    }
+  ]
+}

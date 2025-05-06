@@ -1,0 +1,4998 @@
+[
+  {
+    "id": 1151,
+    "name": "3D-ручка",
+    "filters": [
+      {
+        "name": "Распродажа",
+        "key": "faction",
+        "maxselect": 255,
+        "items": [
+          {
+            "id": 202422,
+            "name": "ВЫГОДКА"
+          }
+        ],
+        "quickOrder": 0
+      },
+      {
+        "name": "Можно вернуть НДС",
+        "key": "fnds",
+        "type": "toggle",
+        "items": [
+          {
+            "id": 1,
+            "name": "Да"
+          }
+        ],
+        "quickOrder": 0
+      },
+      {
+        "name": "Цена",
+        "key": "priceU",
+        "minPriceU": 6700,
+        "maxPriceU": 163800000,
+        "quickOrder": 0
+      },
+      {
+        "name": "Срок доставки",
+        "key": "fdlvr",
+        "minTime": 1,
+        "maxTime": 741,
+        "quickOrder": 0
+      },
+      {
+        "name": "С рейтингом от 4,7",
+        "key": "frating",
+        "type": "toggle",
+        "items": [
+          {
+            "id": 1,
+            "name": "Да"
+          }
+        ],
+        "quickOrder": 0
+      },
+      {
+        "name": "Оригинальный товар",
+        "key": "foriginal",
+        "type": "toggle",
+        "items": [
+          {
+            "id": 1,
+            "name": "Да"
+          }
+        ],
+        "quickOrder": 0
+      },
+      {
+        "name": "Премиум-продавец",
+        "key": "fpremium",
+        "type": "toggle",
+        "items": [
+          {
+            "id": 1,
+            "name": "Да"
+          }
+        ],
+        "quickOrder": 0
+      },
+      {
+        "name": "Рубли за отзыв",
+        "key": "ffeedbackpoints",
+        "type": "toggle",
+        "items": [
+          {
+            "id": 1,
+            "name": "Да"
+          }
+        ],
+        "quickOrder": 0
+      },
+      {
+        "name": "Скидки WB Клуба",
+        "key": "fpremiumuser",
+        "type": "toggle",
+        "items": [
+          {
+            "id": 1,
+            "name": "Да"
+          }
+        ],
+        "quickOrder": 0
+      },
+      {
+        "name": "Цвет",
+        "key": "fcolor",
+        "maxselect": 20,
+        "items": [
+          {
+            "id": 16119260,
+            "name": "бежевый"
+          },
+          {
+            "id": 16777215,
+            "name": "белый"
+          },
+          {
+            "id": 11393254,
+            "name": "голубой"
+          },
+          {
+            "id": 16776960,
+            "name": "желтый"
+          },
+          {
+            "id": 32768,
+            "name": "зеленый"
+          },
+          {
+            "id": 10824234,
+            "name": "коричневый"
+          },
+          {
+            "id": 16711680,
+            "name": "красный"
+          },
+          {
+            "id": 16753920,
+            "name": "оранжевый"
+          },
+          {
+            "id": 16761035,
+            "name": "розовый"
+          },
+          {
+            "id": 8421504,
+            "name": "серый"
+          },
+          {
+            "id": 255,
+            "name": "синий"
+          },
+          {
+            "id": 15631086,
+            "name": "фиолетовый"
+          },
+          {
+            "id": 0,
+            "name": "черный"
+          }
+        ],
+        "quickOrder": 0
+      },
+      {
+        "name": "Модель",
+        "key": "f5023",
+        "maxselect": 20,
+        "items": [
+          {
+            "id": 112423,
+            "name": "002"
+          },
+          {
+            "id": 134566,
+            "name": "040"
+          },
+          {
+            "id": 502389,
+            "name": "IPX7"
+          },
+          {
+            "id": 81345,
+            "name": "M10"
+          },
+          {
+            "id": 170110,
+            "name": "M22"
+          },
+          {
+            "id": 81350,
+            "name": "M5"
+          },
+          {
+            "id": 81352,
+            "name": "M7"
+          },
+          {
+            "id": 3703317,
+            "name": "Nintendo Switch"
+          },
+          {
+            "id": 6067031,
+            "name": "OLED"
+          },
+          {
+            "id": 168243,
+            "name": "PlayStation 4"
+          },
+          {
+            "id": 384810,
+            "name": "PlayStation 5"
+          },
+          {
+            "id": 202330,
+            "name": "Slim"
+          },
+          {
+            "id": 140834,
+            "name": "Smart"
+          },
+          {
+            "id": 111491,
+            "name": "2"
+          },
+          {
+            "id": 7072783,
+            "name": "8 бит"
+          },
+          {
+            "id": 214257,
+            "name": "341"
+          },
+          {
+            "id": 223783,
+            "name": "400"
+          }
+        ],
+        "fullKey": "ff5023",
+        "quickOrder": 0
+      },
+      {
+        "name": "Гарантийный срок",
+        "key": "f9623",
+        "maxselect": 20,
+        "items": [
+          {
+            "id": 441000,
+            "name": "1 мес"
+          },
+          {
+            "id": 452319,
+            "name": "2 мес"
+          },
+          {
+            "id": 453656,
+            "name": "3 мес"
+          },
+          {
+            "id": 447993,
+            "name": "4 мес"
+          },
+          {
+            "id": 5676460,
+            "name": "5 мес"
+          },
+          {
+            "id": 423898,
+            "name": "6 мес"
+          },
+          {
+            "id": 3980777,
+            "name": "7 мес"
+          },
+          {
+            "id": 14553130,
+            "name": "8 мес"
+          },
+          {
+            "id": 1743051,
+            "name": "9 мес"
+          },
+          {
+            "id": 3881244,
+            "name": "10 мес"
+          },
+          {
+            "id": 14553126,
+            "name": "11 мес"
+          },
+          {
+            "id": 407820,
+            "name": "1 год"
+          },
+          {
+            "id": 3176320,
+            "name": "14 мес"
+          },
+          {
+            "id": 3176316,
+            "name": "15 мес"
+          },
+          {
+            "id": 3823242,
+            "name": "16 мес"
+          },
+          {
+            "id": 3855854,
+            "name": "1,5 года"
+          },
+          {
+            "id": 407956,
+            "name": "2 года"
+          },
+          {
+            "id": 414744,
+            "name": "3 года"
+          },
+          {
+            "id": 407851,
+            "name": "5 лет"
+          },
+          {
+            "id": 26793709,
+            "name": "8 лет"
+          },
+          {
+            "id": 414724,
+            "name": "9 лет"
+          },
+          {
+            "id": 439472,
+            "name": "10 лет"
+          },
+          {
+            "id": 619661906,
+            "name": "3 нед"
+          },
+          {
+            "id": 3932581,
+            "name": "1 нед"
+          },
+          {
+            "id": 476789235,
+            "name": "2 нед"
+          }
+        ],
+        "fullKey": "ff9623",
+        "quickOrder": 0
+      },
+      {
+        "name": "Технология печати",
+        "key": "f15935",
+        "maxselect": 20,
+        "items": [
+          {
+            "id": 23795,
+            "name": "FDM"
+          },
+          {
+            "id": 70184,
+            "name": "SLA"
+          }
+        ],
+        "fullKey": "ff15935",
+        "quickOrder": 0
+      },
+      {
+        "name": "Тип пластика",
+        "key": "f15941",
+        "maxselect": 20,
+        "items": [
+          {
+            "id": 414782,
+            "name": "ABS"
+          },
+          {
+            "id": 3999080,
+            "name": "PCL"
+          },
+          {
+            "id": 368791,
+            "name": "PETG"
+          },
+          {
+            "id": 413902,
+            "name": "PLA"
+          },
+          {
+            "id": 3999074,
+            "name": "SBS"
+          }
+        ],
+        "fullKey": "ff15941",
+        "quickOrder": 0
+      },
+      {
+        "name": "Материал печати",
+        "key": "f63232",
+        "maxselect": 20,
+        "items": [
+          {
+            "id": 73865412,
+            "name": "abs-пластик"
+          },
+          {
+            "id": 819240945,
+            "name": "petg-пластик"
+          },
+          {
+            "id": 5657172,
+            "name": "pla-пластик"
+          }
+        ],
+        "fullKey": "ff63232",
+        "quickOrder": 0
+      }
+    ]
+  },
+  {
+    "id": 532,
+    "name": "Диск с играми",
+    "filters": [
+      {
+        "name": "Распродажа",
+        "key": "faction",
+        "maxselect": 255,
+        "items": [
+          {
+            "id": 202422,
+            "name": "ВЫГОДКА"
+          }
+        ],
+        "quickOrder": 0
+      },
+      {
+        "name": "Можно вернуть НДС",
+        "key": "fnds",
+        "type": "toggle",
+        "items": [
+          {
+            "id": 1,
+            "name": "Да"
+          }
+        ],
+        "quickOrder": 0
+      },
+      {
+        "name": "Цена",
+        "key": "priceU",
+        "minPriceU": 6700,
+        "maxPriceU": 163800000,
+        "quickOrder": 0
+      },
+      {
+        "name": "Срок доставки",
+        "key": "fdlvr",
+        "minTime": 1,
+        "maxTime": 741,
+        "quickOrder": 0
+      },
+      {
+        "name": "С рейтингом от 4,7",
+        "key": "frating",
+        "type": "toggle",
+        "items": [
+          {
+            "id": 1,
+            "name": "Да"
+          }
+        ],
+        "quickOrder": 0
+      },
+      {
+        "name": "Оригинальный товар",
+        "key": "foriginal",
+        "type": "toggle",
+        "items": [
+          {
+            "id": 1,
+            "name": "Да"
+          }
+        ],
+        "quickOrder": 0
+      },
+      {
+        "name": "Премиум-продавец",
+        "key": "fpremium",
+        "type": "toggle",
+        "items": [
+          {
+            "id": 1,
+            "name": "Да"
+          }
+        ],
+        "quickOrder": 0
+      },
+      {
+        "name": "Рубли за отзыв",
+        "key": "ffeedbackpoints",
+        "type": "toggle",
+        "items": [
+          {
+            "id": 1,
+            "name": "Да"
+          }
+        ],
+        "quickOrder": 0
+      },
+      {
+        "name": "Скидки WB Клуба",
+        "key": "fpremiumuser",
+        "type": "toggle",
+        "items": [
+          {
+            "id": 1,
+            "name": "Да"
+          }
+        ],
+        "quickOrder": 0
+      },
+      {
+        "name": "Совместимые платформы",
+        "key": "f85080",
+        "maxselect": 20,
+        "items": [
+          {
+            "id": 91202,
+            "name": "Nintendo Switch"
+          },
+          {
+            "id": 5014957,
+            "name": "Nintendo Wii"
+          },
+          {
+            "id": 626530,
+            "name": "PC"
+          },
+          {
+            "id": 5649150,
+            "name": "PlayStation 1"
+          },
+          {
+            "id": 447024,
+            "name": "PlayStation 2"
+          },
+          {
+            "id": 91198,
+            "name": "PlayStation 3"
+          },
+          {
+            "id": 91199,
+            "name": "PlayStation 4"
+          },
+          {
+            "id": 388495,
+            "name": "PlayStation 5"
+          },
+          {
+            "id": 6095361,
+            "name": "PlayStation Portable"
+          },
+          {
+            "id": 6096135,
+            "name": "PlayStation Vita"
+          },
+          {
+            "id": 91204,
+            "name": "Xbox 360"
+          },
+          {
+            "id": 91203,
+            "name": "Xbox One"
+          },
+          {
+            "id": 511761,
+            "name": "Xbox Series S"
+          },
+          {
+            "id": 431494,
+            "name": "Xbox Series X"
+          }
+        ],
+        "fullKey": "ff85080",
+        "quickOrder": 0
+      },
+      {
+        "name": "Возрастные ограничения",
+        "key": "f19717",
+        "maxselect": 20,
+        "items": [
+          {
+            "id": 27074,
+            "name": "0+"
+          },
+          {
+            "id": 27088,
+            "name": "1+"
+          },
+          {
+            "id": 27089,
+            "name": "2+"
+          },
+          {
+            "id": 27091,
+            "name": "3+"
+          },
+          {
+            "id": 27087,
+            "name": "4+"
+          },
+          {
+            "id": 132126,
+            "name": "+5мес"
+          },
+          {
+            "id": 27085,
+            "name": "5+"
+          },
+          {
+            "id": 27075,
+            "name": "6+"
+          },
+          {
+            "id": 27092,
+            "name": "7+"
+          },
+          {
+            "id": 27086,
+            "name": "8+"
+          },
+          {
+            "id": 63704,
+            "name": "9+"
+          },
+          {
+            "id": 63705,
+            "name": "10+"
+          },
+          {
+            "id": 27076,
+            "name": "12+"
+          },
+          {
+            "id": 67336,
+            "name": "13+"
+          },
+          {
+            "id": 63706,
+            "name": "14+"
+          },
+          {
+            "id": 114994,
+            "name": "15+"
+          },
+          {
+            "id": 27077,
+            "name": "16+"
+          },
+          {
+            "id": 133514,
+            "name": "17+"
+          },
+          {
+            "id": 27078,
+            "name": "18+"
+          }
+        ],
+        "fullKey": "ff19717",
+        "quickOrder": 0
+      },
+      {
+        "name": "Год релиза",
+        "key": "f119212",
+        "maxselect": 20,
+        "items": [
+          {
+            "id": 135759,
+            "name": "1994"
+          },
+          {
+            "id": 673318287,
+            "name": "1996"
+          },
+          {
+            "id": 673508225,
+            "name": "1997"
+          },
+          {
+            "id": 52527604,
+            "name": "2001 "
+          },
+          {
+            "id": 52421092,
+            "name": "2003 "
+          },
+          {
+            "id": 4001443,
+            "name": "2004"
+          },
+          {
+            "id": 239448,
+            "name": "2005"
+          },
+          {
+            "id": 162823,
+            "name": "2006"
+          },
+          {
+            "id": 162824,
+            "name": "2007"
+          },
+          {
+            "id": 162825,
+            "name": "2008"
+          },
+          {
+            "id": 3998442,
+            "name": "2009"
+          },
+          {
+            "id": 127446,
+            "name": "2010"
+          },
+          {
+            "id": 127445,
+            "name": "2011"
+          },
+          {
+            "id": 122342,
+            "name": "2012"
+          },
+          {
+            "id": 119222,
+            "name": "2013"
+          },
+          {
+            "id": 119221,
+            "name": "2014"
+          },
+          {
+            "id": 119220,
+            "name": "2015"
+          },
+          {
+            "id": 119219,
+            "name": "2016"
+          },
+          {
+            "id": 119218,
+            "name": "2017"
+          },
+          {
+            "id": 119217,
+            "name": "2018"
+          },
+          {
+            "id": 135758,
+            "name": "2019"
+          },
+          {
+            "id": 216104,
+            "name": "2020"
+          },
+          {
+            "id": 461113,
+            "name": "2021"
+          },
+          {
+            "id": 6733626,
+            "name": "2022"
+          },
+          {
+            "id": 585069509,
+            "name": "2023"
+          },
+          {
+            "id": 832647918,
+            "name": "2024"
+          }
+        ],
+        "fullKey": "ff119212",
+        "quickOrder": 0
+      },
+      {
+        "name": "Основной жанр игры",
+        "key": "f5014",
+        "maxselect": 20,
+        "items": [
+          {
+            "id": 162846,
+            "name": "аркада"
+          },
+          {
+            "id": 22269,
+            "name": "боевик"
+          },
+          {
+            "id": 14730163,
+            "name": "головоломки"
+          },
+          {
+            "id": 13368,
+            "name": "гонки"
+          },
+          {
+            "id": 97354360,
+            "name": "МОБА"
+          },
+          {
+            "id": 3721786,
+            "name": "настольная"
+          },
+          {
+            "id": 92773381,
+            "name": "научная фантастика"
+          },
+          {
+            "id": 531887,
+            "name": "платформер"
+          },
+          {
+            "id": 533772,
+            "name": "приключения"
+          },
+          {
+            "id": 119449,
+            "name": "РПГ"
+          },
+          {
+            "id": 13363,
+            "name": "симулятор"
+          },
+          {
+            "id": 22271,
+            "name": "спорт"
+          },
+          {
+            "id": 22274,
+            "name": "стратегия"
+          },
+          {
+            "id": 13364,
+            "name": "триллер"
+          },
+          {
+            "id": 4063984,
+            "name": "файтинг"
+          },
+          {
+            "id": 10551004,
+            "name": "хоррор"
+          },
+          {
+            "id": 13370,
+            "name": "шутер"
+          },
+          {
+            "id": 13367,
+            "name": "экшн"
+          }
+        ],
+        "fullKey": "ff5014",
+        "quickOrder": 0
+      },
+      {
+        "name": "Режимы игры",
+        "key": "f119213",
+        "maxselect": 20,
+        "items": [
+          {
+            "id": 119215,
+            "name": "кооператив"
+          },
+          {
+            "id": 119216,
+            "name": "мультиплеер"
+          },
+          {
+            "id": 119214,
+            "name": "одиночный"
+          }
+        ],
+        "fullKey": "ff119213",
+        "quickOrder": 0
+      },
+      {
+        "name": "Тип издания игры",
+        "key": "f95230",
+        "maxselect": 20,
+        "items": [
+          {
+            "id": 99189,
+            "name": "DLC"
+          },
+          {
+            "id": 99193,
+            "name": "обычное"
+          },
+          {
+            "id": 99190,
+            "name": "специальное"
+          }
+        ],
+        "fullKey": "ff95230",
+        "quickOrder": 0
+      },
+      {
+        "name": "Формат издания",
+        "key": "f95233",
+        "maxselect": 20,
+        "items": [
+          {
+            "id": 99192,
+            "name": "коробочная версия"
+          },
+          {
+            "id": 99191,
+            "name": "электронный ключ"
+          }
+        ],
+        "fullKey": "ff95233",
+        "quickOrder": 0
+      },
+      {
+        "name": "Языки",
+        "key": "f5300",
+        "maxselect": 20,
+        "items": [
+          {
+            "id": 13617,
+            "name": "английский"
+          },
+          {
+            "id": 20222,
+            "name": "немецкий"
+          },
+          {
+            "id": 13616,
+            "name": "русский"
+          },
+          {
+            "id": 134153,
+            "name": "турецкий"
+          },
+          {
+            "id": 20223,
+            "name": "французский"
+          },
+          {
+            "id": 119367,
+            "name": "чешский"
+          },
+          {
+            "id": 119368,
+            "name": "японский"
+          }
+        ],
+        "fullKey": "ff5300",
+        "quickOrder": 0
+      }
+    ]
+  },
+  {
+    "id": 523,
+    "name": "Игровая консоль",
+    "filters": [
+      {
+        "name": "Распродажа",
+        "key": "faction",
+        "maxselect": 255,
+        "items": [
+          {
+            "id": 202422,
+            "name": "ВЫГОДКА"
+          }
+        ],
+        "quickOrder": 0
+      },
+      {
+        "name": "Можно вернуть НДС",
+        "key": "fnds",
+        "type": "toggle",
+        "items": [
+          {
+            "id": 1,
+            "name": "Да"
+          }
+        ],
+        "quickOrder": 0
+      },
+      {
+        "name": "Цена",
+        "key": "priceU",
+        "minPriceU": 6700,
+        "maxPriceU": 163800000,
+        "quickOrder": 0
+      },
+      {
+        "name": "Срок доставки",
+        "key": "fdlvr",
+        "minTime": 1,
+        "maxTime": 741,
+        "quickOrder": 0
+      },
+      {
+        "name": "С рейтингом от 4,7",
+        "key": "frating",
+        "type": "toggle",
+        "items": [
+          {
+            "id": 1,
+            "name": "Да"
+          }
+        ],
+        "quickOrder": 0
+      },
+      {
+        "name": "Оригинальный товар",
+        "key": "foriginal",
+        "type": "toggle",
+        "items": [
+          {
+            "id": 1,
+            "name": "Да"
+          }
+        ],
+        "quickOrder": 0
+      },
+      {
+        "name": "Премиум-продавец",
+        "key": "fpremium",
+        "type": "toggle",
+        "items": [
+          {
+            "id": 1,
+            "name": "Да"
+          }
+        ],
+        "quickOrder": 0
+      },
+      {
+        "name": "Рубли за отзыв",
+        "key": "ffeedbackpoints",
+        "type": "toggle",
+        "items": [
+          {
+            "id": 1,
+            "name": "Да"
+          }
+        ],
+        "quickOrder": 0
+      },
+      {
+        "name": "Скидки WB Клуба",
+        "key": "fpremiumuser",
+        "type": "toggle",
+        "items": [
+          {
+            "id": 1,
+            "name": "Да"
+          }
+        ],
+        "quickOrder": 0
+      },
+      {
+        "name": "Беспроводные интерфейсы",
+        "key": "f10466",
+        "maxselect": 20,
+        "items": [
+          {
+            "id": 7970798,
+            "name": "AirPlay 2"
+          },
+          {
+            "id": 18635,
+            "name": "Bluetooth"
+          },
+          {
+            "id": 3928889,
+            "name": "IRDA"
+          },
+          {
+            "id": 18636,
+            "name": "NFC"
+          },
+          {
+            "id": 18646,
+            "name": "Wi-Fi"
+          },
+          {
+            "id": 23958,
+            "name": "радиоканал"
+          }
+        ],
+        "fullKey": "ff10466",
+        "quickOrder": 0
+      },
+      {
+        "name": "Процессор",
+        "key": "f4521",
+        "maxselect": 20,
+        "items": [
+          {
+            "id": 155599380,
+            "name": "Allwinner A133"
+          },
+          {
+            "id": 1193885771,
+            "name": "Allwinner A133P"
+          },
+          {
+            "id": 53012666,
+            "name": "Allwinner C200S"
+          },
+          {
+            "id": 181757973,
+            "name": "Allwinner F1C100s"
+          },
+          {
+            "id": 1039833371,
+            "name": "Allwinner H133"
+          },
+          {
+            "id": 392795,
+            "name": "Allwinner H616"
+          },
+          {
+            "id": 1185253977,
+            "name": "Allwinner H700"
+          },
+          {
+            "id": 481354080,
+            "name": "AMD FirePro 2270"
+          },
+          {
+            "id": 638727741,
+            "name": "AMD FirePro S10000"
+          },
+          {
+            "id": 87746,
+            "name": "AMD Jaguar"
+          },
+          {
+            "id": 5009008,
+            "name": "Amlogic S905"
+          },
+          {
+            "id": 614857602,
+            "name": "Amlogic S905 X3"
+          },
+          {
+            "id": 930764602,
+            "name": "Amlogic S905G"
+          },
+          {
+            "id": 598033683,
+            "name": "Amlogic S905L"
+          },
+          {
+            "id": 1360291362,
+            "name": "Amlogic S905M"
+          },
+          {
+            "id": 209479,
+            "name": "Amlogic S905X"
+          },
+          {
+            "id": 132475,
+            "name": "Amlogic S905X2"
+          },
+          {
+            "id": 389740,
+            "name": "Amlogic S905X3"
+          },
+          {
+            "id": 3692046,
+            "name": "Amlogic S905X4"
+          },
+          {
+            "id": 10537253,
+            "name": "Amlogic S905Y4"
+          },
+          {
+            "id": 569964974,
+            "name": "ARM Cortex-A35"
+          },
+          {
+            "id": 90321,
+            "name": "ARM Cortex-A53"
+          },
+          {
+            "id": 419720,
+            "name": "ARM Cortex-A55"
+          },
+          {
+            "id": 12930,
+            "name": "ARM Cortex-A7"
+          },
+          {
+            "id": 12932,
+            "name": "ARM Cortex-A9"
+          },
+          {
+            "id": 640699879,
+            "name": "ARM Cortex-M7"
+          },
+          {
+            "id": 10800447,
+            "name": "MIPS R3000"
+          },
+          {
+            "id": 115810,
+            "name": "Motorola 6502"
+          },
+          {
+            "id": 5961364,
+            "name": "Motorola 68000"
+          },
+          {
+            "id": 177057,
+            "name": "NVIDIA Tegra X1"
+          },
+          {
+            "id": 10583616,
+            "name": "Qualcomm Snapdragon 680"
+          },
+          {
+            "id": 254981,
+            "name": "Qualcomm Snapdragon 865"
+          },
+          {
+            "id": 121247549,
+            "name": "Realtek 1097"
+          },
+          {
+            "id": 939658270,
+            "name": "Realtek 3570"
+          },
+          {
+            "id": 119603428,
+            "name": "Realtek 3790"
+          },
+          {
+            "id": 697980299,
+            "name": "Rockchip RK3032"
+          },
+          {
+            "id": 551138267,
+            "name": "Rockchip RK3326"
+          },
+          {
+            "id": 3897322,
+            "name": "Rockchip RK3566"
+          },
+          {
+            "id": 5956560,
+            "name": "TCT-6803"
+          },
+          {
+            "id": 1002502791,
+            "name": "UM6561"
+          },
+          {
+            "id": 1063346138,
+            "name": "Unisoc T820"
+          },
+          {
+            "id": 4203940,
+            "name": "Unisoc Tiger T618"
+          },
+          {
+            "id": 634150593,
+            "name": "Zilog Z80"
+          }
+        ],
+        "fullKey": "ff4521",
+        "quickOrder": 0
+      },
+      {
+        "name": "Количество ядер процессора",
+        "key": "f15002691",
+        "maxselect": 20,
+        "items": [
+          {
+            "id": -30145,
+            "name": "1"
+          },
+          {
+            "id": -30148,
+            "name": "4"
+          },
+          {
+            "id": -30150,
+            "name": "8"
+          }
+        ],
+        "fullKey": "ff15002691",
+        "quickOrder": 0
+      },
+      {
+        "name": "Видеопроцессор",
+        "key": "f4665",
+        "maxselect": 20,
+        "items": [
+          {
+            "id": 1472673090,
+            "name": "AMD Radeon 1.84 TFLOPS"
+          },
+          {
+            "id": 813788558,
+            "name": "ARM Mali-G31 MP2"
+          },
+          {
+            "id": 1886925540,
+            "name": "ARM Mali-G52 MP2"
+          },
+          {
+            "id": 1915233992,
+            "name": "NVIDIA GeForce Tegra 3"
+          },
+          {
+            "id": 100261,
+            "name": "NVIDIA Tegra X1"
+          },
+          {
+            "id": 1091130095,
+            "name": "PowerVR GE8300"
+          },
+          {
+            "id": 876391691,
+            "name": "PowerVR SGX544MP"
+          }
+        ],
+        "fullKey": "ff4665",
+        "quickOrder": 0
+      },
+      {
+        "name": "Объем встроенной памяти, Гб",
+        "key": "f15002590",
+        "maxselect": 20,
+        "items": [
+          {
+            "id": -29969,
+            "name": "8 Гб"
+          },
+          {
+            "id": -29970,
+            "name": "16 Гб"
+          },
+          {
+            "id": -29971,
+            "name": "32 Гб"
+          },
+          {
+            "id": -29972,
+            "name": "64 Гб"
+          },
+          {
+            "id": -29973,
+            "name": "128 Гб"
+          },
+          {
+            "id": -29974,
+            "name": "256 Гб"
+          },
+          {
+            "id": -29975,
+            "name": "500-512 Гб"
+          },
+          {
+            "id": -29968,
+            "name": "6 Гб и менее"
+          },
+          {
+            "id": -29976,
+            "name": "1000-1024 Гб"
+          },
+          {
+            "id": -29977,
+            "name": "2000-2048 Гб"
+          }
+        ],
+        "fullKey": "ff15002590",
+        "quickOrder": 0
+      },
+      {
+        "name": "Количество портов USB",
+        "key": "f63269",
+        "maxselect": 20,
+        "items": [
+          {
+            "id": 70204,
+            "name": "1 шт."
+          },
+          {
+            "id": 70205,
+            "name": "2 шт."
+          },
+          {
+            "id": 70206,
+            "name": "3 шт."
+          },
+          {
+            "id": 70207,
+            "name": "4 шт."
+          }
+        ],
+        "fullKey": "ff63269",
+        "quickOrder": 0
+      },
+      {
+        "name": "Количество портов HDMI",
+        "key": "f65229",
+        "maxselect": 20,
+        "items": [
+          {
+            "id": 1020322167,
+            "name": "1 разъем"
+          },
+          {
+            "id": 1020322472,
+            "name": "2 разъема"
+          }
+        ],
+        "fullKey": "ff65229",
+        "quickOrder": 0
+      },
+      {
+        "name": "Количество игр в комплекте",
+        "key": "f65674",
+        "maxselect": 20,
+        "items": [
+          {
+            "id": 10516862,
+            "name": "Нет"
+          },
+          {
+            "id": 72411,
+            "name": "1 шт."
+          },
+          {
+            "id": 72413,
+            "name": "3 шт."
+          },
+          {
+            "id": 686668537,
+            "name": "10 шт."
+          },
+          {
+            "id": 14746390,
+            "name": "14 шт."
+          },
+          {
+            "id": 686668536,
+            "name": "15 шт."
+          },
+          {
+            "id": 9160931,
+            "name": "25 шт."
+          },
+          {
+            "id": 152095,
+            "name": "40 шт."
+          },
+          {
+            "id": 135438,
+            "name": "50 шт."
+          },
+          {
+            "id": 2077155512,
+            "name": "60 шт."
+          },
+          {
+            "id": 3696669,
+            "name": "100 шт."
+          },
+          {
+            "id": 135436,
+            "name": "150 шт."
+          },
+          {
+            "id": 3696467,
+            "name": "200 шт."
+          },
+          {
+            "id": 204569,
+            "name": "252 шт."
+          },
+          {
+            "id": 873894459,
+            "name": "260 шт."
+          },
+          {
+            "id": 135437,
+            "name": "300 шт."
+          },
+          {
+            "id": 145332,
+            "name": "400 шт."
+          },
+          {
+            "id": 115971,
+            "name": "500 шт."
+          },
+          {
+            "id": 5689730,
+            "name": "600 шт."
+          },
+          {
+            "id": 242726,
+            "name": "620 шт."
+          },
+          {
+            "id": 441852922,
+            "name": "660 шт."
+          },
+          {
+            "id": 4025313,
+            "name": "1000 шт."
+          },
+          {
+            "id": 11839278,
+            "name": "1500 шт."
+          },
+          {
+            "id": 9662730,
+            "name": "2000 шт."
+          },
+          {
+            "id": 11402168,
+            "name": "3000 шт."
+          },
+          {
+            "id": 4958950,
+            "name": "3500 шт."
+          },
+          {
+            "id": 61401222,
+            "name": "4000 шт."
+          },
+          {
+            "id": 720922931,
+            "name": "5000 шт."
+          },
+          {
+            "id": 263085514,
+            "name": "10000 шт."
+          },
+          {
+            "id": 760620560,
+            "name": "20000 шт."
+          },
+          {
+            "id": 61618110,
+            "name": "30000 шт."
+          },
+          {
+            "id": 1345416584,
+            "name": "40000 шт."
+          }
+        ],
+        "fullKey": "ff65674",
+        "quickOrder": 0
+      },
+      {
+        "name": "Серия игровых консолей",
+        "key": "f176240",
+        "maxselect": 20,
+        "items": [
+          {
+            "id": 176244,
+            "name": "Dendy"
+          },
+          {
+            "id": 176243,
+            "name": "Nintendo"
+          },
+          {
+            "id": 176241,
+            "name": "PlayStation"
+          },
+          {
+            "id": 176245,
+            "name": "Sega"
+          },
+          {
+            "id": 176242,
+            "name": "Xbox"
+          }
+        ],
+        "fullKey": "ff176240",
+        "quickOrder": 0
+      }
+    ]
+  },
+  {
+    "id": 520,
+    "name": "Колонка",
+    "filters": [
+      {
+        "name": "Распродажа",
+        "key": "faction",
+        "maxselect": 255,
+        "items": [
+          {
+            "id": 202422,
+            "name": "ВЫГОДКА"
+          }
+        ],
+        "quickOrder": 0
+      },
+      {
+        "name": "Можно вернуть НДС",
+        "key": "fnds",
+        "type": "toggle",
+        "items": [
+          {
+            "id": 1,
+            "name": "Да"
+          }
+        ],
+        "quickOrder": 0
+      },
+      {
+        "name": "Цена",
+        "key": "priceU",
+        "minPriceU": 6700,
+        "maxPriceU": 163800000,
+        "quickOrder": 0
+      },
+      {
+        "name": "Срок доставки",
+        "key": "fdlvr",
+        "minTime": 1,
+        "maxTime": 741,
+        "quickOrder": 0
+      },
+      {
+        "name": "С рейтингом от 4,7",
+        "key": "frating",
+        "type": "toggle",
+        "items": [
+          {
+            "id": 1,
+            "name": "Да"
+          }
+        ],
+        "quickOrder": 0
+      },
+      {
+        "name": "Оригинальный товар",
+        "key": "foriginal",
+        "type": "toggle",
+        "items": [
+          {
+            "id": 1,
+            "name": "Да"
+          }
+        ],
+        "quickOrder": 0
+      },
+      {
+        "name": "Премиум-продавец",
+        "key": "fpremium",
+        "type": "toggle",
+        "items": [
+          {
+            "id": 1,
+            "name": "Да"
+          }
+        ],
+        "quickOrder": 0
+      },
+      {
+        "name": "Рубли за отзыв",
+        "key": "ffeedbackpoints",
+        "type": "toggle",
+        "items": [
+          {
+            "id": 1,
+            "name": "Да"
+          }
+        ],
+        "quickOrder": 0
+      },
+      {
+        "name": "Скидки WB Клуба",
+        "key": "fpremiumuser",
+        "type": "toggle",
+        "items": [
+          {
+            "id": 1,
+            "name": "Да"
+          }
+        ],
+        "quickOrder": 0
+      },
+      {
+        "name": "Цвет",
+        "key": "fcolor",
+        "maxselect": 20,
+        "items": [
+          {
+            "id": 16119260,
+            "name": "бежевый"
+          },
+          {
+            "id": 16777215,
+            "name": "белый"
+          },
+          {
+            "id": 11393254,
+            "name": "голубой"
+          },
+          {
+            "id": 16776960,
+            "name": "желтый"
+          },
+          {
+            "id": 32768,
+            "name": "зеленый"
+          },
+          {
+            "id": 10824234,
+            "name": "коричневый"
+          },
+          {
+            "id": 16711680,
+            "name": "красный"
+          },
+          {
+            "id": 16753920,
+            "name": "оранжевый"
+          },
+          {
+            "id": 16761035,
+            "name": "розовый"
+          },
+          {
+            "id": 8421504,
+            "name": "серый"
+          },
+          {
+            "id": 255,
+            "name": "синий"
+          },
+          {
+            "id": 15631086,
+            "name": "фиолетовый"
+          },
+          {
+            "id": 0,
+            "name": "черный"
+          }
+        ],
+        "quickOrder": 0
+      },
+      {
+        "name": "Вид колонки",
+        "key": "f18606",
+        "maxselect": 20,
+        "items": [
+          {
+            "id": 26076,
+            "name": "компьютерные"
+          },
+          {
+            "id": 26081,
+            "name": "мониторы"
+          },
+          {
+            "id": 26204,
+            "name": "напольные"
+          },
+          {
+            "id": 412823,
+            "name": "портативная"
+          }
+        ],
+        "fullKey": "ff18606",
+        "quickOrder": 0
+      },
+      {
+        "name": "Тип колонки",
+        "key": "f18616",
+        "maxselect": 20,
+        "items": [
+          {
+            "id": 26086,
+            "name": "активный"
+          },
+          {
+            "id": 26084,
+            "name": "коаксиальный"
+          },
+          {
+            "id": 26085,
+            "name": "компонентный"
+          },
+          {
+            "id": 26087,
+            "name": "пассивный"
+          }
+        ],
+        "fullKey": "ff18616",
+        "quickOrder": 0
+      },
+      {
+        "name": "Количество фронтальных колонок",
+        "key": "f63278",
+        "maxselect": 20,
+        "items": [
+          {
+            "id": 70211,
+            "name": "1"
+          },
+          {
+            "id": 70212,
+            "name": "2"
+          }
+        ],
+        "fullKey": "ff63278",
+        "quickOrder": 0
+      },
+      {
+        "name": "Акустический тип",
+        "key": "f63275",
+        "maxselect": 20,
+        "items": [
+          {
+            "id": 70209,
+            "name": "1.0"
+          },
+          {
+            "id": 145830,
+            "name": "1.1"
+          },
+          {
+            "id": 70210,
+            "name": "2.0"
+          },
+          {
+            "id": 94885,
+            "name": "2.1"
+          },
+          {
+            "id": 164590,
+            "name": "3.1"
+          },
+          {
+            "id": 112209,
+            "name": "5.1"
+          }
+        ],
+        "fullKey": "ff63275",
+        "quickOrder": 0
+      },
+      {
+        "name": "Вид разъема",
+        "key": "f14081",
+        "maxselect": 20,
+        "items": [
+          {
+            "id": 465445,
+            "name": "Apple Lightning"
+          },
+          {
+            "id": 63147,
+            "name": "AUX"
+          },
+          {
+            "id": 3109743,
+            "name": "Jack"
+          },
+          {
+            "id": 122899,
+            "name": "Micro-SD"
+          },
+          {
+            "id": 410985,
+            "name": "Micro-USB"
+          },
+          {
+            "id": 3775146,
+            "name": "mini-Jack"
+          },
+          {
+            "id": 409116,
+            "name": "USB"
+          },
+          {
+            "id": 467643,
+            "name": "USB Type-A"
+          },
+          {
+            "id": 237796863,
+            "name": "USB Type-B"
+          },
+          {
+            "id": 97230,
+            "name": "USB Type-C"
+          }
+        ],
+        "fullKey": "ff14081",
+        "quickOrder": 0
+      },
+      {
+        "name": "Расположение регуляторов звука",
+        "key": "f63284",
+        "maxselect": 20,
+        "items": [
+          {
+            "id": 70218,
+            "name": "на боковой панели"
+          },
+          {
+            "id": 70232,
+            "name": "на верхней панели"
+          },
+          {
+            "id": 70219,
+            "name": "на задней панели"
+          },
+          {
+            "id": 70216,
+            "name": "на передней панели"
+          },
+          {
+            "id": 9121421,
+            "name": "снизу"
+          }
+        ],
+        "fullKey": "ff63284",
+        "quickOrder": 0
+      },
+      {
+        "name": "Емкость аккумулятора",
+        "key": "f90878",
+        "maxselect": 20,
+        "items": [
+          {
+            "id": 372521,
+            "name": "30 мА*ч"
+          },
+          {
+            "id": 447028,
+            "name": "35 мА*ч"
+          },
+          {
+            "id": 142985,
+            "name": "40 мА*ч"
+          },
+          {
+            "id": 170684,
+            "name": "45 мА*ч"
+          },
+          {
+            "id": 164168,
+            "name": "50 мА*ч"
+          },
+          {
+            "id": 139452,
+            "name": "60 мА*ч"
+          },
+          {
+            "id": 147322,
+            "name": "85 мА*ч"
+          },
+          {
+            "id": 141247,
+            "name": "100 мА*ч"
+          },
+          {
+            "id": 139356,
+            "name": "120 мА*ч"
+          },
+          {
+            "id": 164091,
+            "name": "130 мА*ч"
+          },
+          {
+            "id": 144731,
+            "name": "150 мА*ч"
+          },
+          {
+            "id": 139363,
+            "name": "180 мА*ч"
+          },
+          {
+            "id": 139367,
+            "name": "200 мА*ч"
+          },
+          {
+            "id": 697207622,
+            "name": "201 мА*ч"
+          },
+          {
+            "id": 697207563,
+            "name": "203 мА*ч"
+          },
+          {
+            "id": 648238786,
+            "name": "205 мА*ч"
+          },
+          {
+            "id": 697207661,
+            "name": "207 мА*ч"
+          },
+          {
+            "id": 697207709,
+            "name": "208 мА*ч"
+          },
+          {
+            "id": 159272,
+            "name": "220 мА*ч"
+          },
+          {
+            "id": 233371,
+            "name": "240 мА*ч"
+          },
+          {
+            "id": 142413,
+            "name": "250 мА*ч"
+          },
+          {
+            "id": 164110,
+            "name": "260 мА*ч"
+          },
+          {
+            "id": 695575978,
+            "name": "267 мА*ч"
+          },
+          {
+            "id": 164114,
+            "name": "270 мА*ч"
+          },
+          {
+            "id": 164117,
+            "name": "280 мА*ч"
+          },
+          {
+            "id": 139393,
+            "name": "300 мА*ч"
+          },
+          {
+            "id": 442233274,
+            "name": "301 мА*ч"
+          },
+          {
+            "id": 693738541,
+            "name": "302 мА*ч"
+          },
+          {
+            "id": 693738542,
+            "name": "303 мА*ч"
+          },
+          {
+            "id": 129551464,
+            "name": "308 мА*ч"
+          },
+          {
+            "id": 383506,
+            "name": "310 мА*ч"
+          },
+          {
+            "id": 164135,
+            "name": "320 мА*ч"
+          },
+          {
+            "id": 50280108,
+            "name": "345 мА*ч"
+          },
+          {
+            "id": 153024,
+            "name": "350 мА*ч"
+          },
+          {
+            "id": 164145,
+            "name": "360 мА*ч"
+          },
+          {
+            "id": 164148,
+            "name": "380 мА*ч"
+          },
+          {
+            "id": 695595553,
+            "name": "381 мА*ч"
+          },
+          {
+            "id": 695595567,
+            "name": "386 мА*ч"
+          },
+          {
+            "id": 695595569,
+            "name": "387 мА*ч"
+          },
+          {
+            "id": 164150,
+            "name": "390 мА*ч"
+          },
+          {
+            "id": 2152226,
+            "name": "398 мА*ч"
+          },
+          {
+            "id": 139417,
+            "name": "400 мА*ч"
+          },
+          {
+            "id": 154957,
+            "name": "420 мА*ч"
+          },
+          {
+            "id": 768809355,
+            "name": "425 мА*ч"
+          },
+          {
+            "id": 144732,
+            "name": "450 мА*ч"
+          },
+          {
+            "id": 164165,
+            "name": "480 мА*ч"
+          },
+          {
+            "id": 139438,
+            "name": "500 мА*ч"
+          },
+          {
+            "id": 483223,
+            "name": "520 мА*ч"
+          },
+          {
+            "id": 164174,
+            "name": "550 мА*ч"
+          },
+          {
+            "id": 164176,
+            "name": "580 мА*ч"
+          },
+          {
+            "id": 149652,
+            "name": "600 мА*ч"
+          },
+          {
+            "id": 783451582,
+            "name": "605 мА*ч"
+          },
+          {
+            "id": 217781,
+            "name": "620 мА*ч"
+          },
+          {
+            "id": 140025,
+            "name": "650 мА*ч"
+          },
+          {
+            "id": 11540936,
+            "name": "678 мА*ч"
+          },
+          {
+            "id": 165356,
+            "name": "680 мА*ч"
+          },
+          {
+            "id": 851378979,
+            "name": "683 мА*ч"
+          },
+          {
+            "id": 851378955,
+            "name": "684 мА*ч"
+          },
+          {
+            "id": 851383721,
+            "name": "685 мА*ч"
+          },
+          {
+            "id": 851383728,
+            "name": "686 мА*ч"
+          },
+          {
+            "id": 139462,
+            "name": "700 мА*ч"
+          },
+          {
+            "id": 579690637,
+            "name": "710 мА*ч"
+          },
+          {
+            "id": 230028,
+            "name": "720 мА*ч"
+          },
+          {
+            "id": 229831,
+            "name": "730 мА*ч"
+          },
+          {
+            "id": 164192,
+            "name": "750 мА*ч"
+          },
+          {
+            "id": 139467,
+            "name": "800 мА*ч"
+          },
+          {
+            "id": 139469,
+            "name": "850 мА*ч"
+          },
+          {
+            "id": 164202,
+            "name": "900 мА*ч"
+          },
+          {
+            "id": 139352,
+            "name": "1000 мА*ч"
+          },
+          {
+            "id": 139357,
+            "name": "1200 мА*ч"
+          },
+          {
+            "id": 139361,
+            "name": "1500 мА*ч"
+          },
+          {
+            "id": 165064,
+            "name": "1600 мА*ч"
+          },
+          {
+            "id": 139364,
+            "name": "1800 мА*ч"
+          },
+          {
+            "id": 139368,
+            "name": "2000 мА*ч"
+          },
+          {
+            "id": 139375,
+            "name": "2400 мА*ч"
+          },
+          {
+            "id": 139394,
+            "name": "3000 мА*ч"
+          },
+          {
+            "id": 139418,
+            "name": "4000 мА*ч"
+          },
+          {
+            "id": 139425,
+            "name": "4500 мА*ч"
+          },
+          {
+            "id": 139434,
+            "name": "4800 мА*ч"
+          },
+          {
+            "id": 139439,
+            "name": "5000 мА*ч"
+          },
+          {
+            "id": 139440,
+            "name": "5100 мА*ч"
+          },
+          {
+            "id": 140641,
+            "name": "20000 мА*ч"
+          }
+        ],
+        "fullKey": "ff90878",
+        "quickOrder": 0
+      },
+      {
+        "name": "Беспроводные интерфейсы",
+        "key": "f10466",
+        "maxselect": 20,
+        "items": [
+          {
+            "id": 7970798,
+            "name": "AirPlay 2"
+          },
+          {
+            "id": 18635,
+            "name": "Bluetooth"
+          },
+          {
+            "id": 3928889,
+            "name": "IRDA"
+          },
+          {
+            "id": 18636,
+            "name": "NFC"
+          },
+          {
+            "id": 18646,
+            "name": "Wi-Fi"
+          },
+          {
+            "id": 23958,
+            "name": "радиоканал"
+          }
+        ],
+        "fullKey": "ff10466",
+        "quickOrder": 0
+      },
+      {
+        "name": "Материал корпуса",
+        "key": "f4370",
+        "maxselect": 20,
+        "items": [
+          {
+            "id": 12809,
+            "name": "алюминий"
+          },
+          {
+            "id": 12810,
+            "name": "алюминий и пластик"
+          },
+          {
+            "id": 12811,
+            "name": "алюминий и стекло"
+          },
+          {
+            "id": 211584,
+            "name": "искусственная кожа"
+          },
+          {
+            "id": 12812,
+            "name": "металл"
+          },
+          {
+            "id": 12813,
+            "name": "металл и пластик"
+          },
+          {
+            "id": 7538292,
+            "name": "металл и стекло"
+          },
+          {
+            "id": 198516,
+            "name": "нейлон"
+          },
+          {
+            "id": 5875188,
+            "name": "пеноматериал"
+          },
+          {
+            "id": 12814,
+            "name": "пластик"
+          },
+          {
+            "id": 168473,
+            "name": "поликарбонат"
+          },
+          {
+            "id": 366756,
+            "name": "поролон"
+          },
+          {
+            "id": 152430,
+            "name": "резина"
+          },
+          {
+            "id": 111163,
+            "name": "силикон"
+          },
+          {
+            "id": 12816,
+            "name": "сталь"
+          },
+          {
+            "id": 70430226,
+            "name": "сталь и стекло"
+          },
+          {
+            "id": 24587,
+            "name": "стекло"
+          },
+          {
+            "id": 6055001,
+            "name": "стекло и пластик"
+          },
+          {
+            "id": 466745,
+            "name": "текстиль"
+          }
+        ],
+        "fullKey": "ff4370",
+        "quickOrder": 0
+      },
+      {
+        "name": "Мощность сабвуфера (Вт)",
+        "key": "f355441",
+        "maxselect": 20,
+        "items": [
+          {
+            "id": -20497,
+            "name": "Менее 5 Вт"
+          },
+          {
+            "id": -20498,
+            "name": "5 - 9 Вт"
+          },
+          {
+            "id": -20499,
+            "name": "10 - 14 Вт"
+          }
+        ],
+        "fullKey": "ff355441",
+        "quickOrder": 0
+      }
+    ]
+  },
+  {
+    "id": 516,
+    "name": "Мобильный телефон",
+    "filters": [
+      {
+        "name": "Распродажа",
+        "key": "faction",
+        "maxselect": 255,
+        "items": [
+          {
+            "id": 202422,
+            "name": "ВЫГОДКА"
+          }
+        ],
+        "quickOrder": 0
+      },
+      {
+        "name": "Цена",
+        "key": "priceU",
+        "minPriceU": 6700,
+        "maxPriceU": 163800000,
+        "quickOrder": 0
+      },
+      {
+        "name": "Срок доставки",
+        "key": "fdlvr",
+        "minTime": 1,
+        "maxTime": 741,
+        "quickOrder": 0
+      },
+      {
+        "name": "Цвет",
+        "key": "fcolor",
+        "maxselect": 20,
+        "items": [
+          {
+            "id": 16119260,
+            "name": "бежевый"
+          },
+          {
+            "id": 16777215,
+            "name": "белый"
+          },
+          {
+            "id": 11393254,
+            "name": "голубой"
+          },
+          {
+            "id": 16776960,
+            "name": "желтый"
+          },
+          {
+            "id": 32768,
+            "name": "зеленый"
+          },
+          {
+            "id": 10824234,
+            "name": "коричневый"
+          },
+          {
+            "id": 16711680,
+            "name": "красный"
+          },
+          {
+            "id": 16753920,
+            "name": "оранжевый"
+          },
+          {
+            "id": 16761035,
+            "name": "розовый"
+          },
+          {
+            "id": 8421504,
+            "name": "серый"
+          },
+          {
+            "id": 255,
+            "name": "синий"
+          },
+          {
+            "id": 15631086,
+            "name": "фиолетовый"
+          },
+          {
+            "id": 0,
+            "name": "черный"
+          }
+        ],
+        "quickOrder": 0
+      }
+    ]
+  },
+  {
+    "id": 593,
+    "name": "Наушники",
+    "filters": [
+      {
+        "name": "Распродажа",
+        "key": "faction",
+        "maxselect": 255,
+        "items": [
+          {
+            "id": 202422,
+            "name": "ВЫГОДКА"
+          }
+        ],
+        "quickOrder": 0
+      },
+      {
+        "name": "Можно вернуть НДС",
+        "key": "fnds",
+        "type": "toggle",
+        "items": [
+          {
+            "id": 1,
+            "name": "Да"
+          }
+        ],
+        "quickOrder": 0
+      },
+      {
+        "name": "Цена",
+        "key": "priceU",
+        "minPriceU": 6700,
+        "maxPriceU": 163800000,
+        "quickOrder": 0
+      },
+      {
+        "name": "Срок доставки",
+        "key": "fdlvr",
+        "minTime": 1,
+        "maxTime": 741,
+        "quickOrder": 0
+      },
+      {
+        "name": "С рейтингом от 4,7",
+        "key": "frating",
+        "type": "toggle",
+        "items": [
+          {
+            "id": 1,
+            "name": "Да"
+          }
+        ],
+        "quickOrder": 0
+      },
+      {
+        "name": "Оригинальный товар",
+        "key": "foriginal",
+        "type": "toggle",
+        "items": [
+          {
+            "id": 1,
+            "name": "Да"
+          }
+        ],
+        "quickOrder": 0
+      },
+      {
+        "name": "Премиум-продавец",
+        "key": "fpremium",
+        "type": "toggle",
+        "items": [
+          {
+            "id": 1,
+            "name": "Да"
+          }
+        ],
+        "quickOrder": 0
+      },
+      {
+        "name": "Рубли за отзыв",
+        "key": "ffeedbackpoints",
+        "type": "toggle",
+        "items": [
+          {
+            "id": 1,
+            "name": "Да"
+          }
+        ],
+        "quickOrder": 0
+      },
+      {
+        "name": "Скидки WB Клуба",
+        "key": "fpremiumuser",
+        "type": "toggle",
+        "items": [
+          {
+            "id": 1,
+            "name": "Да"
+          }
+        ],
+        "quickOrder": 0
+      },
+      {
+        "name": "Цвет",
+        "key": "fcolor",
+        "maxselect": 20,
+        "items": [
+          {
+            "id": 16119260,
+            "name": "бежевый"
+          },
+          {
+            "id": 16777215,
+            "name": "белый"
+          },
+          {
+            "id": 11393254,
+            "name": "голубой"
+          },
+          {
+            "id": 16776960,
+            "name": "желтый"
+          },
+          {
+            "id": 32768,
+            "name": "зеленый"
+          },
+          {
+            "id": 10824234,
+            "name": "коричневый"
+          },
+          {
+            "id": 16711680,
+            "name": "красный"
+          },
+          {
+            "id": 16753920,
+            "name": "оранжевый"
+          },
+          {
+            "id": 16761035,
+            "name": "розовый"
+          },
+          {
+            "id": 8421504,
+            "name": "серый"
+          },
+          {
+            "id": 255,
+            "name": "синий"
+          },
+          {
+            "id": 15631086,
+            "name": "фиолетовый"
+          },
+          {
+            "id": 0,
+            "name": "черный"
+          }
+        ],
+        "quickOrder": 0
+      },
+      {
+        "name": "Вид наушников",
+        "key": "f9514",
+        "maxselect": 20,
+        "items": [
+          {
+            "id": 25617170,
+            "name": "вкладыши"
+          },
+          {
+            "id": 418183,
+            "name": "внутриканальные"
+          },
+          {
+            "id": 26125458,
+            "name": "накладные"
+          },
+          {
+            "id": 443596610,
+            "name": "охватывающие"
+          }
+        ],
+        "fullKey": "ff9514",
+        "quickOrder": 0
+      },
+      {
+        "name": "Разъем подключения наушников",
+        "key": "f65265",
+        "maxselect": 20,
+        "items": [
+          {
+            "id": 3660256,
+            "name": "Apple Lightning"
+          },
+          {
+            "id": 478586,
+            "name": "Bluetooth"
+          },
+          {
+            "id": 7489508,
+            "name": "Jack 3.5 mm"
+          },
+          {
+            "id": 5430871,
+            "name": "USB Type-A"
+          },
+          {
+            "id": 99188,
+            "name": "USB Type-C"
+          }
+        ],
+        "fullKey": "ff65265",
+        "quickOrder": 0
+      },
+      {
+        "name": "Тип акустического оформления",
+        "key": "f15886",
+        "maxselect": 20,
+        "items": [
+          {
+            "id": 23757,
+            "name": "закрытые"
+          },
+          {
+            "id": 23756,
+            "name": "открытые"
+          },
+          {
+            "id": 23758,
+            "name": "полуоткрытые"
+          }
+        ],
+        "fullKey": "ff15886",
+        "quickOrder": 0
+      },
+      {
+        "name": "Беспроводные интерфейсы",
+        "key": "f10466",
+        "maxselect": 20,
+        "items": [
+          {
+            "id": 7970798,
+            "name": "AirPlay 2"
+          },
+          {
+            "id": 18635,
+            "name": "Bluetooth"
+          },
+          {
+            "id": 3928889,
+            "name": "IRDA"
+          },
+          {
+            "id": 18636,
+            "name": "NFC"
+          },
+          {
+            "id": 18646,
+            "name": "Wi-Fi"
+          },
+          {
+            "id": 23958,
+            "name": "радиоканал"
+          }
+        ],
+        "fullKey": "ff10466",
+        "quickOrder": 0
+      },
+      {
+        "name": "Длина кабеля (м)",
+        "key": "f85079",
+        "maxselect": 20,
+        "items": [
+          {
+            "id": 52699654,
+            "name": "0.01 м"
+          },
+          {
+            "id": 52731411,
+            "name": "0.02 м"
+          },
+          {
+            "id": 243571,
+            "name": "0.03 м"
+          },
+          {
+            "id": 239708,
+            "name": "0.04 м"
+          },
+          {
+            "id": 147605,
+            "name": "0.1 м"
+          },
+          {
+            "id": 52929912,
+            "name": "0.11 м"
+          },
+          {
+            "id": 52716094,
+            "name": "0.14 м"
+          },
+          {
+            "id": 158182,
+            "name": "0.15 м"
+          },
+          {
+            "id": 196295,
+            "name": "0.17 м"
+          },
+          {
+            "id": 5099829,
+            "name": "0.18 м"
+          },
+          {
+            "id": 52949877,
+            "name": "0.19 м"
+          },
+          {
+            "id": 162103,
+            "name": "0.2 м"
+          },
+          {
+            "id": 361526,
+            "name": "0.21 м"
+          },
+          {
+            "id": 358794,
+            "name": "0.23 м"
+          },
+          {
+            "id": 361527,
+            "name": "0.24 м"
+          },
+          {
+            "id": 154116,
+            "name": "0.25 м"
+          },
+          {
+            "id": 186232,
+            "name": "0.26 м"
+          },
+          {
+            "id": 140587,
+            "name": "0.3 м"
+          },
+          {
+            "id": 35597258,
+            "name": "0.31 м"
+          },
+          {
+            "id": 140588,
+            "name": "0.4 м"
+          },
+          {
+            "id": 140589,
+            "name": "0.5 м"
+          },
+          {
+            "id": 140590,
+            "name": "0.6 м"
+          },
+          {
+            "id": 140593,
+            "name": "0.8 м"
+          },
+          {
+            "id": 140594,
+            "name": "0.9 м"
+          },
+          {
+            "id": 140595,
+            "name": "1 м"
+          },
+          {
+            "id": 42823662,
+            "name": "1.01 м"
+          },
+          {
+            "id": 140597,
+            "name": "1.1 м"
+          },
+          {
+            "id": 140598,
+            "name": "1.2 м"
+          },
+          {
+            "id": 140599,
+            "name": "1.25 м"
+          },
+          {
+            "id": 140600,
+            "name": "1.3 м"
+          },
+          {
+            "id": 70459506,
+            "name": "1.45 м"
+          },
+          {
+            "id": 140609,
+            "name": "2 м"
+          },
+          {
+            "id": 140611,
+            "name": "2.2 м"
+          },
+          {
+            "id": 140616,
+            "name": "3 м"
+          },
+          {
+            "id": 177069,
+            "name": "3.5 м"
+          },
+          {
+            "id": 140618,
+            "name": "5 м"
+          },
+          {
+            "id": 363874,
+            "name": "12 м"
+          },
+          {
+            "id": 53435402,
+            "name": "120 м"
+          }
+        ],
+        "fullKey": "ff85079",
+        "quickOrder": 0
+      },
+      {
+        "name": "Тип крепления наушников",
+        "key": "f84663",
+        "maxselect": 20,
+        "items": [
+          {
+            "id": 439874,
+            "name": "в ушной раковине"
+          },
+          {
+            "id": 6179289,
+            "name": "затылочная дужка"
+          },
+          {
+            "id": 598293371,
+            "name": "заушина"
+          },
+          {
+            "id": 521120,
+            "name": "оголовье"
+          },
+          {
+            "id": 2159027,
+            "name": "шейный обод"
+          }
+        ],
+        "fullKey": "ff84663",
+        "quickOrder": 0
+      },
+      {
+        "name": "Модель",
+        "key": "f5023",
+        "maxselect": 20,
+        "items": [
+          {
+            "id": 112423,
+            "name": "002"
+          },
+          {
+            "id": 134566,
+            "name": "040"
+          },
+          {
+            "id": 502389,
+            "name": "IPX7"
+          },
+          {
+            "id": 81345,
+            "name": "M10"
+          },
+          {
+            "id": 170110,
+            "name": "M22"
+          },
+          {
+            "id": 81350,
+            "name": "M5"
+          },
+          {
+            "id": 81352,
+            "name": "M7"
+          },
+          {
+            "id": 3703317,
+            "name": "Nintendo Switch"
+          },
+          {
+            "id": 6067031,
+            "name": "OLED"
+          },
+          {
+            "id": 168243,
+            "name": "PlayStation 4"
+          },
+          {
+            "id": 384810,
+            "name": "PlayStation 5"
+          },
+          {
+            "id": 202330,
+            "name": "Slim"
+          },
+          {
+            "id": 140834,
+            "name": "Smart"
+          },
+          {
+            "id": 111491,
+            "name": "2"
+          },
+          {
+            "id": 7072783,
+            "name": "8 бит"
+          },
+          {
+            "id": 214257,
+            "name": "341"
+          },
+          {
+            "id": 223783,
+            "name": "400"
+          }
+        ],
+        "fullKey": "ff5023",
+        "quickOrder": 0
+      },
+      {
+        "name": "Тип подключения",
+        "key": "f15883",
+        "maxselect": 20,
+        "items": [
+          {
+            "id": 417068,
+            "name": "беспроводное"
+          },
+          {
+            "id": 25833066,
+            "name": "проводное"
+          }
+        ],
+        "fullKey": "ff15883",
+        "quickOrder": 0
+      }
+    ]
+  },
+  {
+    "id": 787,
+    "name": "Смарт-часы",
+    "filters": [
+      {
+        "name": "Распродажа",
+        "key": "faction",
+        "maxselect": 255,
+        "items": [
+          {
+            "id": 202422,
+            "name": "ВЫГОДКА"
+          }
+        ],
+        "quickOrder": 0
+      },
+      {
+        "name": "Можно вернуть НДС",
+        "key": "fnds",
+        "type": "toggle",
+        "items": [
+          {
+            "id": 1,
+            "name": "Да"
+          }
+        ],
+        "quickOrder": 0
+      },
+      {
+        "name": "Цена",
+        "key": "priceU",
+        "minPriceU": 6700,
+        "maxPriceU": 163800000,
+        "quickOrder": 0
+      },
+      {
+        "name": "Срок доставки",
+        "key": "fdlvr",
+        "minTime": 1,
+        "maxTime": 741,
+        "quickOrder": 0
+      },
+      {
+        "name": "С рейтингом от 4,7",
+        "key": "frating",
+        "type": "toggle",
+        "items": [
+          {
+            "id": 1,
+            "name": "Да"
+          }
+        ],
+        "quickOrder": 0
+      },
+      {
+        "name": "Оригинальный товар",
+        "key": "foriginal",
+        "type": "toggle",
+        "items": [
+          {
+            "id": 1,
+            "name": "Да"
+          }
+        ],
+        "quickOrder": 0
+      },
+      {
+        "name": "Премиум-продавец",
+        "key": "fpremium",
+        "type": "toggle",
+        "items": [
+          {
+            "id": 1,
+            "name": "Да"
+          }
+        ],
+        "quickOrder": 0
+      },
+      {
+        "name": "Рубли за отзыв",
+        "key": "ffeedbackpoints",
+        "type": "toggle",
+        "items": [
+          {
+            "id": 1,
+            "name": "Да"
+          }
+        ],
+        "quickOrder": 0
+      },
+      {
+        "name": "Скидки WB Клуба",
+        "key": "fpremiumuser",
+        "type": "toggle",
+        "items": [
+          {
+            "id": 1,
+            "name": "Да"
+          }
+        ],
+        "quickOrder": 0
+      },
+      {
+        "name": "Цвет",
+        "key": "fcolor",
+        "maxselect": 20,
+        "items": [
+          {
+            "id": 16119260,
+            "name": "бежевый"
+          },
+          {
+            "id": 16777215,
+            "name": "белый"
+          },
+          {
+            "id": 11393254,
+            "name": "голубой"
+          },
+          {
+            "id": 16776960,
+            "name": "желтый"
+          },
+          {
+            "id": 32768,
+            "name": "зеленый"
+          },
+          {
+            "id": 10824234,
+            "name": "коричневый"
+          },
+          {
+            "id": 16711680,
+            "name": "красный"
+          },
+          {
+            "id": 16753920,
+            "name": "оранжевый"
+          },
+          {
+            "id": 16761035,
+            "name": "розовый"
+          },
+          {
+            "id": 8421504,
+            "name": "серый"
+          },
+          {
+            "id": 255,
+            "name": "синий"
+          },
+          {
+            "id": 15631086,
+            "name": "фиолетовый"
+          },
+          {
+            "id": 0,
+            "name": "черный"
+          }
+        ],
+        "quickOrder": 0
+      },
+      {
+        "name": "Тип дисплея/экрана",
+        "key": "f4447",
+        "maxselect": 20,
+        "items": [
+          {
+            "id": 12881,
+            "name": "AMOLED"
+          },
+          {
+            "id": 12887,
+            "name": "IPS"
+          },
+          {
+            "id": 16852,
+            "name": "LCD (жидкокристаллический)"
+          },
+          {
+            "id": 12890,
+            "name": "OLED"
+          },
+          {
+            "id": 12903,
+            "name": "TFT"
+          },
+          {
+            "id": 32694,
+            "name": "TN"
+          }
+        ],
+        "fullKey": "ff4447",
+        "quickOrder": 0
+      },
+      {
+        "name": "Диагональ экрана",
+        "key": "f4474",
+        "maxselect": 20,
+        "items": [
+          {
+            "id": 11850474,
+            "name": "0.4\""
+          },
+          {
+            "id": 197394,
+            "name": "0.9\""
+          },
+          {
+            "id": 68226,
+            "name": "1\""
+          },
+          {
+            "id": 112634,
+            "name": "1.1\""
+          },
+          {
+            "id": 254724,
+            "name": "1.2\""
+          },
+          {
+            "id": 254736,
+            "name": "1.3\""
+          },
+          {
+            "id": 100364,
+            "name": "1.4\""
+          },
+          {
+            "id": 119054,
+            "name": "1.5\""
+          },
+          {
+            "id": 254775,
+            "name": "1.6\""
+          },
+          {
+            "id": 128912,
+            "name": "1.7\""
+          },
+          {
+            "id": 10526834,
+            "name": "1.8\""
+          },
+          {
+            "id": 14700447,
+            "name": "1.9\""
+          },
+          {
+            "id": 25835410,
+            "name": "2\""
+          },
+          {
+            "id": 497490535,
+            "name": "2.1\""
+          },
+          {
+            "id": 10420390,
+            "name": "2.2\""
+          },
+          {
+            "id": 496600,
+            "name": "2.4\""
+          },
+          {
+            "id": 624036954,
+            "name": "3.3\""
+          },
+          {
+            "id": 52936680,
+            "name": "4\""
+          },
+          {
+            "id": 38487000,
+            "name": "9\""
+          },
+          {
+            "id": 9477331,
+            "name": "44''"
+          },
+          {
+            "id": 11503218,
+            "name": "49\""
+          },
+          {
+            "id": 131381384,
+            "name": "92\""
+          }
+        ],
+        "fullKey": "ff4474",
+        "quickOrder": 0
+      },
+      {
+        "name": "Разрешение экрана",
+        "key": "f4972",
+        "maxselect": 20,
+        "items": [
+          {
+            "id": 31875499,
+            "name": "128х128"
+          },
+          {
+            "id": 70167757,
+            "name": "160х80"
+          },
+          {
+            "id": 584475839,
+            "name": "200х200"
+          },
+          {
+            "id": 114741,
+            "name": "240х240"
+          },
+          {
+            "id": 5050585,
+            "name": "280х240"
+          },
+          {
+            "id": 83087009,
+            "name": "280х280"
+          },
+          {
+            "id": 403676609,
+            "name": "283х240"
+          },
+          {
+            "id": 129067126,
+            "name": "284х240"
+          },
+          {
+            "id": 555673431,
+            "name": "286х240"
+          },
+          {
+            "id": 201565354,
+            "name": "296х240"
+          },
+          {
+            "id": 461829,
+            "name": "320х240"
+          },
+          {
+            "id": 3877565,
+            "name": "320х285"
+          },
+          {
+            "id": 2133445,
+            "name": "320х320"
+          },
+          {
+            "id": 75029625,
+            "name": "360х320"
+          },
+          {
+            "id": 11548180,
+            "name": "360х360"
+          },
+          {
+            "id": 565702650,
+            "name": "385х320"
+          },
+          {
+            "id": 373763998,
+            "name": "385х330"
+          },
+          {
+            "id": 9221975,
+            "name": "385х385"
+          },
+          {
+            "id": 547896364,
+            "name": "390х320"
+          },
+          {
+            "id": 9222046,
+            "name": "390х390"
+          },
+          {
+            "id": 180518750,
+            "name": "420х360"
+          },
+          {
+            "id": 139642524,
+            "name": "430х352"
+          },
+          {
+            "id": 53660412,
+            "name": "435х390"
+          },
+          {
+            "id": 648902685,
+            "name": "450х390"
+          },
+          {
+            "id": 136295,
+            "name": "454х454"
+          },
+          {
+            "id": 25879264,
+            "name": "466х466"
+          },
+          {
+            "id": 7498916,
+            "name": "480х480"
+          },
+          {
+            "id": 177432882,
+            "name": "484х396"
+          },
+          {
+            "id": 458565870,
+            "name": "485х420"
+          },
+          {
+            "id": 497629779,
+            "name": "485х430"
+          },
+          {
+            "id": 526712167,
+            "name": "502х410"
+          },
+          {
+            "id": 848161430,
+            "name": "520х485"
+          },
+          {
+            "id": 21114,
+            "name": "1024х600"
+          },
+          {
+            "id": 11352927,
+            "name": "1080х720"
+          },
+          {
+            "id": 463110,
+            "name": "1920х1080"
+          }
+        ],
+        "fullKey": "ff4972",
+        "quickOrder": 0
+      },
+      {
+        "name": "Совместимые ОС",
+        "key": "f84844",
+        "maxselect": 20,
+        "items": [
+          {
+            "id": 90984,
+            "name": "Android"
+          },
+          {
+            "id": 90986,
+            "name": "iOS"
+          },
+          {
+            "id": 90988,
+            "name": "Mac OS"
+          },
+          {
+            "id": 90987,
+            "name": "Windows"
+          },
+          {
+            "id": 91195,
+            "name": "нет"
+          }
+        ],
+        "fullKey": "ff84844",
+        "quickOrder": 0
+      },
+      {
+        "name": "Вид стекла",
+        "key": "f21",
+        "maxselect": 20,
+        "items": [
+          {
+            "id": 100369,
+            "name": "акриловое"
+          },
+          {
+            "id": 7556817,
+            "name": "комбинированное"
+          },
+          {
+            "id": 9887,
+            "name": "минеральное"
+          },
+          {
+            "id": 9889,
+            "name": "органическое"
+          },
+          {
+            "id": 90914,
+            "name": "пластиковое"
+          },
+          {
+            "id": 9888,
+            "name": "сапфировое"
+          }
+        ],
+        "fullKey": "ff21",
+        "quickOrder": 0
+      },
+      {
+        "name": "Материал корпуса",
+        "key": "f4370",
+        "maxselect": 20,
+        "items": [
+          {
+            "id": 12809,
+            "name": "алюминий"
+          },
+          {
+            "id": 12810,
+            "name": "алюминий и пластик"
+          },
+          {
+            "id": 12811,
+            "name": "алюминий и стекло"
+          },
+          {
+            "id": 211584,
+            "name": "искусственная кожа"
+          },
+          {
+            "id": 12812,
+            "name": "металл"
+          },
+          {
+            "id": 12813,
+            "name": "металл и пластик"
+          },
+          {
+            "id": 7538292,
+            "name": "металл и стекло"
+          },
+          {
+            "id": 198516,
+            "name": "нейлон"
+          },
+          {
+            "id": 5875188,
+            "name": "пеноматериал"
+          },
+          {
+            "id": 12814,
+            "name": "пластик"
+          },
+          {
+            "id": 168473,
+            "name": "поликарбонат"
+          },
+          {
+            "id": 366756,
+            "name": "поролон"
+          },
+          {
+            "id": 152430,
+            "name": "резина"
+          },
+          {
+            "id": 111163,
+            "name": "силикон"
+          },
+          {
+            "id": 12816,
+            "name": "сталь"
+          },
+          {
+            "id": 70430226,
+            "name": "сталь и стекло"
+          },
+          {
+            "id": 24587,
+            "name": "стекло"
+          },
+          {
+            "id": 6055001,
+            "name": "стекло и пластик"
+          },
+          {
+            "id": 466745,
+            "name": "текстиль"
+          }
+        ],
+        "fullKey": "ff4370",
+        "quickOrder": 0
+      },
+      {
+        "name": "Материал браслета",
+        "key": "f18",
+        "maxselect": 20,
+        "items": [
+          {
+            "id": 16822,
+            "name": "каучук"
+          },
+          {
+            "id": 9860,
+            "name": "кожа"
+          },
+          {
+            "id": 198473,
+            "name": "металл"
+          },
+          {
+            "id": 9863,
+            "name": "нержавеющая сталь"
+          },
+          {
+            "id": 9861,
+            "name": "пластик"
+          },
+          {
+            "id": 9862,
+            "name": "резина"
+          },
+          {
+            "id": 20750,
+            "name": "силикон"
+          },
+          {
+            "id": 9859,
+            "name": "текстиль"
+          }
+        ],
+        "fullKey": "ff18",
+        "quickOrder": 0
+      },
+      {
+        "name": "Беспроводные интерфейсы",
+        "key": "f10466",
+        "maxselect": 20,
+        "items": [
+          {
+            "id": 7970798,
+            "name": "AirPlay 2"
+          },
+          {
+            "id": 18635,
+            "name": "Bluetooth"
+          },
+          {
+            "id": 3928889,
+            "name": "IRDA"
+          },
+          {
+            "id": 18636,
+            "name": "NFC"
+          },
+          {
+            "id": 18646,
+            "name": "Wi-Fi"
+          },
+          {
+            "id": 23958,
+            "name": "радиоканал"
+          }
+        ],
+        "fullKey": "ff10466",
+        "quickOrder": 0
+      },
+      {
+        "name": "Датчики",
+        "key": "f10488",
+        "maxselect": 20,
+        "items": [
+          {
+            "id": 135020,
+            "name": "GPS"
+          },
+          {
+            "id": 3204365,
+            "name": "LBS"
+          },
+          {
+            "id": 27258,
+            "name": "акселерометр"
+          },
+          {
+            "id": 134012,
+            "name": "артериального давления"
+          },
+          {
+            "id": 31881,
+            "name": "барометр"
+          },
+          {
+            "id": 14651986,
+            "name": "влажности"
+          },
+          {
+            "id": 18648,
+            "name": "гироскоп"
+          },
+          {
+            "id": 3695609,
+            "name": "датчик ЭКГ"
+          },
+          {
+            "id": 117373,
+            "name": "движения"
+          },
+          {
+            "id": 5339217,
+            "name": "дыхание"
+          },
+          {
+            "id": 52718930,
+            "name": "звука"
+          },
+          {
+            "id": 570066,
+            "name": "пульсоксиметр"
+          },
+          {
+            "id": 134011,
+            "name": "пульсометр"
+          },
+          {
+            "id": 62956038,
+            "name": "света"
+          },
+          {
+            "id": 479763,
+            "name": "температуры"
+          },
+          {
+            "id": 22137,
+            "name": "удара"
+          },
+          {
+            "id": 425559,
+            "name": "фотоплетизмографии"
+          }
+        ],
+        "fullKey": "ff10488",
+        "quickOrder": 0
+      },
+      {
+        "name": "Емкость аккумулятора",
+        "key": "f90878",
+        "maxselect": 20,
+        "items": [
+          {
+            "id": 372521,
+            "name": "30 мА*ч"
+          },
+          {
+            "id": 447028,
+            "name": "35 мА*ч"
+          },
+          {
+            "id": 142985,
+            "name": "40 мА*ч"
+          },
+          {
+            "id": 170684,
+            "name": "45 мА*ч"
+          },
+          {
+            "id": 164168,
+            "name": "50 мА*ч"
+          },
+          {
+            "id": 139452,
+            "name": "60 мА*ч"
+          },
+          {
+            "id": 147322,
+            "name": "85 мА*ч"
+          },
+          {
+            "id": 141247,
+            "name": "100 мА*ч"
+          },
+          {
+            "id": 139356,
+            "name": "120 мА*ч"
+          },
+          {
+            "id": 164091,
+            "name": "130 мА*ч"
+          },
+          {
+            "id": 144731,
+            "name": "150 мА*ч"
+          },
+          {
+            "id": 139363,
+            "name": "180 мА*ч"
+          },
+          {
+            "id": 139367,
+            "name": "200 мА*ч"
+          },
+          {
+            "id": 697207622,
+            "name": "201 мА*ч"
+          },
+          {
+            "id": 697207563,
+            "name": "203 мА*ч"
+          },
+          {
+            "id": 648238786,
+            "name": "205 мА*ч"
+          },
+          {
+            "id": 697207661,
+            "name": "207 мА*ч"
+          },
+          {
+            "id": 697207709,
+            "name": "208 мА*ч"
+          },
+          {
+            "id": 159272,
+            "name": "220 мА*ч"
+          },
+          {
+            "id": 233371,
+            "name": "240 мА*ч"
+          },
+          {
+            "id": 142413,
+            "name": "250 мА*ч"
+          },
+          {
+            "id": 164110,
+            "name": "260 мА*ч"
+          },
+          {
+            "id": 695575978,
+            "name": "267 мА*ч"
+          },
+          {
+            "id": 164114,
+            "name": "270 мА*ч"
+          },
+          {
+            "id": 164117,
+            "name": "280 мА*ч"
+          },
+          {
+            "id": 139393,
+            "name": "300 мА*ч"
+          },
+          {
+            "id": 442233274,
+            "name": "301 мА*ч"
+          },
+          {
+            "id": 693738541,
+            "name": "302 мА*ч"
+          },
+          {
+            "id": 693738542,
+            "name": "303 мА*ч"
+          },
+          {
+            "id": 129551464,
+            "name": "308 мА*ч"
+          },
+          {
+            "id": 383506,
+            "name": "310 мА*ч"
+          },
+          {
+            "id": 164135,
+            "name": "320 мА*ч"
+          },
+          {
+            "id": 50280108,
+            "name": "345 мА*ч"
+          },
+          {
+            "id": 153024,
+            "name": "350 мА*ч"
+          },
+          {
+            "id": 164145,
+            "name": "360 мА*ч"
+          },
+          {
+            "id": 164148,
+            "name": "380 мА*ч"
+          },
+          {
+            "id": 695595553,
+            "name": "381 мА*ч"
+          },
+          {
+            "id": 695595567,
+            "name": "386 мА*ч"
+          },
+          {
+            "id": 695595569,
+            "name": "387 мА*ч"
+          },
+          {
+            "id": 164150,
+            "name": "390 мА*ч"
+          },
+          {
+            "id": 2152226,
+            "name": "398 мА*ч"
+          },
+          {
+            "id": 139417,
+            "name": "400 мА*ч"
+          },
+          {
+            "id": 154957,
+            "name": "420 мА*ч"
+          },
+          {
+            "id": 768809355,
+            "name": "425 мА*ч"
+          },
+          {
+            "id": 144732,
+            "name": "450 мА*ч"
+          },
+          {
+            "id": 164165,
+            "name": "480 мА*ч"
+          },
+          {
+            "id": 139438,
+            "name": "500 мА*ч"
+          },
+          {
+            "id": 483223,
+            "name": "520 мА*ч"
+          },
+          {
+            "id": 164174,
+            "name": "550 мА*ч"
+          },
+          {
+            "id": 164176,
+            "name": "580 мА*ч"
+          },
+          {
+            "id": 149652,
+            "name": "600 мА*ч"
+          },
+          {
+            "id": 783451582,
+            "name": "605 мА*ч"
+          },
+          {
+            "id": 217781,
+            "name": "620 мА*ч"
+          },
+          {
+            "id": 140025,
+            "name": "650 мА*ч"
+          },
+          {
+            "id": 11540936,
+            "name": "678 мА*ч"
+          },
+          {
+            "id": 165356,
+            "name": "680 мА*ч"
+          },
+          {
+            "id": 851378979,
+            "name": "683 мА*ч"
+          },
+          {
+            "id": 851378955,
+            "name": "684 мА*ч"
+          },
+          {
+            "id": 851383721,
+            "name": "685 мА*ч"
+          },
+          {
+            "id": 851383728,
+            "name": "686 мА*ч"
+          },
+          {
+            "id": 139462,
+            "name": "700 мА*ч"
+          },
+          {
+            "id": 579690637,
+            "name": "710 мА*ч"
+          },
+          {
+            "id": 230028,
+            "name": "720 мА*ч"
+          },
+          {
+            "id": 229831,
+            "name": "730 мА*ч"
+          },
+          {
+            "id": 164192,
+            "name": "750 мА*ч"
+          },
+          {
+            "id": 139467,
+            "name": "800 мА*ч"
+          },
+          {
+            "id": 139469,
+            "name": "850 мА*ч"
+          },
+          {
+            "id": 164202,
+            "name": "900 мА*ч"
+          },
+          {
+            "id": 139352,
+            "name": "1000 мА*ч"
+          },
+          {
+            "id": 139357,
+            "name": "1200 мА*ч"
+          },
+          {
+            "id": 139361,
+            "name": "1500 мА*ч"
+          },
+          {
+            "id": 165064,
+            "name": "1600 мА*ч"
+          },
+          {
+            "id": 139364,
+            "name": "1800 мА*ч"
+          },
+          {
+            "id": 139368,
+            "name": "2000 мА*ч"
+          },
+          {
+            "id": 139375,
+            "name": "2400 мА*ч"
+          },
+          {
+            "id": 139394,
+            "name": "3000 мА*ч"
+          },
+          {
+            "id": 139418,
+            "name": "4000 мА*ч"
+          },
+          {
+            "id": 139425,
+            "name": "4500 мА*ч"
+          },
+          {
+            "id": 139434,
+            "name": "4800 мА*ч"
+          },
+          {
+            "id": 139439,
+            "name": "5000 мА*ч"
+          },
+          {
+            "id": 139440,
+            "name": "5100 мА*ч"
+          },
+          {
+            "id": 140641,
+            "name": "20000 мА*ч"
+          }
+        ],
+        "fullKey": "ff90878",
+        "quickOrder": 0
+      },
+      {
+        "name": "Класс водонепроницаемости",
+        "key": "f84117",
+        "maxselect": 20,
+        "items": [
+          {
+            "id": 90241,
+            "name": "WR100 (10 atm)"
+          },
+          {
+            "id": 90244,
+            "name": "WR200 (20 atm)"
+          },
+          {
+            "id": 90238,
+            "name": "WR30 (3 atm)"
+          },
+          {
+            "id": 90245,
+            "name": "WR300 (30 atm)"
+          },
+          {
+            "id": 90239,
+            "name": "WR50 (5 atm)"
+          },
+          {
+            "id": 31377702,
+            "name": "отсутствует"
+          }
+        ],
+        "fullKey": "ff84117",
+        "quickOrder": 0
+      }
+    ]
+  },
+  {
+    "id": 790,
+    "name": "Фотоаппарат",
+    "filters": [
+      {
+        "name": "Распродажа",
+        "key": "faction",
+        "maxselect": 255,
+        "items": [
+          {
+            "id": 202422,
+            "name": "ВЫГОДКА"
+          }
+        ],
+        "quickOrder": 0
+      },
+      {
+        "name": "Цена",
+        "key": "priceU",
+        "minPriceU": 6700,
+        "maxPriceU": 163800000,
+        "quickOrder": 0
+      },
+      {
+        "name": "Срок доставки",
+        "key": "fdlvr",
+        "minTime": 1,
+        "maxTime": 741,
+        "quickOrder": 0
+      },
+      {
+        "name": "С рейтингом от 4,7",
+        "key": "frating",
+        "type": "toggle",
+        "items": [
+          {
+            "id": 1,
+            "name": "Да"
+          }
+        ],
+        "quickOrder": 0
+      },
+      {
+        "name": "Премиум-продавец",
+        "key": "fpremium",
+        "type": "toggle",
+        "items": [
+          {
+            "id": 1,
+            "name": "Да"
+          }
+        ],
+        "quickOrder": 0
+      },
+      {
+        "name": "Рубли за отзыв",
+        "key": "ffeedbackpoints",
+        "type": "toggle",
+        "items": [
+          {
+            "id": 1,
+            "name": "Да"
+          }
+        ],
+        "quickOrder": 0
+      },
+      {
+        "name": "Скидки WB Клуба",
+        "key": "fpremiumuser",
+        "type": "toggle",
+        "items": [
+          {
+            "id": 1,
+            "name": "Да"
+          }
+        ],
+        "quickOrder": 0
+      },
+      {
+        "name": "Цвет",
+        "key": "fcolor",
+        "maxselect": 20,
+        "items": [
+          {
+            "id": 16119260,
+            "name": "бежевый"
+          },
+          {
+            "id": 16777215,
+            "name": "белый"
+          },
+          {
+            "id": 11393254,
+            "name": "голубой"
+          },
+          {
+            "id": 16776960,
+            "name": "желтый"
+          },
+          {
+            "id": 32768,
+            "name": "зеленый"
+          },
+          {
+            "id": 10824234,
+            "name": "коричневый"
+          },
+          {
+            "id": 16711680,
+            "name": "красный"
+          },
+          {
+            "id": 16753920,
+            "name": "оранжевый"
+          },
+          {
+            "id": 16761035,
+            "name": "розовый"
+          },
+          {
+            "id": 8421504,
+            "name": "серый"
+          },
+          {
+            "id": 255,
+            "name": "синий"
+          },
+          {
+            "id": 15631086,
+            "name": "фиолетовый"
+          },
+          {
+            "id": 0,
+            "name": "черный"
+          }
+        ],
+        "quickOrder": 0
+      },
+      {
+        "name": "Тип видоискателя",
+        "key": "f14518",
+        "maxselect": 20,
+        "items": [
+          {
+            "id": 539860,
+            "name": "цифровой"
+          },
+          {
+            "id": 22603,
+            "name": "электронный"
+          }
+        ],
+        "fullKey": "ff14518",
+        "quickOrder": 0
+      },
+      {
+        "name": "Тип камеры",
+        "key": "f14514",
+        "maxselect": 20,
+        "items": [
+          {
+            "id": 9565365,
+            "name": "пленочная"
+          },
+          {
+            "id": 22598,
+            "name": "цифровая"
+          }
+        ],
+        "fullKey": "ff14514",
+        "quickOrder": 0
+      },
+      {
+        "name": "Количество мегапикселей матрицы",
+        "key": "f366743",
+        "maxselect": 20,
+        "items": [],
+        "fullKey": "ff366743",
+        "quickOrder": 0
+      },
+      {
+        "name": "Тип матрицы",
+        "key": "f13996",
+        "maxselect": 20,
+        "items": [
+          {
+            "id": 22147,
+            "name": "CCD"
+          },
+          {
+            "id": 22148,
+            "name": "CMOS"
+          }
+        ],
+        "fullKey": "ff13996",
+        "quickOrder": 0
+      },
+      {
+        "name": "Питание",
+        "key": "f5556",
+        "maxselect": 20,
+        "items": [
+          {
+            "id": 30861,
+            "name": "без питания"
+          },
+          {
+            "id": 22488,
+            "name": "от аккумулятора"
+          },
+          {
+            "id": 22487,
+            "name": "от батареек"
+          },
+          {
+            "id": 499706,
+            "name": "от прикуривателя автомобиля"
+          },
+          {
+            "id": 404336,
+            "name": "от сети"
+          }
+        ],
+        "fullKey": "ff5556",
+        "quickOrder": 0
+      },
+      {
+        "name": "Режимы видеозаписи",
+        "key": "f4748",
+        "maxselect": 20,
+        "items": [
+          {
+            "id": 3719154,
+            "name": "Full HD"
+          },
+          {
+            "id": 4043159,
+            "name": "HD"
+          }
+        ],
+        "fullKey": "ff4748",
+        "quickOrder": 0
+      },
+      {
+        "name": "Поддержка карт памяти",
+        "key": "f59422",
+        "maxselect": 20,
+        "items": [
+          {
+            "id": 66409,
+            "name": "microSD"
+          }
+        ],
+        "fullKey": "ff59422",
+        "quickOrder": 0
+      },
+      {
+        "name": "Объектив в комплекте",
+        "key": "f15001702",
+        "maxselect": 20,
+        "items": [],
+        "fullKey": "ff15001702",
+        "quickOrder": 0
+      },
+      {
+        "name": "Основная камера (млн. пикс.)",
+        "key": "f62054",
+        "maxselect": 20,
+        "items": [
+          {
+            "id": -21054,
+            "name": "20-24 Мп"
+          }
+        ],
+        "fullKey": "ff62054",
+        "quickOrder": 0
+      }
+    ]
+  },
+  {
+    "id": 557,
+    "name": "Электрическая зубная щетка",
+    "filters": [
+      {
+        "name": "Распродажа",
+        "key": "faction",
+        "maxselect": 255,
+        "items": [
+          {
+            "id": 202422,
+            "name": "ВЫГОДКА"
+          }
+        ],
+        "quickOrder": 0
+      },
+      {
+        "name": "Можно вернуть НДС",
+        "key": "fnds",
+        "type": "toggle",
+        "items": [
+          {
+            "id": 1,
+            "name": "Да"
+          }
+        ],
+        "quickOrder": 0
+      },
+      {
+        "name": "Цена",
+        "key": "priceU",
+        "minPriceU": 6700,
+        "maxPriceU": 163800000,
+        "quickOrder": 0
+      },
+      {
+        "name": "Срок доставки",
+        "key": "fdlvr",
+        "minTime": 1,
+        "maxTime": 741,
+        "quickOrder": 0
+      },
+      {
+        "name": "С рейтингом от 4,7",
+        "key": "frating",
+        "type": "toggle",
+        "items": [
+          {
+            "id": 1,
+            "name": "Да"
+          }
+        ],
+        "quickOrder": 0
+      },
+      {
+        "name": "Оригинальный товар",
+        "key": "foriginal",
+        "type": "toggle",
+        "items": [
+          {
+            "id": 1,
+            "name": "Да"
+          }
+        ],
+        "quickOrder": 0
+      },
+      {
+        "name": "Премиум-продавец",
+        "key": "fpremium",
+        "type": "toggle",
+        "items": [
+          {
+            "id": 1,
+            "name": "Да"
+          }
+        ],
+        "quickOrder": 0
+      },
+      {
+        "name": "Рубли за отзыв",
+        "key": "ffeedbackpoints",
+        "type": "toggle",
+        "items": [
+          {
+            "id": 1,
+            "name": "Да"
+          }
+        ],
+        "quickOrder": 0
+      },
+      {
+        "name": "Скидки WB Клуба",
+        "key": "fpremiumuser",
+        "type": "toggle",
+        "items": [
+          {
+            "id": 1,
+            "name": "Да"
+          }
+        ],
+        "quickOrder": 0
+      },
+      {
+        "name": "Цвет",
+        "key": "fcolor",
+        "maxselect": 20,
+        "items": [
+          {
+            "id": 16119260,
+            "name": "бежевый"
+          },
+          {
+            "id": 16777215,
+            "name": "белый"
+          },
+          {
+            "id": 11393254,
+            "name": "голубой"
+          },
+          {
+            "id": 16776960,
+            "name": "желтый"
+          },
+          {
+            "id": 32768,
+            "name": "зеленый"
+          },
+          {
+            "id": 10824234,
+            "name": "коричневый"
+          },
+          {
+            "id": 16711680,
+            "name": "красный"
+          },
+          {
+            "id": 16753920,
+            "name": "оранжевый"
+          },
+          {
+            "id": 16761035,
+            "name": "розовый"
+          },
+          {
+            "id": 8421504,
+            "name": "серый"
+          },
+          {
+            "id": 255,
+            "name": "синий"
+          },
+          {
+            "id": 15631086,
+            "name": "фиолетовый"
+          },
+          {
+            "id": 0,
+            "name": "черный"
+          }
+        ],
+        "quickOrder": 0
+      },
+      {
+        "name": "Возрастные ограничения",
+        "key": "f19717",
+        "maxselect": 20,
+        "items": [
+          {
+            "id": 27074,
+            "name": "0+"
+          },
+          {
+            "id": 27088,
+            "name": "1+"
+          },
+          {
+            "id": 27089,
+            "name": "2+"
+          },
+          {
+            "id": 27091,
+            "name": "3+"
+          },
+          {
+            "id": 27087,
+            "name": "4+"
+          },
+          {
+            "id": 132126,
+            "name": "+5мес"
+          },
+          {
+            "id": 27085,
+            "name": "5+"
+          },
+          {
+            "id": 27075,
+            "name": "6+"
+          },
+          {
+            "id": 27092,
+            "name": "7+"
+          },
+          {
+            "id": 27086,
+            "name": "8+"
+          },
+          {
+            "id": 63704,
+            "name": "9+"
+          },
+          {
+            "id": 63705,
+            "name": "10+"
+          },
+          {
+            "id": 27076,
+            "name": "12+"
+          },
+          {
+            "id": 67336,
+            "name": "13+"
+          },
+          {
+            "id": 63706,
+            "name": "14+"
+          },
+          {
+            "id": 114994,
+            "name": "15+"
+          },
+          {
+            "id": 27077,
+            "name": "16+"
+          },
+          {
+            "id": 133514,
+            "name": "17+"
+          },
+          {
+            "id": 27078,
+            "name": "18+"
+          }
+        ],
+        "fullKey": "ff19717",
+        "quickOrder": 0
+      },
+      {
+        "name": "Количество режимов работы",
+        "key": "f14980",
+        "maxselect": 20,
+        "items": [
+          {
+            "id": 595045,
+            "name": "1 режим"
+          },
+          {
+            "id": 477771,
+            "name": "2 режима"
+          },
+          {
+            "id": 412229,
+            "name": "3 режима"
+          },
+          {
+            "id": 444311,
+            "name": "4 режима"
+          },
+          {
+            "id": 502245,
+            "name": "5 режимов"
+          },
+          {
+            "id": 3759923,
+            "name": "6 режимов"
+          }
+        ],
+        "fullKey": "ff14980",
+        "quickOrder": 0
+      },
+      {
+        "name": "Питание",
+        "key": "f5556",
+        "maxselect": 20,
+        "items": [
+          {
+            "id": 30861,
+            "name": "без питания"
+          },
+          {
+            "id": 22488,
+            "name": "от аккумулятора"
+          },
+          {
+            "id": 22487,
+            "name": "от батареек"
+          },
+          {
+            "id": 499706,
+            "name": "от прикуривателя автомобиля"
+          },
+          {
+            "id": 404336,
+            "name": "от сети"
+          }
+        ],
+        "fullKey": "ff5556",
+        "quickOrder": 0
+      },
+      {
+        "name": "Тип зубной щетки",
+        "key": "f14983",
+        "maxselect": 20,
+        "items": [
+          {
+            "id": 23326,
+            "name": "звуковая"
+          },
+          {
+            "id": 424235730,
+            "name": "ионная"
+          },
+          {
+            "id": 3924569,
+            "name": "ротационная"
+          },
+          {
+            "id": 23328,
+            "name": "ультразвуковая"
+          }
+        ],
+        "fullKey": "ff14983",
+        "quickOrder": 0
+      },
+      {
+        "name": "Типоразмер элемента питания",
+        "key": "f8606",
+        "maxselect": 20,
+        "items": [
+          {
+            "id": 16846,
+            "name": "AA"
+          },
+          {
+            "id": 16847,
+            "name": "AAA"
+          },
+          {
+            "id": 22546,
+            "name": "B"
+          },
+          {
+            "id": 17182,
+            "name": "C"
+          },
+          {
+            "id": 5131256,
+            "name": "DC"
+          },
+          {
+            "id": 242723,
+            "name": "ICR18650"
+          }
+        ],
+        "fullKey": "ff8606",
+        "quickOrder": 0
+      },
+      {
+        "name": "Движение головки",
+        "key": "f62967",
+        "maxselect": 20,
+        "items": [
+          {
+            "id": 198232,
+            "name": "вибрирующие"
+          },
+          {
+            "id": 30960530,
+            "name": "возвратно-вращательное"
+          },
+          {
+            "id": 89769,
+            "name": "выметающие"
+          },
+          {
+            "id": 69945,
+            "name": "высокочастотные колебания"
+          },
+          {
+            "id": 523305,
+            "name": "пульсирующее"
+          }
+        ],
+        "fullKey": "ff62967",
+        "quickOrder": 0
+      },
+      {
+        "name": "Возрастная группа",
+        "key": "f73245",
+        "maxselect": 20,
+        "items": [
+          {
+            "id": 78956,
+            "name": "для взрослых"
+          },
+          {
+            "id": 412006,
+            "name": "для всех возрастов"
+          },
+          {
+            "id": 78955,
+            "name": "для детей"
+          },
+          {
+            "id": 78957,
+            "name": "для подростков"
+          }
+        ],
+        "fullKey": "ff73245",
+        "quickOrder": 0
+      },
+      {
+        "name": "Жесткость щетины",
+        "key": "f174599",
+        "maxselect": 20,
+        "items": [
+          {
+            "id": 175026,
+            "name": "жесткая"
+          },
+          {
+            "id": 175028,
+            "name": "мягкая"
+          },
+          {
+            "id": 175027,
+            "name": "средняя"
+          },
+          {
+            "id": 432872,
+            "name": "ультрамягкая"
+          }
+        ],
+        "fullKey": "ff174599",
+        "quickOrder": 0
+      },
+      {
+        "name": "Форма чистящей головки",
+        "key": "f15001992",
+        "maxselect": 20,
+        "items": [
+          {
+            "id": 1002308594,
+            "name": "круглая"
+          },
+          {
+            "id": 1002309027,
+            "name": "овальная"
+          },
+          {
+            "id": 1002309354,
+            "name": "цилиндрическая"
+          }
+        ],
+        "fullKey": "ff15001992",
+        "quickOrder": 0
+      },
+      {
+        "name": "Доп. опции электрической зубной щетки",
+        "key": "f62970",
+        "maxselect": 20,
+        "items": [
+          {
+            "id": 1002981587,
+            "name": "влагозащитный корпус"
+          },
+          {
+            "id": 3739663,
+            "name": "датчик нажима"
+          },
+          {
+            "id": 69949,
+            "name": "датчик определения зоны чистки"
+          },
+          {
+            "id": 2799595,
+            "name": "деликатная чистка"
+          },
+          {
+            "id": 3791035,
+            "name": "зарядка от USB"
+          },
+          {
+            "id": 2799597,
+            "name": "индикатор уровня заряда"
+          },
+          {
+            "id": 547952831,
+            "name": "индикация включения"
+          },
+          {
+            "id": 3739665,
+            "name": "индикация износа насадки"
+          },
+          {
+            "id": 947130107,
+            "name": "индикация режима работы"
+          },
+          {
+            "id": 3676374,
+            "name": "массаж дёсен"
+          },
+          {
+            "id": 11575083,
+            "name": "низкий уровень шума"
+          },
+          {
+            "id": 143086,
+            "name": "подсветка"
+          },
+          {
+            "id": 69953,
+            "name": "полировка/отбеливание"
+          },
+          {
+            "id": 634658,
+            "name": "прорезиненная ручка"
+          },
+          {
+            "id": 69948,
+            "name": "синхронизация с мобильным приложением"
+          },
+          {
+            "id": 11423138,
+            "name": "сменные насадки"
+          },
+          {
+            "id": 69947,
+            "name": "таймер"
+          }
+        ],
+        "fullKey": "ff62970",
+        "quickOrder": 0
+      }
+    ]
+  }
+]
